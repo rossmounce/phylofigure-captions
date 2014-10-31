@@ -1,0 +1,1 @@
+"pone.0058003.g002.png","The phylogenetic relationships of the plants with completely sequenced genomes.The number in parentheses corresponds to the number of XB3-like genes in each species."

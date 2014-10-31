@@ -1,0 +1,1 @@
+"FIGURE 3. Phylogram inferred from Bayesian analysis of combined mitochondrial (cytochrome b + 16S) and nuclear (Rag 1) data under model GTR+I+G. Posterior probability and bootstrap values (expressed as percentages) are given above and below branches, respectively."

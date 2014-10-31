@@ -1,0 +1,1 @@
+"FIGURE 78. Neighbour-joining tree based on COI sequences. The Kimura-2 substitution model is applied. Numbers at nodesindicate bootstrap support based on 1000 replications. The Thaumatotibia leucotreta sequence used as outgroup is taken fromGenbank, accession number is given."

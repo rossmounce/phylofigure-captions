@@ -1,0 +1,1 @@
+"pone.0070229.g004.png","Maximum likelihood phylogenetic trees.Maximum likelihood (ML) phylogenetic relationships of the Aime-MHC class II alpha (A) and beta (B) alleles. Bootstrap values less than 50 (50%) are not shown."

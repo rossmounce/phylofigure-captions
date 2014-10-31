@@ -1,0 +1,1 @@
+"pone.0084399.g001.png","Phylogenetic tree of 16S rRNA from 35 different strains.The phylogenetic tree is constructed using the molecular evolutionary genetics analysis tool (MEGA 4.1) by neighbor joining (NJ) method [19]. The repeated bootstrapping for 1,000 times was performed."

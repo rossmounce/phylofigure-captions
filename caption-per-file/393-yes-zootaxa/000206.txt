@@ -1,0 +1,1 @@
+"FIGURE 11. Phylogenetic tree obtained from MP analyses of the 16S rDNA haplotypes given in Table 1. In the phylogeneticanalyses S. bella, P. distincta and B. turkiyae used to as outgroups. Bootstrap (MP, ML) and posterior probability (BI) support(those lower than 50% indicated by an *) to branches are shown as MP / ML / BI respectively."

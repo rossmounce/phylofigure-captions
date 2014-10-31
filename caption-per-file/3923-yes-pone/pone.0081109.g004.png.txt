@@ -1,0 +1,1 @@
+"pone.0081109.g004.png","A phylogenetic tree of SP/KLF proteins with the human Wilms’ tumor protein (human_WT1) as an out-group.Branch support values 80 or above are in bold. Each protein node is denoted by the species name followed by the protein name."

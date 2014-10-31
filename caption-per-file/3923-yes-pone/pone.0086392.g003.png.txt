@@ -1,0 +1,1 @@
+"pone.0086392.g003.png","Maximum likelihood trees showing phylogenetic comparisons of the amino acid of cytochrome oxidase I (COXI) of arthropods.ML tree of COXI of 3 groups of arthropods which transmit orbiviruses (ticks, mosquitoes and Culicoids). The scale bar represents the number of substitutions per site."

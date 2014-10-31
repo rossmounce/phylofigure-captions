@@ -1,0 +1,1 @@
+"pone.0023518.g003.png","Maximum-likelihood phylogeny of porphobilinogen deaminase from representative Betaproteobacteria, the endosymbiotic C. Kinetoplastibacterium sp., and Alpha- and Gammaproteobacteria as outgroups. Numbers on the branches represent bootstrap support from analysis of 100 pseudo-replicates (only values of 50 or more shown)."

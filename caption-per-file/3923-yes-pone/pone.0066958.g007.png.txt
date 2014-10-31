@@ -1,0 +1,1 @@
+"pone.0066958.g007.png","Phylogenetic analysis based on nucleotide sequences of ORFV059.The phylogenetic relationship was constructed by Maximum Likelihood Method using MEGA 5.0 software. Black circles: 11 different orf isolates from Fujian Province (China) and two orf isolates from other provinces."

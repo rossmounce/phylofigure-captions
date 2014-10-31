@@ -1,0 +1,1 @@
+"pone.0082333.g004.png","The gl13 gene encodes a putative ABC transporter G family protein.The amino acid sequence of the 2 GL13 isoforms (GRMZM2G118243_P01 and GRMZM2G118243_P02) were aligned to 9 homologs downloaded from GenBank (Table S2). Neighbor-joining analysis was used to generate a phylogenetic tree, which was bootstrapped over 1,000 cycles, using MEGA5.0."

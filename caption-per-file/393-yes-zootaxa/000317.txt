@@ -1,0 +1,1 @@
+"FIGURE 1. Bootstrapped Neighbour Joining (NJ) tree constructed using the Kimura 2-parameter (K2P) genetic distances of the DNA barcoding region profile (606bp) for 25 species of the subgenus Trichodagmia (as proposed in Hernández, 2011),three species for the subgenus Aspathia, and nine species for the subgenus Simulium s.str. Six species complexes and two"

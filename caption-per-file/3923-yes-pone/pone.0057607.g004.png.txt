@@ -1,0 +1,1 @@
+"pone.0057607.g004.png","The MP phylogenetic tree of the asterid clade based on 71 protein-coding genes.The MP tree has a length of 36,088, with a consistency index of 0.6628 and a retention index of 0.7561. Numbers above each node are bootstrap support values. Spinacia oleracea and Arabidopsis thaliana were set as outgroups."

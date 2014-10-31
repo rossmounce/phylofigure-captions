@@ -1,0 +1,1 @@
+"pone.0072825.g005.png","Schematic representation of phylogenetic relationships among several plant lineages of rosids, taken from a previous report [41].Species are indicated with (+) and (−), according to the presence or absence of RIPs genes, respectively. Red lines represent the inferred RIP gene loss events."

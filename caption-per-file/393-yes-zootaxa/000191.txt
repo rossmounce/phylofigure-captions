@@ -1,0 +1,1 @@
+"FIGURE 3. Maximum-likelihood (ML) tree inferred from mitochondrial DNA sequence data. Numbers on branches are MLbootstrap values and Bayesian posterior probabilities, respectively. Asterisks indicate > 95% support in ML analysis and >0.99 support in Bayesian inference. The genera Laotriton and Paramesotriton are included as outgroups."

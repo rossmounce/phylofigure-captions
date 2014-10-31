@@ -1,0 +1,1 @@
+"pone.0020774.g001.png","Cartoon of parabasalid evolutionary relationships summarized from published phylogenies. The consensus backbone phylogenies shown are derived from (A) 18S rDNA [10], [37], and (B) concatenated 18S rDNA genes and enolase, GAPDH, α- and β-tubulin proteins [11]. Dotted lines indicate prior results without 18S rDNA [7]."

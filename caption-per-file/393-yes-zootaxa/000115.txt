@@ -1,0 +1,1 @@
+"FIGURE 7. Timetree of Neotropical skinks (Mabuyidae, Mabuyinae) using the data and topology of the full (four-gene) dataset from Fig. 5. Divergence times (indicated on nodes) are in millions of years and are averages of the results of two Bayesian analyses (independent and autocorrelated rates). Bayesian credibility intervals (gray bars) are composites of the intervals"

@@ -1,0 +1,1 @@
+"pone.0030813.g002.png","Time-calibrated phylogeny. Highest density probability (95% HPD) intervals are provided for each node as well as the posterior probabilities, stars represent strong support (p.p.>0.95)."

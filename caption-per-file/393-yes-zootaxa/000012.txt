@@ -1,0 +1,1 @@
+"FIGURE 7. Maximum likelihood phylogenetic tree of coxI using a GTR model of evolution, including newly sequenced S.korab sp. n., S. neglecta and S. graeca, and highly ranked sequences according to blastn queries (with GenBank alphanumeric accession codes). Numbers on the branches are values of bootstrap support from maximum likelihood analysis."

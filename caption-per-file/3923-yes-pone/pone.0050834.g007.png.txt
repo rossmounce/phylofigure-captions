@@ -1,0 +1,1 @@
+"pone.0050834.g007.png","ML phylogram of H6 sequences from North America and Eurasia including U.S. surveillance samples.ML phylogram of influenza A subtype H6. Branch lengths represent genetic distance. Dots show nodes with significant bootstrap support."

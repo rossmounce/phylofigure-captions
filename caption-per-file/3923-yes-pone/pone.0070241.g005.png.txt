@@ -1,0 +1,1 @@
+"pone.0070241.g005.png","Neighbor-joining phylogenetic analysis of Campylobacters based on their core genes.Only the conserved regions of the orthologous core protein sequences were used to construct this genome-wide tree. Bootstrap values (in percent) of 1000 simulations are indicated at all branches. Bar represents 0.06 amino acid substitutions per site."

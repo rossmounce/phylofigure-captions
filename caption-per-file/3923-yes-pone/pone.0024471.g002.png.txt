@@ -1,0 +1,1 @@
+"pone.0024471.g002.png","Phylogenetic tree of the HA domain of the A/H3N2 strains from Corsica Island. Maximum likelihood phylogenetic tree analysis of HA genes of A/H3N2 strains circulating in Corsica Island from 2006 to 2009 (• represents vaccine strains)."

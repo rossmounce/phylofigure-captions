@@ -1,0 +1,1 @@
+"pone.0066958.g004.png","A serum titer clustering tree of 15 different farms based on average serum titers to orf.The phylogenetic relationship was constructed by using the NJ program of MEGA version 5.0."

@@ -1,0 +1,1 @@
+"pone.0021151.g004.png","Rooted phylogenetic tree based on the full-length GBV-C genome sequences of 48 isolates. The isolate GBV-C tro (Genbank accession no. AF070476) was used as an outgroup. The symbol//indicates a trimmed branch. Putative recombinant isolates are boxed with dashed lines. Otherwise all the labels are as the same as shown in figure 2."

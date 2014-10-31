@@ -1,0 +1,1 @@
+FIGURE 7 Phylogenetic relationships based on rDNA among sequences of P. fontanesii and other homolog sequences of thePoritidae. Numbers at each node represent a posteriori probabilities obtained from a Bayesian analysis (above) and bootstrapvalues obtained from a Maximum Likelihood analysis (below). The clades described by Forsman et al. (2009) are indicated.

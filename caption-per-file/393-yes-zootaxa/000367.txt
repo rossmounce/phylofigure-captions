@@ -1,0 +1,1 @@
+"FIGURE 40. Neighbor-joining trees of the Teleiopsis (implemented under Kimura 2 Parameter model) of nuclear genes CAD,EF-1a, IDH, MDH and wingless."

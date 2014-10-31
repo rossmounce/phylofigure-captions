@@ -1,0 +1,1 @@
+"pone.0079348.g003.png","The phylogenetic hypotheses derived from the 7-species data.Amino-acid and nucleotide sequences were analyzed by maximum parsimony (MP) and maximum likelihood (ML) methods, respectively. Numbers near the nodes are bootstrap values."

@@ -1,0 +1,1 @@
+"pone.0039298.g004.png","Phylogenetic analysis of mammalian immunoglobulin gamma genes.The phylogenetic tree was constructed from the amino acid sequences of the CH2 and CH3 exons with various mammalian species immunoglobulin gamma gene. The guinea pig IgG genes were clustered with rodents IgG genes."

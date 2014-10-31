@@ -1,0 +1,1 @@
+"pone.0037544.g003.png","All-genes BI phylogram.All nodes have Bayesian PP values  = 1.00; ML bootstrap values are listed in italics. The outgroup species Gyrinophilus porphyriticus, Pseudotriton ruber and Stereochilus marginatus are not shown."

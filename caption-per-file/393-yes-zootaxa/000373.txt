@@ -1,0 +1,1 @@
+FIGURE 4. Phylogenetic reconstruction based on maximum likelihood analysis of Cytochrome c oxidase subunit I sequences. Up to three figures are written above or under branches or to the right of bars connecting taxa. The first figure (in plain font) isthe Bayesian posterior probability multiplied by 100 for legibility. The second (in bold font) if present is the maximum

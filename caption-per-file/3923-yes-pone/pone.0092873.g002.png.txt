@@ -1,0 +1,1 @@
+"pone.0092873.g002.png","Estimation of positive selection during MRFs evolution.The branches were estimated for positive selection in the following: A) vertebrate MRFs phylogeny, B) vertebrate MyoD; and, C) vertebrate MyoG. All the branches with a ω-ratio significantly greater than 1 are marked with arrows and letters corresponding to those in Table 1 and Table 2."

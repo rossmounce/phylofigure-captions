@@ -1,0 +1,1 @@
+"pone.0041244.g004.png","Maximum likelihood phylogeny.Maximum likelihood phylogeny and bootstrap support values based on 1000 pseudoreplicates of the alignment of hsp65 gene nucleotide sequences. Sequences generated from the Maiden’s swab samples are shown in bold, larger font, and marked with an asterisk."

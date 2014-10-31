@@ -1,0 +1,1 @@
+"pone.0040153.g002.png","Maximum likelihood inferred phylogenetic tree based on the 16S-23S ITS of M. vaginatus.Maximum likelihood/neighbour joining bootstrap supports greater than 50% are shown at the nodes. The studied strains are in bold. The geographical origin of each strain is indicated as E – Europe, A – Asia, and NA – North America."

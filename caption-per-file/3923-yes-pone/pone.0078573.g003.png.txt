@@ -1,0 +1,1 @@
+"pone.0078573.g003.png","Simplified consensus phylogeny of Sauropoda at the genus level, containing only the best known and complete genera.Based on information in [21], [33], [36], [38], [39], [40], [188]. Dots indicate higher taxa. Note that no distinction is made between node-based and stem-based taxa."

@@ -1,0 +1,1 @@
+"pone.0062548.g003.png","Maximum likelihood phylogeny of 78 plastome genes from 11 families (6 orders) of asterids.All nodes, except the one uniting Gentianales and Lamiales, received 100% bootstrap support. Gene loss events are mapped onto the tree in the most parsimonious way."

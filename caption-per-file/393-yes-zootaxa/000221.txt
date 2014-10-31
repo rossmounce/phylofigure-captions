@@ -1,0 +1,1 @@
+FIGURE 2. The 10001st Bayesian tree inferred from COI under GTR+I+G model (lnL = 3747.6218; freqA = 0.2052;freqC = 0.1096; freqG = 0.1914; freqT = 0.4938; R(a) = 1.2359; R(b) = 7.3123; R(c) = 1.6313; R(d) = 0.0686; R(e) = 4.0952; R(f) = 1;Pinva = 0.5561; Shape = 1.7992). Posterior probability values exceeding 50% are given on appropriate clades.

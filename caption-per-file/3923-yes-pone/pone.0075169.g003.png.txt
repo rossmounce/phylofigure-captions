@@ -1,0 +1,1 @@
+"pone.0075169.g003.png","Maximum likelihood phylogenetic tree for Carcharhinusbrevipinna haplotypes.Nodal bootstrap support is displayed where ≥ 70%. Scale represents the proportion of polymorphic sites between haplotypes."

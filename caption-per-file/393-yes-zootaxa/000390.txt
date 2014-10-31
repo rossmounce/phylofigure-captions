@@ -1,0 +1,1 @@
+"FIGURE 3. Maximum-likelihood tree of Cameraria + Phyllonorycter based on 40 taxa, for the COI data set alone. African species are genetically distinct, as shown by the long internal branch lengths among taxa boxed in grey. ML bootstrap valuesshow above branches. Scale bar  =  0.08 substitutions / site."

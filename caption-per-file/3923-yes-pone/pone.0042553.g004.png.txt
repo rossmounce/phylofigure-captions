@@ -1,0 +1,1 @@
+"pone.0042553.g004.png","Median-joining phylogenetic network of the 16 haplotypes at at the exon 1 region.Each haplotype is represented by a circle with its area proportional to its frequency. The ancestral haplotype is outlined by a black line. The two haplotypes in the ellipse are the haplotypes that carry the derived allele at SNPs rs143383 and rs143384."

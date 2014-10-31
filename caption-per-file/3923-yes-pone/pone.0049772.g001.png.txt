@@ -1,0 +1,1 @@
+"pone.0049772.g001.png","Topology of Gymnophthalmidae used in the phylogenetic analysis.Branch colors represent the elongation groups detected using the morphological component (morphPC): less-elongated species are shown in black and more-elongated species in gray. Asterisks represent the subfamilies Rhachisaurinae (*) and Alopoglossinae (**); taxonomy adopted follows [31]."

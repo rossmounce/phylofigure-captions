@@ -1,0 +1,1 @@
+"pone.0040838.g002.png","Reconstruction of the ancestral state of the colony size trait.The reconstruction was based on both topology and branch lengths of the Bayesian phylogenetic trees. In parenthesis is shown the mean value and standard error for the continuous character reconstruction."

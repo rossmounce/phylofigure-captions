@@ -1,0 +1,1 @@
+FIGURE 4. 50%-majority consensus tree derived from a Bayesian inference analysis of 590 bp of the mitochondrial ND2gene. Brookesia minima was used as outgroup. Bayesian posterior probabilities are followed by the bootstrap support values>50 from Maximum Parsimony analysis. Sequences of the B. decaryi group retrieved from Genbank are marked with their

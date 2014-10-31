@@ -1,0 +1,1 @@
+"pone.0048254.g001.png","Minimum evolutionary tree using a bootstrap analysis for the putative novel Rickettsia species.The nearest GenBank sequences (showed at the end of the Rickettsia name) were aligned using the multi-sequence alignment ClustalX and BioEdit programs. The phylogenetic tree was constructed using parsimony and maximum-likelihood methods."

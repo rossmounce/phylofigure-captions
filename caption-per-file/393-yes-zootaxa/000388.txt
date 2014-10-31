@@ -1,0 +1,1 @@
+"FIGURE 3. Phylogenetic relationships of all specimens analyzed according to sequence variation across combined mitochondrial and nuclear regions (cytb, Rag1, S7 and Rhod); best RAxML tree using GTR+I+G model. Numbers on the branches are ML bootstrapsupport (BS > 70%) and Bayesian posterior probabilities (PP > 85%). Asterisks are given when all values were 100%; “-“ are given"

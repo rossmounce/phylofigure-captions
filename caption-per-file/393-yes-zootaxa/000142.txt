@@ -1,0 +1,1 @@
+"FIGURE 1. Neighbor-joining tree (implemented under K2P model) of 61 barcoded specimens of E. cinereana and 45 barcoded specimens of E. nisella. The height of the terminal triangles is proportional to the number of individuals, the depth of the triangles to variation within the lineage. The scale bar indicates 1% change in nucleotide composition."

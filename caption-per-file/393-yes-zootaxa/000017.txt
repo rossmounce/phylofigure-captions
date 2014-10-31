@@ -1,0 +1,1 @@
+"FIGURE 10. Phylogram obtained with MrBayes. Above nodes, Bayesian posterior probabilities (when > 0.5)  /  bootstrap support values in Garli (when > 50%). “-”, node not resolved; “x”, node not present. See Table 1 for the localities and voucher reference of the specimens.

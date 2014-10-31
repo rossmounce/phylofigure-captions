@@ -1,0 +1,1 @@
+"pone.0081756.g002.png","Phylogenetic analyses between four TaG3Pdhs and G3Pdh member proteins from Arabidopsis and rice.Amino acid sequences were aligned using ClustalW and constructed phylogenetic tree using neighbor-joining method by molecular evolutionary genetics analysis (MEGA). The four TaG3Pdhs were grouped into four units."

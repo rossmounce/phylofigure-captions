@@ -1,0 +1,1 @@
+"pone.0031030.g008.png","Maximum likelihood phylogenetic tree of all identified CApy orthologs. Numbers at the nodes represent bootstrap support (only numbers above 50 are shown)."

@@ -1,0 +1,1 @@
+"pone.0016548.g002.png","Number of core histone genes and introns in the gene. The numbers in parentheses indicate the number of introns within each gene. The phylogenetic topology is based on Fig. 1."

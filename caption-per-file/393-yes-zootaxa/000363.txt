@@ -1,0 +1,1 @@
+"FIGURE 8. Maximum-likelihood tree based on the 867bp sequences of the mitochondrial 12S rRNA and 16S rRNA genes of genus Rugosa. Numeral at each node denotes the bootstrap support (% in 1000 replicates). R. susurra indicates a specimen from Akitsu in Sado Island (AB430349). East-Japan (AB430340), West-Japan (AB430341), XY (AB430342), Neo-ZW"

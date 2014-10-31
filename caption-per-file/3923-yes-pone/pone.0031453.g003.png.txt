@@ -1,0 +1,1 @@
+"pone.0031453.g003.png","Bayesian phylogenetic analysis of A. draco and A. ilex based on cyt-b sequences. Branch lengths represent substitution per site and numbers at each node represent the Bayesian posterior probabilities and ML bootstrap values. A ‘-’ indicates the value is lower than 0.5 (PP) or 50 (BS)."

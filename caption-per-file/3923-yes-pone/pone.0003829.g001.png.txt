@@ -1,0 +1,1 @@
+"pone.0003829.g001.png","Molecular phylogeny of S. enterica serovars.ML trees constructed based on dnaB, 16S rRNA, sipD and the consensus tree of SPI-1 to SPI-5 genes. Numbers inside the trees represent support values for the internal branches. Scale bars represent ML distance."

@@ -1,0 +1,1 @@
+"FIGURE 13. Frequency distribution of pairwise sequence divergences in eastern Nearctic Fuscopolistes (based on sequencesin Figs 9 and 10). Inter- and intraspecific sequence divergences broadly overlap and do not form separate, distinguishable peaks(i.e., there is no 'barcoding gap'). The isolated peak around 7.5% sequence divergence is caused by comparisons of Polistes"

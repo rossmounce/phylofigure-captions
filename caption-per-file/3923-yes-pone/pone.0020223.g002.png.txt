@@ -1,0 +1,1 @@
+"pone.0020223.g002.png","Neighbour-joining phylogenetic rooted tree based on 16S rRNA sequences (about 1475 nt) showing the taxonomic location of the species included in this study. Bootstrap values calculated for 1000 replications are indicated. Bar, 1 nt substitution per 100 nt. Accesion numbers from Genbank are given in brackets."

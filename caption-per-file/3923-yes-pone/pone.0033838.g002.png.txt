@@ -1,0 +1,1 @@
+"pone.0033838.g002.png","The phylogenetic relationship of GsAPK and all SnRK2 family members of soybean and Arabidopsis. An unrooted neighbor-joining tree was built using MEGA 4.0. Sequences and phylogenic data are as described in Figure 1."

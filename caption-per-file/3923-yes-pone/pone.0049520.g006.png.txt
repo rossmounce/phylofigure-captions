@@ -1,0 +1,1 @@
+"pone.0049520.g006.png","Maximum likelihood phylogenetic tree based on rrs (16S rRNA) gene sequences (1348 nt) showing the position of strains isolated from Dimorphandra wilsonii nodules within the genus Bradyrhizobium."

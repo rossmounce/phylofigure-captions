@@ -1,0 +1,1 @@
+"FIGURE 3. Predicted secondary structure of the lrRNA in A. heissi. Roman numerals denote the conserved domain structure.The numbering system follows Gillespie et al. (2006) (established at the Comparative RNA Website). Dashed (–) indicate Watson-Crick base pairing and G-U base pairing ,other non-canonical interactions are joined by a dot (•)."

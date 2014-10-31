@@ -1,0 +1,1 @@
+"pone.0037725.g006.png","Maximum likelihood phylogenies constructed from dinoflagellates SSU rDNA sequences for trentepohlialean taxa.Numbers at nodes represent posterior probabilities/bootstrap support values from Bayesian Inference and Maximum Likelihood. Only values above 0.50 are shown."

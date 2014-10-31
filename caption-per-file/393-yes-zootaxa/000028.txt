@@ -1,0 +1,1 @@
+"FIGURE 10. Phylogenetic relationship of P. fusca n. sp. and P. occulta, inferred by neighbor-joining analysis, with P. straminea as outgroup. Black circles ̶  bootstrap values > 95 after 1000 iterations. Scale bar ̶  nucleotide substitutions per site."

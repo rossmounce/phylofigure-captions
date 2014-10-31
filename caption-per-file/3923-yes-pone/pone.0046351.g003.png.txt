@@ -1,0 +1,1 @@
+"pone.0046351.g003.png","12S phylogenetic tree constructed with MRBAYES.Numbers on branches indicate posterior probabilities and regions are indicated on the right."

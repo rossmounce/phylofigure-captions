@@ -1,0 +1,1 @@
+"pone.0049975.g003.png","Maximum likelihood phylogenetic tree of the LRAT superfamily (the WAG substitution model, the complete deletion option, the uniform rate of substitutions option as implemented in the MEGA5 program).The numbers for the interior branches refer to the bootstrap values with 1,000 pseudoreplicates."

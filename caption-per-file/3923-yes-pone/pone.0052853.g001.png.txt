@@ -1,0 +1,1 @@
+"pone.0052853.g001.png","Phylogenetic tree based on archaeal amoA gene sequences from the variable samples on the global level using the maximum likelihood (ML) criterion.The credible support over 70% for each node was indicated with round circle on the node. The outer color circle around the phylogenetic tree suggested the different habitats."

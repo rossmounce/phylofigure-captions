@@ -1,0 +1,1 @@
+"pone.0033973.g008.png","Phylogeny from mitochondrial genome sequences.Numbers above the branches show support for the phylogenies from amino acid sequences whereas numbers below the branches show support for phylogenies from nucleotide sequences: Bayesian posterior probability/ML bootstrap support values/NJ bootstrap support values. Only support above 50% is shown only."

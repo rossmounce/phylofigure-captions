@@ -1,0 +1,1 @@
+FIGURE 150. Strict consensus tree of three equally parsimonious trees found in the phylogenetic analysis. Bremer support values are shown above the branches and bootstrap values >50% are shown in bold below the branches.

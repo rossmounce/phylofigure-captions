@@ -1,0 +1,1 @@
+"pone.0019051.g001.png","Circular phylogenetic tree at level of genus. The tree was generated with RAxML and viewed in ITOL [27]. Genera are color-coded by phyla, except for the Firmicutes and Proteobacteria, which are shown at the level of class."

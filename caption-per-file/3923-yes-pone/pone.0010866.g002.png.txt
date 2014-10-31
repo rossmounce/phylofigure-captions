@@ -1,0 +1,1 @@
+"pone.0010866.g002.png","PCNA phylogeny, rooted between the Archaea and the eukaryotes.Tree produced using RAxML [63]. Note the proliferation of distinct subunit types in the Crenarchaeota."

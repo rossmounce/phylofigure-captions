@@ -1,0 +1,1 @@
+"pone.0034544.g004.png","Molecular clock phylogeny of hMPV_A2.The phylogeny was reconstructed using hMPV G sequences longitudinally sampled between 1981 and 2009. Branch lengths are expressed in unit of time."

@@ -1,0 +1,1 @@
+"pone.0083444.g001.png","An unrooted phylogenetic tree of AP2/ERF family proteins in B. rapa.The complete sequences of 281 AP2/ERF family proteins identified in this study were aligned by ClustalW and the phylogenetic tree was constructed using the neighbor-joining method with MEGA5.0 software."

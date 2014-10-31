@@ -1,0 +1,1 @@
+"FIGURE 9. Relationships tree of Palaeopoecilostola species. Filled circles indicate synapomorphies or autapomorphies; open circles indicate homoplastic states; above branch, italics, Bremer support values; below branch, italics, bootstrap value."

@@ -1,0 +1,1 @@
+"FIGURE 1. The best likelihood tree (-ln L  =  154361.268266) resulting from partitioned maximum likelihood analysis. Numbers at branches indicate the bootstrap values from the maximum likelihood bootstrap analysis (1,000 replicates). “–”denotes node with support value lower than 50%. Species of the genera Discherodontus, Chagunius, and Hypselobarbus are"

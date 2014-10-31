@@ -1,0 +1,1 @@
+FIGURE 2. Bayesian phylogram for Nactus inferred from published and newly generated mitochondrial DNA sequence data(ND2; 740 bp). Table 4 lists the novel sequences; all others were from Genbank and previously reported in Heinicke et al.(2010). Numbers on the branches indicate posterior probabilities (PP) greater than 0.80 (PP> 0.95 are considered statistically

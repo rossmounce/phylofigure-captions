@@ -1,0 +1,1 @@
+"pone.0033446.g002.png","Unrooted phylogenetic trees estimated by maximum likelihood. A) Male isoform. B) Female isoform. The foreground branch is marked by an asterisk (*). The branch lengths are as nucleotide substitutions per nucleotide site."

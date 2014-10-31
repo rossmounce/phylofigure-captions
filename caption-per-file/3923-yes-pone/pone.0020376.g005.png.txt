@@ -1,0 +1,1 @@
+"pone.0020376.g005.png","Phylogenetic relationships among cpe-positive or cpe-negative C. perfringens strains containing C. perfringens type B to E strains. The phylogenetic tree was constructed by Clustal W analysis based on the concatenated nucleotide sequence of eight housekeeping genes as described previously [8]."

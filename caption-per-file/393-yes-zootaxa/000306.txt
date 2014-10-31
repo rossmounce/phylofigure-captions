@@ -1,0 +1,1 @@
+"FIGURE 1. Bayesian phylogenetic tree obtained with the COI, 16S and 28S genes. Posterior probabilities > 0.90 are indicated for each node."

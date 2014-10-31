@@ -1,0 +1,1 @@
+"pone.0077156.g002.png","Pretest phylogenetic results for Asiatic water shrews.The results of an analysis of mitochondrial DNA cytochrome b sequences via the maximum likelihood method with 1,000 bootstrap replicates are shown. (a) Consensus tree and (b) 50% condensed tree. Numbers on nodes indicate bootstrap support values."

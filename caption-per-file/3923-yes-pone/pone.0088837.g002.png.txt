@@ -1,0 +1,1 @@
+"pone.0088837.g002.png","Summary of gene loss and gene gain events across the phylogenetic tree.Ancestral genome contents were reconstructed based on the phylogenetic tree in Figure 1 by maximum parsimony. Gene loss and gain events are summarized on the branches leading to the major clades of Prochlorococcus. The number in black is gene gain and the number in red is gene loss."

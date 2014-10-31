@@ -1,0 +1,1 @@
+"pone.0078613.g005.png","UniFrac distance based hierarchical clustering (UPGMA) of the resident microbiota.The resident community data was extracted from a rarified dataset based on Greengenes phylogeny assignment."

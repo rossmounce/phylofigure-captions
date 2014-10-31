@@ -1,0 +1,1 @@
+"pone.0050697.g005.png","Discover the target genes with high homology using the phylogenetic tree (Three couples of homologous genes were identified: NM_002559 and NM_053656, NM_005339 and NM_003348, NM_012864a and NM_012864b)."

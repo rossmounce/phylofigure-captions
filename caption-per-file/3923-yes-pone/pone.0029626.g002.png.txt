@@ -1,0 +1,1 @@
+"pone.0029626.g002.png","Evolutionary relationship of Oenococcus kitaharae and members of the LAB family. (A) The distribution of BLAST best-hits by genus for each ORF predicted in the O. kitaharae genome. (B) Whole genome phylogenetic relationship between O. kitaharae and other LAB based upon a conserved group of 95 proteins."

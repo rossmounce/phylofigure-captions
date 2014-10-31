@@ -1,0 +1,1 @@
+"pone.0020096.g003.png","SxtA1 phylogenetic tree. Schematic representation, drawn to scale (for full tree see Supporting Information S1). Maximum likelihood topology is shown. Numbers on nodes represent bootstrap values of maximum likelihood and Bayesian analyses, respectively."

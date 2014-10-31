@@ -1,0 +1,1 @@
+"FIGURE 2. A) Maximum parsimony and B) Maximum likelihood best trees for 42 terminals, including 38 samples of 36 species of Dendropsophus, inferred from the 16S and 12S rRNA genes (see methods). Numbers above nodes are bootstrap values.In red are members of the D. parviceps group, and Dendropsophus frosti sp. nov. is highlighted in bold red."

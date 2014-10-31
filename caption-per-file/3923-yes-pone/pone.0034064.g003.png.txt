@@ -1,0 +1,1 @@
+"pone.0034064.g003.png","Phylogeny based domain classification. A) KS domain phylogeny. Polyphyletic groups are distinguished by letters. B) C domain phylogeny."

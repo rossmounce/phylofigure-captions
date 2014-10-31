@@ -1,0 +1,1 @@
+"pone.0062421.g016.png","Results of phylogenetic analysis 1, retaining character state codings from Thompson et al. [32].Strict consensus and 50% majority rule trees shown, with frequencies, bootstrap supports, and Bremer supports."

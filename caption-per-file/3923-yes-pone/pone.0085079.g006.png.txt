@@ -1,0 +1,1 @@
+"pone.0085079.g006.png","Distance neighbor-joining tree showing the phylogeny of a SID-like contig of A. grandis (A_grandis_454_c2889) and SID-like proteins of the insects T. castaneum, B. impatiens, A. mellifera, L. migratoria, B. mori, A. gossypii, H. saltator, Camponotus floridanus.The percentage of percentage of bootstrap confidence values is shown at the nodes."

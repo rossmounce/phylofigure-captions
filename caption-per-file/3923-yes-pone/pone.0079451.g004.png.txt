@@ -1,0 +1,1 @@
+"pone.0079451.g004.png","trnL-F phylogeny of Rhodiola. Maximum likelihood bootstrap values shown above branches; Bayesian posterior probabilities shown below branches.Cotyledon campanulata was used as an outgroup. Rhodiola rosea and R. rhodantha are blocked in gray and the subspecies of R. integrifolia are labeled."

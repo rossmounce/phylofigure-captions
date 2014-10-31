@@ -1,0 +1,1 @@
+"pone.0022058.g001.png","The distribution and phylogenetic differentiation of European (hpEurope) H. pylori isolates in Southeast Asia. (A) Map of sampling locations of hpEurope haplotypes in Southeast Asia. (B) The Neighbor-joining tree generated from pair-wise FST values indicates a common, non-European origin of the Southeast Asian hpEurope strains."

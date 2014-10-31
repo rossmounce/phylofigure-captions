@@ -1,0 +1,1 @@
+"pone.0083684.g002.png","Variation in PC scores of climatic variables along the phylogeny of Platyrrhini.The first PC axis is strongly associated with temperature whereas the second PC axis is more associated with precipitation. Corresponding loadings are indicated in Table 1."

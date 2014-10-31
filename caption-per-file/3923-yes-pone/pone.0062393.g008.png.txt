@@ -1,0 +1,1 @@
+"pone.0062393.g008.png","Phylogenetic tree.Unrooted Maximum-Likelihood phylogenetic tree was constructed with HKY85 substitution model including Gamma distribution parameter (HKY+G). Bootstrap was performed with 500 replicates. Values above 70% were considered significant."

@@ -1,0 +1,1 @@
+"pone.0055687.g003.png","Parsimony phylogenetic tree for cas genes.We constructed this parsimony tree with 100,000 iterations by TNT [38] based on concatenated sequences of the cas genes. This dendrogram indicated that cas genes of Lineages II and III were originated from distinct sources."

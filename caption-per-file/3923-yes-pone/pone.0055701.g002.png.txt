@@ -1,0 +1,1 @@
+"pone.0055701.g002.png","Heavy and light chain nucleotide sequence diversity derived from phylogenetic analysis of PGT121-137 antibodies.Neighbor-joining (NJ) method was used to calculate the dendrogram. Antibody branches are color-coded according to donors with putative V and J genes labeled under the donor specification."

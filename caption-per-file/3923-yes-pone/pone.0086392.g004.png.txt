@@ -1,0 +1,1 @@
+"pone.0086392.g004.png","Maximum likelihood trees showing phylogenetic comparisons of the amino acid of antigen 5-related proteins of arthropods.ML tree of the antigen 5-related proteins of all 4 groups of arthropods (ticks, mosquitoes, Culicoids and sandflies) depicting Culicoides and sandflies as one cluster. The scale bar represents the number of substitutions per site."

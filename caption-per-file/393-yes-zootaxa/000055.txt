@@ -1,0 +1,1 @@
+FIGURE 3. Single most-parsimonious tree obtained by the analysis of the COI dataset under the ALLTREES criterion. Length =  730. Bootstrap values >50% (1,000 replicates) given above branches."

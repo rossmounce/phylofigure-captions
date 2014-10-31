@@ -1,0 +1,1 @@
+"FIGURE 1. Bayesian consensus phylogeny of the 16SrRNA fragment (A) and the COB-fragment (B) for the Gephyromantisdecaryi complex (with symbols) and other species and species complexes of the genus Gephyromantis. Outgroup taxa in thetrees are not shown (“outgroup”). Statistical support values are shown as bars on branches. Left bars, gray  =  Bayesian posterior"

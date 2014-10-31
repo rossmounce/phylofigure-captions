@@ -1,0 +1,1 @@
+"pone.0007883.g004.png","Neighbour-joining phylogenetic tree of the ABCD breakpoint sequences excluding the (AT)16–24 microsatellite and the TE insertions."

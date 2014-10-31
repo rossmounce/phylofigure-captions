@@ -1,0 +1,1 @@
+"FIGURE 2. Inferred secondary structure of 22 tRNAs of A. heissi. The tRNAs are labeled with the abbreviations of their corresponding amino acids. Dashed (–) indicate Watson-Crick base pairing and (+) indicate G-U base pairing.The tRNA genes of A. heissi range from 60 to 71 bp in length (Table 3). Like most of reported insect tRNAs,"

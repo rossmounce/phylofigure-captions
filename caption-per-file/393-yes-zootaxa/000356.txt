@@ -1,0 +1,1 @@
+FIGURE 5. Phylogenetic relationships between 12 species of Heterorhabditis based on analysis of D2D3 rDNA regions. Caenorhabditis elegans and Pellioditis typica were used as outgroups. Bayesian posterior probability values and bootstrapsupport values from maximum parsimony are given above and below branches respectively.

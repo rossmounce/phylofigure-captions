@@ -1,0 +1,1 @@
+"pone.0081864.g001.png","Maximum likelihood (ML) phylogenetic tree of RIG-I gene used for codon-based ML analysis.The GTR+G nucleotide substitution model was employed in mammalian RIG-I gene phylogenetic reconstruction. Bootstrap values >50 are indicated on the branches."

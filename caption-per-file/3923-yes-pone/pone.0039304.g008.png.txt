@@ -1,0 +1,1 @@
+"pone.0039304.g008.png","Hylomys phylogeny based on partial CYT B.Result of Bayesian phylogenetic analyses of Hylomys based on partial CYT B genes. Node numbers indicate Bayesian posterior probabilities. Distribution of the two major clades was divided by the Kra Isthmus."

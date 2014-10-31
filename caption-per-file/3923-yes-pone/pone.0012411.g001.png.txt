@@ -1,0 +1,1 @@
+"pone.0012411.g001.png","Bifidobacteriaceae phylogeny.Maximum likelihood 16S rDNA based phylogentic reconstruction of the Bifidobacteriaceae. Bootstrap values less than 100 are shown at each node. Larger taxonomic clusters have been collapsed for clarity."

@@ -1,0 +1,1 @@
+"pone.0067001.g002.png","A two taxon phylogenetic tree of two species i and j with trait values and . and are the trait values for the common ancestor of i and j. measures the branch length from the root to the most common ancestor of species i and j. , are the branch length for species i and j since they diverged."

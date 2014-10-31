@@ -1,0 +1,1 @@
+"pone.0016018.g002.png","16S rRNA gene based phylogeny of Epsilonproteobacteria. The tree was calculated using the Maximum-Likelihood method. Bootstrap values are shown as percentages of 100 bootstrap replicates. Sequences obtained in the present study are depicted in color. Scale bars represent 10% estimated sequence divergence."

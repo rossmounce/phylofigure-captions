@@ -1,0 +1,1 @@
+"pone.0020579.g006.png","Neighbor joining phylogenetic tree of VEMCeDNV and other densoviruses based on alignment of the 720-bp partial NS1 gene nucleotide sequences. The VEMCeDNV from the C. erythrothorax mosquitoes in sample SD-WAP is indicated with an arrow."

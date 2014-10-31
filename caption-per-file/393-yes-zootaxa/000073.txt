@@ -1,0 +1,1 @@
+FIGURE 5. Fifty percent majority rule consensus tree from a Bayesian inference analysis of cytochrome b nucleotide sequences. Numbers at nodes represent posterior probabilities.

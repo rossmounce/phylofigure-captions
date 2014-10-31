@@ -1,0 +1,1 @@
+"pone.0020183.g004.png","HPV35 variant tree topologies and pairwise comparisons of individual complete genomes. The phylogenetic tree was constructed as described in Figure 2. There were no distinct variant lineages however, sublineages (i.e., termed A1 and A2) were inferred from the tree topology and nucleotide sequence differences in the >0.5% to Figure 2."

@@ -1,0 +1,1 @@
+"pone.0013781.g003.png","Representative maximum likelihood phylogenetic tree of KLK homologues.Bootstrap values (>50%) are indicated at the nodes. The branch lengths depict evolutionary distance. The trypsin proteins are used as outgroup. The scale bar at the upper right denotes evolutionary distance of 0.2 amino acids per position."

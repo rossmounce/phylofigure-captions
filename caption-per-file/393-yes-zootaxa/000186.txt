@@ -1,0 +1,1 @@
+FIGURE 3. The optimal tree obtained by analyses of the morphological data (Appendix A) under the weighting regime thatminimized length and maximized fit; tree length  =  523; consistency index (CI)  =  0.35; retention index (RI)  =  0.75. This MPTwas obtained by analysis with implied weights under k  =  6. Bremer support (as TNT fit values) indicated in italics below

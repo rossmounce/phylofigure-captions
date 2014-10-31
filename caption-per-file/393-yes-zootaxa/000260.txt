@@ -1,0 +1,1 @@
+"FIGURE 93. Strict consensus of 7390 trees recovered from the MP analysis of 82 characters and 53 taxa. Numbers above the branch are bootstrap proportions before the solidus ( / ) and decay values after; numbers under the branch are posterior probabilities for nodes from the Bayesian analysis. Within clade H, nodal support is shown only for nodes with bootstrap ≥"

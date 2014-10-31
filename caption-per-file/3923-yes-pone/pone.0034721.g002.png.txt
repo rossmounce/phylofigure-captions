@@ -1,0 +1,1 @@
+"pone.0034721.g002.png","Phylogenetic relationships and provenance of wasps used in this study.Tree topology is derived from previous phylogenetic studies of Hymenopteran families [68], the family Figitidae [69], [70], and the family Braconidae [71]. Branch lengths are approximated."

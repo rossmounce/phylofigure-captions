@@ -1,0 +1,1 @@
+FIGURE 2. A ML tree showing phylogenetic relationships among mitochondrial ND2 haplotypes for Crinia. Branches in greyhad Bayesian posterior probabilities >0.95 and ML bootstrap proportions >70%. Species names and haplotype numbers refer tospecimens and collection locations in Appendix 1.

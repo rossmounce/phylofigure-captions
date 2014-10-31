@@ -1,0 +1,1 @@
+"pone.0067001.g001.png","A rooted phylogenetic tree of 5 taxa.Tips a, b, c, d, e; interior nodes f, g, h and the root O."

@@ -1,0 +1,1 @@
+FIGURE 1. Phylogenetic tree obtained from the MP analysis of the 25 morphological characters. Numbers for each recoverednode represent bootstrap supports. Character evolution has been studied in Mesquite (Maddison and Maddison 2004) usingunambiguous optimization: white numbers in black boxes: unique synapomorphies; white numbers in grey boxes: unique

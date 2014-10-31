@@ -1,0 +1,1 @@
+"FIGURE 26. Topology of the Bayesian tree of the combined dataset. The numbers above branches are values of Bayesian posterior probability (only values above 0.50 are displayed). Roman numbers indicate individual haplotypes as recognized by theTCS analysis. Specimens exhibiting Eastern Ukrainian morphotype marked by “*“, specimens exhibiting Crimean morphotypemarked by “#“."

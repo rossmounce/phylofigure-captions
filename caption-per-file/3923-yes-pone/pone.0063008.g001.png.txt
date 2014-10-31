@@ -1,0 +1,1 @@
+"pone.0063008.g001.png","MLST based CC398 phylogeny.Maximum parsimony analysis of the concatenated allelic sequences from the 43 CC398 sequence types and rooted using MRSA252 (ST36). The cluster containing ST398 is highlighted in light grey and the ST291 cluster is dark grey. The scale indicates the number of SNP differences."

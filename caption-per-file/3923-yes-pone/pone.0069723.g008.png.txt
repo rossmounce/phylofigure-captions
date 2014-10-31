@@ -1,0 +1,1 @@
+"pone.0069723.g008.png","Phylogenetic placement of Liaobatrachus among archaeobatrachian frogs.The tree is the strict consensus of 661 most parsimonious trees (TL?=?186, CI?=?0.5753, RI?=?0.6985). The data matrix used in the analysis is in Table S1. Major phylogenetic groups shown on the tree include (A) Anura and (B) Lalagobatrachia. * indicates fossil taxa."

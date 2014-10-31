@@ -1,0 +1,1 @@
+FIGURE 4a. Results of the Bayesian phylogenetic analysis of molecular data from this study. The tree is split in half to accommodate its size. Outgroups are Basiliscus plumifrons and Polychrus acutitrostris. Nodes with greater than 90% posterior probability have no symbol; posterior probabilities of 80–90% are indicated; less than 80%  =  *. Names and vertical lines to the

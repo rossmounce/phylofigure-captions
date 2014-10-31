@@ -1,0 +1,1 @@
+"pone.0084066.g001.png","Protease gene phylogenetic classification of HIV-1 multiple infections.Multiple infections are represented on the tree by different branches showing the same icon at their tips. Samples 2675, 2831, 2826, 3013, 3038, 3430 and 3602 correspond to simple infections. The NJ tree was built using TVM Γ as the nucleotide substitution model."

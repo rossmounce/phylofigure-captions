@@ -1,0 +1,1 @@
+"pone.0003058.g002.png","Examples of phylogenetic trees from the E1-E2 and NS5A regions.Trees from patients G07 (a) and A34 (b) are shown for the E1-E2 region, whereas trees from patients C12 and G06 are presented for the NS5A region. Red, green, and blue dots denote sequences from T0, T1, and T2, respectively."

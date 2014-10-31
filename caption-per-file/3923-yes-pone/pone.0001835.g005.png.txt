@@ -1,0 +1,1 @@
+"pone.0001835.g005.png","Bayes 50% majority rule consensus (‘halfcompat’) phylogram (branch lengths are proportional to the expected number of substitutions).Values indicate branch support by Bayesian inference."

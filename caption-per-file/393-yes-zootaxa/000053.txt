@@ -1,0 +1,1 @@
+FIGURE 7. Phylogenetic relationships among species of Oligoryzomys based on Maximum likelihood (ML) analysis of the intron 7 of beta-fibrinogen gene. Nodal support values shown above branches are ML bootstrap values (>50%) and Bayesian posterior probability (>0.50). Model of substitution selected was K81+G.

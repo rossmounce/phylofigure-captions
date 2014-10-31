@@ -1,0 +1,1 @@
+"pone.0040907.g003.png","Best maximum likelihood phylogenetic tree of all D-loop sequences from this study.Sequences from this study are coded by the year of sampling and the sample number. GenBank sequences are indicated by their corresponding accession numbers. LnLik = –3121.95. α = 0.345333."

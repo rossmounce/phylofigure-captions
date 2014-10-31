@@ -1,0 +1,1 @@
+"pone.0088442.g001.png","All cVDPVs type2 isolated from Nad Ali district of Helmand province are indicated with round circle filled in black color.Other globally reported cVDPVs type 2 has retrieved from GenBank to reconstruct phylogenetic tree from VP1 coding sequences using neighbor-joining algorithm with Kimura 2-parameter substitution model."

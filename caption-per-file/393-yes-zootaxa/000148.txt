@@ -1,0 +1,1 @@
+"FIGURE 2. Phylogeny of BRCA1 resulting from maximum-likelihood (ML) analysis (GTR + G model). Numbers at nodes represent ML bootstrap support (1000 replications), and Bayesian posterior probabilities. To improve clarity values of the mostapical nodes (i.e. within species) are not included, and only values for the best supported nodes between outgroup species are"

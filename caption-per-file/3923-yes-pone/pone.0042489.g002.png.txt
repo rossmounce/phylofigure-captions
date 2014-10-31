@@ -1,0 +1,1 @@
+"pone.0042489.g002.png","RAM ML tree.Maximum Likelihood tree, based on JTT model of evolution, inferred using RAM protein sequences from the species of figure 1. We validate this phylogeny with a phylogeny with the same number of species, based on cdc5, a regulator of G2/M transition of mitotic cell cycle with the same visualisation as in [28]."

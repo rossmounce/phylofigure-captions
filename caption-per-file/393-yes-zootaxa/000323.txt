@@ -1,0 +1,1 @@
+"FIGURE 1. Inferred phylogenetic relationships of the Cyrtodactylus pulchellus complex based on 1497 bp of mitochondrialND2 gene. The tree is a Maximum likelihood topology (lnL -17497.532298) with Bayesian posterior probabilities (BPP),Maximum Likelihood bootstrap support values (ML), and Maximum Parsimony bootstrap support values (MP) respectively at"

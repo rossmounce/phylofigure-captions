@@ -1,0 +1,1 @@
+"FIGURE 1. Distribution and diversification of the American Glomerida. A: Distribution map, modified after Shelley &Golovatch 2011; B: single, shortest length maximum parsimony tree, support values >50 % of the bootstrap analysis given nextto nodes; C: Maximum likelihood tree after the HKY+G model, bootstrap support values given next to nodes. Symbols refer to"

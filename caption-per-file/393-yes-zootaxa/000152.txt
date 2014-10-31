@@ -1,0 +1,1 @@
+FIGURE 4. Bayesian tree inferred from LSU gene DNA sequences. Posterior probabilities exceeding 50% are given on appropriate clades. Nematode species and GenBank numbers are listed for each taxon.

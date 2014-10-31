@@ -1,0 +1,1 @@
+"FIGURE 6. Bayesian tree topology obtained from the combined molecular data set (16S, cyt b and Rag-1); figure shows the50% majority-rule consensus phylogram. Posterior probability and ML bootstrap values are shown above the branches."

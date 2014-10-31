@@ -1,0 +1,1 @@
+"FIGURE 12. Ultrametric tree obtained with Beast and an evolutionary rate of 0.0115 substitutions / site / MY for the H. memnonius, H. longulus and H. ferrugineus groups. Numbers in nodes, estimated ages; blue bars, 95% confidence intervals.References"

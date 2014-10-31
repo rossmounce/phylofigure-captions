@@ -1,0 +1,1 @@
+"pone.0082864.g003.png","Phylogenetic relationship of Entamoeba spp. from HIV infected patients.Neighbor-joining method was performed in 24 taxa at the SSU rRNA locus. The optimal tree with the sum of branch length?=?1.32 is shown and the bootstrap values were added to phylogenetic branches."

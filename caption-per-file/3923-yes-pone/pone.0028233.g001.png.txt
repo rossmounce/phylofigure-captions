@@ -1,0 +1,1 @@
+"pone.0028233.g001.png","BI phylogram of the 46 COI sequences of 11 Pagurus species selected. The numbers on branches are ML bootsrap values and posterior probabilities of BITable 4 for complement information).Two major clades have been roman number-coded, I and II: represent two groups defined previously by Ingel (1985) based on adult and larvae morphological characters."

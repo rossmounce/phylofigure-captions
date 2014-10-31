@@ -1,0 +1,1 @@
+"pone.0077725.g003.png","Bayesian phylogenetic tree (GTR+I+?) showing the phylogenetic position of 72 partial SSU 18S rDNA of soritids.The 52 sequences obtained for this study are marked by their DNA isolate numbers. Numbers at nodes indicate (from left to right) posterior probabilities (BI) and bootstrap values (ML). The tree is rooted on Parasorites sp."

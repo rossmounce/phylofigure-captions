@@ -1,0 +1,1 @@
+"FIGURE 3. Predicted secondary structure of the rrnL gene in the C. chinensis mitogenome. Roman numerals denote theconserved domain structure. The numbering system follows Gillespie et al. (2006). Dashed (–) indicate Watson-Crick basepairing and G-U base pairing, other non-canonical interactions are joined by a dot (•)."

@@ -1,0 +1,1 @@
+"pone.0058155.g002.png","Maximum-likelihood phylogenetic tree based on an alignment of 1,828 SNPs ascertained in 2,209 kb from pyro-sequenced genomes.Bootstrap values >90% are indicated."

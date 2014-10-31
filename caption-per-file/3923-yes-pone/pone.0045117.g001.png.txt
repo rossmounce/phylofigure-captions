@@ -1,0 +1,1 @@
+"pone.0045117.g001.png","In silico analysis of the OsLEA3-2 protein.(A) Comparison of deduced amino acid sequence of OsLEA3-2 with OsLEA3 (AAD02421.1) and LEA3 proteins from A. thaliana (BAA11017.1) and B. napus (ACJ39155.1), underlines show the 11-mer repeats in the OsLEA3-2; (B) phylogenetic analysis of these group 3 LEA proteins; (C) hydropathy analysis of OsLEA3-2 protein."

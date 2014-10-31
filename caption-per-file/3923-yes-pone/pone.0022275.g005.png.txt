@@ -1,0 +1,1 @@
+"pone.0022275.g005.png","ML phylogenetic tree of Pterocarpus species and allies. The tree was reconstructed with RAxML and using all DNA markers (nrITS2, rbcL, matK, trnL and ndhF-rpL32). Numbers above branches show bootstrap percentages (BP). Distributions of the main clades are on the right."

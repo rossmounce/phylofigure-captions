@@ -1,0 +1,1 @@
+"pone.0057354.g002.png","Phylogenetic tree analysis of plant-specific DRM1 family proteins.Representative clade members are annotated as follows: Clade 1: green; Clade 2a: red and Clade 2b: blue. See Figure S3 for all predicted protein sequences and Figure S6 for multiple sequence alignment of all candidates used in phylogenetic analysis."

@@ -1,0 +1,1 @@
+"pone.0018843.g003.png","Phylogenetic relationship of lepidopteran OR genes belonging to the sex pheromone receptor subfamily. Blue and red boxes in panel A indicate regions separately shown in panels B and C, detailed phylogenetic trees of OR4, 5, 8 and OnOr6 genes (B) and OR7 genes (C) of Ostrinia moths. Detailed information of genes used for comparison is listed in Table S4."

@@ -1,0 +1,1 @@
+FIGURE 45. Strict consensus tree obtained from the 26 more parsimonious trees in the genus Pyrgus. The tree was obtainedonly based on the three selected ecological tratis and using Carcharodus baeticus and Muschampia proto as outgroup taxa. TheBootstrap support for each node is shown on the branches.

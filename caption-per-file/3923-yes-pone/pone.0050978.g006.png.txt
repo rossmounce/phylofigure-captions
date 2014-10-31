@@ -1,0 +1,1 @@
+"pone.0050978.g006.png","Maximum likelihood phylogeny of Ty4 LTR sequences from the reference genome of S. cerevisiae.The phylogeny was created from 450 aligned nucleotide positions. Formatting of the tree and labels is the same as in Figure 4."

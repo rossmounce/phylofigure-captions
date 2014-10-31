@@ -1,0 +1,1 @@
+"pone.0095842.g005.png","Amino acid incorporation trophic strategies mapped onto a maximum parsimony unrooted 16S rRNA gene phylogeny of taxa from a SF Bay seawater sample.Ancestral states were identified by parsimony. Asterisks indicate strategies with a statistically clustered distribution indicating a phylogenetic signal."

@@ -1,0 +1,1 @@
+"pone.0051274.g004.png","Evolution of Curli Systems.Comparison of phylogenetic trees based on the CsgF protein sequences and corresponding 16S rRNA genes. The trees based on aligned protein and nucleotide data were estimated using distance matrix and maximum likelihood and resulted in congruent tree topologies. Distance matrix trees are shown."

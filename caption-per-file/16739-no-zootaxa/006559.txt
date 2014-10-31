@@ -1,0 +1,1 @@
+"FIGURE 13. Chiromantes ortmanni (Crosnier, 1965). Juvenile growth from from metamorphosis through the first six crabstages. A, duration (days) of successive stages described with a second-order polynomial regression equation; B, cumulativetime of development to successive stages (t, days; transformed to t+1), logarithmic regression equation."

@@ -1,0 +1,1 @@
+FIGURE 6. Maximum likelihood (ML) tree reconstructed from cytochrome b nucleotide sequences based on GTR + I + Gmodel and rooted with Mesocricetus auratus. Bootstrap support above 50% is shown at nodes.

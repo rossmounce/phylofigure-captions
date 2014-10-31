@@ -1,0 +1,1 @@
+"pone.0079731.g002.png","A. vociferans allele phylogenetic relationships.The topology was inferred by ML method using a GTR G model. Numbers designate the KIR putative locus and numbers on branches represent bootstrap values (1,000 replicates)."

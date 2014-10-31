@@ -1,0 +1,1 @@
+"FIGURE 5. Principal component analysis. A. First two Principal Components of the pooled within-group variance-covariancematrix of the log-transformed variable. Lines indicate the convex hulls that encompass all the observations. B. LinearDiscriminant functions analysis on the size-corrected variables, depicting 95% confidence ellipses. Symbols and lines as in"

@@ -1,0 +1,1 @@
+FIGURE 1. The Bayesian consensus tree inferred from D2 / D3 under TVM+I+G model (lnL = 4001.6121; freqA = 0.2903;freqC = 0.1443; freqG = 0.2394; freqT = 0.3259; R(a) = 0.8475; R(b) = 3.4236; R(c) = 1.9889; R(d) = 0.455; R(e) = 3.4236; R(f) = 1;Pinva = 0.522; Shape = 0.5933). Posterior probability values exceeding 50% are given on appropriate clades. (Tree labels

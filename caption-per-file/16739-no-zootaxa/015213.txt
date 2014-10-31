@@ -1,0 +1,1 @@
+"FIGURE 1. Bivariate plot of principal component 1 (eigenvalue = 0.125) versus principal component 2 (eigenvalue = 0.025)for two paralectotypes of Cophixalus ateles (filled diamonds), 24 types of C. sisyphus (triangles), one recent specimen of C.sisyphus from the type locality for C. ateles (open diamond), 14 types of C. timidus (squares), and 49 types of C. variabilis"

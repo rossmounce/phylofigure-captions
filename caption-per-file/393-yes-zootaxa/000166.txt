@@ -1,0 +1,1 @@
+"FIGURE 43. Phylogenetic tree of the genus Syzeuxis based on 28 characters of adult morphology. (A) Strict consensus of 6equally parsimonious trees (L = 53, CI = 0.54, RI = 0.71) obtained from NONA. Numbers above branches represent characterswhich correspond with data matrix in the appendix 2. Black cicles in the branches represent synapomorphies, whereas white"

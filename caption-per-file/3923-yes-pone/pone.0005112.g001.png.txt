@@ -1,0 +1,1 @@
+"pone.0005112.g001.png","Phylogeny of haplogroup R0.An expanded view of the haplogroup H phylogeny is shown in Figure 2. Underlined positions signal parallel mutations, while @ indicates a back mutation. In bold are the control region variants, whereas dots indicate the SNPs selected and genotyped in the present study."

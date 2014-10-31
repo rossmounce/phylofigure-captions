@@ -1,0 +1,1 @@
+FIGURE 12. The strict consensus cladogram ( =  nelsen consensus; Matrix 1) under equal weights. Numbers above branches indicate Bremer support values; numbers below branches indicate jacknife support values (only those above 50% are reported).Thicker lines indicate the Ternatus clade.

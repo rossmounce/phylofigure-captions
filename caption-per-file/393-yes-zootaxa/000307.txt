@@ -1,0 +1,1 @@
+"FIGURE 2. Bayesian phylogenetic tree obtained with the COI (A) and 28S (B) genes. Posterior probabilities > 0.90 are indicated for each node. For clarity purpose, only the five last digits of the MNHN numbers are reported here. Please refer tothe Table 1 for full numbers."

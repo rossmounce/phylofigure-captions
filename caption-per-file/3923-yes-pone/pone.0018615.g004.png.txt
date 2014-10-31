@@ -1,0 +1,1 @@
+"pone.0018615.g004.png","Protein NJ-1000 bootstraps phylogenetic tree (unrooted) of PI-II genes and Pi7C and Pi6C natural variants. Genotypes used are as the same in Figure 3. Note that the Pi7C/Pi6C family cluster is separated from the standard 8C Pi-II superfamily."

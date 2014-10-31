@@ -1,0 +1,1 @@
+"pone.0093522.g002.png","Variance-covariance matrix of a generalized phylogenetic tree.Variance is set to the branch length from the root to the tip and the covariance is the branch length from the root to the most recent common ancestor (adapted from de Villemereuil et al. 2012)."

@@ -1,0 +1,1 @@
+"FIGURE 2. Phylogram showing the distribution of analyzed Gastrocopta, Vertigo, Vallonia and Pupilla species based on A. CO1; B. 16S; and C. ITS-2. Nodes with support values of approximately 70 or more across both NNJ and ML have been labeled by two numbers to the left of each node. The upper (normal font) represents the NNJ support values while"

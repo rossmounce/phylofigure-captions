@@ -1,0 +1,1 @@
+"pone.0084000.g001.png","Phylogenetic neighbor-joining tree of Pseudomonas putida CSV86.The tree is constructed from 16S rRNA gene sequences from 38 completely sequenced Pseudomonas spp. The phylogenetic analysis was performed using MEGA 5.2 and the resultant Maximum Likelihood tree shows close taxonomic relationship of P. putida CSV86 to P. putida S16."

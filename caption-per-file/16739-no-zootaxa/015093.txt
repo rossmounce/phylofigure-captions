@@ -1,0 +1,1 @@
+"FIGURE 3 Predicted secondary structure of the lrRNA gene in N. tenuis mitogenome. Roman numerals denote theconserved domain structure. Watson-Crick base pairs are denoted by (-), and GU bonds are denoted by (+). Regions in redindicate sequence variability compared with A. bakeri."

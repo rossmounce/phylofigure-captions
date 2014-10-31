@@ -1,0 +1,1 @@
+"pone.0003239.g009.png","Example of recombination detection in the NS5a region (NG08T0 sample).The phylogenetic tree on the left corresponds to the analysis of the complete region whereas the other two are derived from the two regions defined by the detected recombination event."

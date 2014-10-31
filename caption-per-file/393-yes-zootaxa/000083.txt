@@ -1,0 +1,1 @@
+FIGURE 2. Phylogeny of the genus Blarinella derived from maximum likelihood and Bayesian analyses of cyt-b and cyt-b +16S rRNA + ApoB fragments. Node values above branches indicate ML bootstrap values and Bayesian posterior probabilities of cyt-b; node numbers under the branches indicate Bayesian posterior probabilities and ML bootstrap values of cyt-b +16S

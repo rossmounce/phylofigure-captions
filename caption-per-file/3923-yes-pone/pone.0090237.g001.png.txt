@@ -1,0 +1,1 @@
+"pone.0090237.g001.png","NeighborNet phylogenetic network of Toxoplasma gondii isolates from animal and humans in Minas Gerais.Isolates genotyped in this study are highlighted in bold. Isolates TgCTBr01 to TgCTBr26 were obtained from newborns in Minas Gerais and previously genotyped [7]."

@@ -1,0 +1,1 @@
+"FIGURE 22. Scatterplot of canonical variates scores (roots 1 and 3) for males of five antechinus species: A. mysticus (closedcircles), A. flavipes flavipes (open circles), A. subtropicus (closed triangles), A. stuartii (open triangles), A. swainsonii (closedsquares)."

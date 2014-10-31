@@ -1,0 +1,1 @@
+"FIGURE 1. The ITS2 (rDNA) sequence alignments of Anopheles (Kerteszia) pholidotus (n = 3, Venezuela) and An. lepidotus(n = 5, Ecuador), using MAFFT (Katoh et al., 2002). A total of 343 nucleotides were identical; 45 transversions, 39 transitions,and 89 gaps were observed. Underlined bases show the ITS2 primers."

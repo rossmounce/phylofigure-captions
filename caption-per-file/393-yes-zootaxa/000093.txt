@@ -1,0 +1,1 @@
+"FIGURE 41. Single most parsimonious tree (L  =  27; CI  =  0.88; RI  =  0.72) obtained from implicit enumeration analysis. Only unambiguously optimized evolutionary events are mapped. Character numbers are given above, character states below. Solid rectangles indicate unique character state transformations, open rectangles indicate homoplastic character state transformations."

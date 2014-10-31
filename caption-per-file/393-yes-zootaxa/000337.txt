@@ -1,0 +1,1 @@
+FIGURE 2. Bayesian inference tree derived from partial DNA sequences of the mitochondrial 16SrRNA gene. Numbers above branches are bootstrap support for maximum parsimony (1000 replicates) / maximum likelihood (500 replicates) analyses (>50retained) and numbers below branches indicate Bayesian posterior probabilities (>90% retained).

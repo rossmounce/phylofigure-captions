@@ -1,0 +1,1 @@
+"pone.0058739.g003.png","Complete genome phylogenetic analysis.Neighbour-joining phylogenetic tree with 1000 bootstrap replicates, constructed using the Kimura 2-parameter model, of RABV full genomes sequenced in this study (bold branches) as well as RABV full genomes available on GenBank."

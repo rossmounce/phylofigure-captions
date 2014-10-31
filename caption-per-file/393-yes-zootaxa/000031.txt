@@ -1,0 +1,1 @@
+FIGURE 10. Phylogeny of the Batrachoseps nigriventris group. Tree resulting from maximum likelihood (ML) analysis of cob (LnL  =  -3032.9164; preferred model was GTR + I + G for the 1st + 2nd codon partition and GTR + G for the 3rd codonpartition). Inset tree in upper left shows ML tree resulting from the analysis of the 4-gene dataset (LnL  =  -8158.2306).

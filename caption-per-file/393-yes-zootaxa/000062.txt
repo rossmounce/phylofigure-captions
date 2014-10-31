@@ -1,0 +1,1 @@
+"FIGURE 1. Maximum likelihood tree of 12s and 16s rRNA gene fragments, with posterior probabilities from the Bayesian analysis shown above and Maximum Parsimony Bootstrap values shown below the nodes respectively. Pseudophilautus semiruber (**) forms a clade with P. simba and P. cf. simba (*)."

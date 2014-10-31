@@ -1,0 +1,1 @@
+FIGURE 3. Single most parsimonious tree resulting from analysis of the matrix of Table 1. Length  =  36; c.i.  =  0.91; r.i.  = 0.95. Open circles are characters containing homoplasy. Character optimizations are shown carried out under the ACCTRAN assumption. Upper values at nodes are Bremer support values. Lower values at nodes are bootstrapping GC scores.

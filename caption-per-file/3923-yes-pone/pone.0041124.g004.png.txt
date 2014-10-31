@@ -1,0 +1,1 @@
+"pone.0041124.g004.png","A phylogenetic tree constructed by using the maximum parsimony method.Sequence cluster analysis based on the whole-genome sequences of our synthetic phages and other related phage sequences obtained from the GenBank database."

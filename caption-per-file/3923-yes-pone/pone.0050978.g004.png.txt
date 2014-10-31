@@ -1,0 +1,1 @@
+"pone.0050978.g004.png","Maximum likelihood phylogeny of Ty2 LTR sequences from the reference genome of S. cerevisiae.The phylogeny was created from 362 aligned nucleotide positions. Colour codes and nomenclature for LTRs are the same as in Figure 3, with the exception that no clades are composed entirely of inactive elements and so none have been collapsed."

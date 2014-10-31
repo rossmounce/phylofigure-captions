@@ -1,0 +1,1 @@
+"pone.0008700.g003.png","Maximum likelihood phylogenetic tree of 26 Escherichia coli and Shigella strains.The phylogenetic tree of the Escherichia core genome genes was constructed from the concatenated alignments of the 2034 genes in the core genome of the E. coli/Shigella genomes. The closely related species, E. fergusonii (CU928158), was chosen to root the tree."

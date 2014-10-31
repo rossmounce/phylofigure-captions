@@ -1,0 +1,1 @@
+"pone.0088615.g007.png","Galaxin phylogenetic tree.Galaxin and Galaxin-like sequences from different species: Spi-Stylophora pistillata, Adi-Acropora digitifera, Ami-Acropora millepora, Gfa- Galaxea fascicularis were used for phylogenetic analysis. The tree was constructed using Mrbayes program [46]."

@@ -1,0 +1,1 @@
+FIGURE 1. Phylogenetic relationships of Caledoniscincus constellatus sp. nov. relative to each species within the genus. This isa likelihood topology with Bayesian posterior probabilites and ML and MP support values.

@@ -1,0 +1,1 @@
+"pone.0015506.g004.png","Phylogenetic tree and protein domains of Nme7 in Eukaryotes. A. The phylogenetic midpoint-rooted tree was constructed as described in Figure 1A. B. Corresponding protein domain structure was obtained as described in Figure 2A."

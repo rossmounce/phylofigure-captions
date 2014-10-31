@@ -1,0 +1,1 @@
+"FIGURE 2. Bayesian phylogeny of Crematogaster as reconstructed by Blaimer (in press); this analysis was based upon3384bp from five nuclear genes. Outgroups have been pruned. Red circles indicate PP = 1.0 and bootstrap > 94; blue squaresindicate PP>0.94 and bootstrap > 74; yellow circles indicate where bootstrap <74 and PP>0.94, in these cases both values are"

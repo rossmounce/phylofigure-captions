@@ -1,0 +1,1 @@
+"pone.0051274.g005.png","Curli Systems within Metagenomes.CsgF homologs were identified within 10 large metagenomes covering a diverse range of habitats, see Table 2, using the curated CsgF HMM. The hits were aligned with the CsgF homologs identified within refseq and phylogenetic trees were estimated using distance matrix."

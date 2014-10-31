@@ -1,0 +1,1 @@
+"pone.0056288.g004.png","Bayesian phylogenetic tree based on 28S ribosomal RNA (28S rRNA) gene sequences from Bursaphelenchus xylophilus (Bx) and B. mucronatus (Bm).Support values are given in Bayesian posterior probabilities. The scale bar represents nucleotide substitutions per site."

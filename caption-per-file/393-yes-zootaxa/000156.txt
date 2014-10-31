@@ -1,0 +1,1 @@
+"FIGURE 8. Bayesian phylogeny of lsrDNA placing Sasala nolani in the context of other available aporocotylid sequences. Digenean taxon names (or identifiers) are followed by host species, geographic locality and GenBank accession number.Bayesian posterior probabilities are indicated; scale bar indicates number of substitutions per site."

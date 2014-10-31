@@ -1,0 +1,1 @@
+FIGURE 3. 50% major-rule consensus of the Bayesian tree based on the RAG 1 data set with 40 haplotypes. Numbers on node indicate Bayesian posterior probabilities. Numbers in brackets represent the samples of each haplotype. Colors representpopulation from different locations (see Fig. 1).

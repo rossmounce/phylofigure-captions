@@ -1,0 +1,1 @@
+"FIGURE 24. Bayesian tree of 84 Amphinemura specimens with Nemoura cinerea as outgroup, based on a 653 bp fragment ofCOI. Support values: *, ** indicate Bayesian posterior probability >0.95 and >0.99 respectively; MP and NJ bootstrap percentages are shown in this order separated by a slash. Bootstrap values for minor intraspecific nodes not shown."

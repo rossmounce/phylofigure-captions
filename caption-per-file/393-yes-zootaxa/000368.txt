@@ -1,0 +1,1 @@
+"FIGURE 41. Maximum Likelihood tree of the Teleiopsis based on concatenated data of COI, CAD, EF-1a, IDH, MDH and wingless genes. The tree was rooted on Carpatolechia notatella (not depicted because of very long branch leading to it).Bootstrap support values for T. albifemorella and T. paulheberti are shown below the nodes."

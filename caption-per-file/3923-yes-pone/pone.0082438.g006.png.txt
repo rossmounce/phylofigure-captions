@@ -1,0 +1,1 @@
+"pone.0082438.g006.png","Bayesian phylogenetic tree based on ITS rDNA sequence data.Support values at nodes correspond to posterior probabilities (pp). Sample ID for specimens from this study and accession numbers for the reference sequences are given for identification in Table S1. Solid lines on the right indicate possible clades."

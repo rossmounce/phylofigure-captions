@@ -1,0 +1,1 @@
+FIGURE 7. Strict consensus of Etheostoma cinereum complex cytochrome b haplotypes. Bootstrap and decay support islisted above and below each internode. An asterisk indicates nodes recovered with posterior probability values >95% in a Bayesian analysis with a similar topology.

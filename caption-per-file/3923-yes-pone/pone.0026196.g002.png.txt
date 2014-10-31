@@ -1,0 +1,1 @@
+"pone.0026196.g002.png","Phylogenetic trees based on the deduced aa sequences of PD-L1 and PD-L2. The phylogenetic tree of PD-L1 (A) and PD-L2 (B) of different mammalian species. The same sequences used in Fig. 1 were considered for the phylogenetic trees."

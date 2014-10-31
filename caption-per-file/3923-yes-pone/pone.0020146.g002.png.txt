@@ -1,0 +1,1 @@
+"pone.0020146.g002.png","Maximum likelihood phylogenetic tree of proximal keto-acyl synthase protein domains (364 conserved amino acids). Gene cluster Types are colored and given a letter label. Asterisks represent Types first clustered and described in this study. Bootstrap values ≥50% are indicated by dots. The Escherichia coli DH10B FabF protein was used as the outgroup."

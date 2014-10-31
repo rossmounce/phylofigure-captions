@@ -1,0 +1,1 @@
+"FIGURE 5: Topologies of most parsimonious trees and relative bremer support / GC values under a —  equal weights (strict consensus of 4 trees), b  —  concavities K = 0.0001 to 6 (with supports measured under K = 4) and , c —  concavities K = 7-100 (with supports measured under K = 8) are shown. Question marks in GC values"

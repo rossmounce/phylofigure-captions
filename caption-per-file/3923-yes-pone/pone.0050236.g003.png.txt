@@ -1,0 +1,1 @@
+"pone.0050236.g003.png","Unrooted phylogenetic tree for Ghd7 and its homologous genes from rice, B. distachyon, sorghum and maize.The tree was built using the Neighbor-Joining method. The conserved motifs were shaded in different colors. The two clades can be distinguished by the motif distribution."

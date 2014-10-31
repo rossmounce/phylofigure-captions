@@ -1,0 +1,1 @@
+"pone.0028554.g001.png","Composite phylogeny of 11 rattlesnakes in the genus Crotalus. Phylogenetic relationship of 11 rattlesnake species based on a composite phylogeny from a mixed model Bayesian analysis and maximum parsimony. The color offsets on the bar labeled millions of years ago (mya) are in million year increments."

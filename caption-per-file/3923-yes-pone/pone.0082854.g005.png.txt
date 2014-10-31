@@ -1,0 +1,1 @@
+"pone.0082854.g005.png","Phylogenetic trees reconstructed using (a) TAS, CD, and CSB domains and (b) VNTRs.All three phylogenetic trees constructed separately based on TAS, CD, and CSB shared similar topology and therefore only one tree is presented here."

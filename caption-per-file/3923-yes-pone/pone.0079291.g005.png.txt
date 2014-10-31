@@ -1,0 +1,1 @@
+"pone.0079291.g005.png","Per site phylogenetic informativeness profiles of the markers based on the MAFFT dataset (6 partitions). Uppercase letters refer to clades discussed in the text (see also Figures 1 & 2)."

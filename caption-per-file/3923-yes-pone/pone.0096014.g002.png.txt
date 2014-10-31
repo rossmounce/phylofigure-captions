@@ -1,0 +1,1 @@
+"pone.0096014.g002.png","Phylogenetic relationships of cucumber bZIP proteins.The sequences were aligned by CLUSTALW at MEGA5 and the unrooted phylogenetic tree was deduced by neighbor-joining method. The proteins were classified into six distinct clusters. Each family was assigned a different color according to well-known members in other species."

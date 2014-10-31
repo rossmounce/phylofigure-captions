@@ -1,0 +1,1 @@
+"pone.0003829.g002.png","Molecular phylogeny of S. enterica serovars inferred from differentially evolved genes.ML trees constructed based on sseC, sseD, sptP, sseF and sifA. Numbers inside the trees represent support values for the internal branches. Scale bars represent ML distance."

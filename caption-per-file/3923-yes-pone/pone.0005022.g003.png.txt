@@ -1,0 +1,1 @@
+"pone.0005022.g003.png","The panorama phylogenetic tree of subtype H1 influenza virus based on the viral HA sequences.The tree suggested that H1 influenza viruses could be divided into 3 lineages largely corresponding to the avian, human and classical swine H1 influenza viruses, respectively. Bootstrap values were given at relevant nodes."

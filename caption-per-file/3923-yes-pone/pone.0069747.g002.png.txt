@@ -1,0 +1,1 @@
+"pone.0069747.g002.png","Phylogeny of cancer subtypes. The median of spearman rank correlation of transcriptional profile between two subtypes was minus by 1 and then adopted as the dissimilarity distance. Calculation of tumor phylogeny was then done by applying average linkage clustering in R."

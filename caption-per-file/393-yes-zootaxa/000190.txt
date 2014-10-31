@@ -1,0 +1,1 @@
+"FIGURE 9. Bayesian majority-rule consensus tree, showing results from the phylogenetic analyses of the COI mtDNA dataset(658 bp, 36 taxa). Thickened branches represent clades with >95% posterior probability (PP) support, with lower PP valuesshown above other nodes. Numbers below nodes denote bootstrap support values following parsimony analysis of the same"

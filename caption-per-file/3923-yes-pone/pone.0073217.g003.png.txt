@@ -1,0 +1,1 @@
+"pone.0073217.g003.png","Bayesian inference phylogenetic tree based on Hsp90 protein sequences from Mollusca.Species in which multiple hsp90 genes have been detected are in dark blue. Filled diamonds denote putative species-specific duplication events, predicted by this study. Numbers at nodes represent Posterior Probability (PP) values. Scale bar: substitutions/site."

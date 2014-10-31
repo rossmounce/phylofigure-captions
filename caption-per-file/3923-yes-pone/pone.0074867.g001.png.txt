@@ -1,0 +1,1 @@
+"pone.0074867.g001.png","Maximum likelihood phylogenetic tree based on the core genome polymorphisms of 59 Streptococcus pneumoniae.Branches are annotated with their bootstrap support (numbers in italics). Three non-PCV7 clones (6A, 15A and 19A) are highlighted in red. Strain 15A is highly similar to G54, strain 6A and 19A are not highly similar to any other strains in this set."

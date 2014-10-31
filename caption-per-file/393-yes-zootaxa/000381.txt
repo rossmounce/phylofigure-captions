@@ -1,0 +1,1 @@
+FIGURE 5. Bayesian estimates of divergence time for the Homatula phylogeny based on the cyt b data set. Bars represent 95% credibility intervals for divergence estimates. Numbers on nodes are million years ago (Ma). Colors represent populationfrom different locations (see Fig. 1).

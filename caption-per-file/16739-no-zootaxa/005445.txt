@@ -1,0 +1,1 @@
+"FIGURE 4. Sound spectrograms showing advertisement call structure of H. litoralis. The same call analyzed by FlatTop (A)and Hamming window (B). Abscissa: time in s. Ordinate: frequency in kHz. The continuous broad band at about 2.5 kHz ischirps of an insect. The call of several male individuals of H. litoralis was recorded from Ukhia, Cox’s Bazar district on 19"

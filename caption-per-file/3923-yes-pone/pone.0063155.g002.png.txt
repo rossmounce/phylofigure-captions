@@ -1,0 +1,1 @@
+"pone.0063155.g002.png","Gene gain and gene loss history.Mapping of the gene gain (A) and gene loss (B) over the R. solanacearum phylogeny. Branches are colored according to the number of gain and loss events as per the scale at the bottom."

@@ -1,0 +1,1 @@
+"pone.0081827.g002.png","Bayesian molecular phylogeny of brain-derived neurotrophic factors (BDNF).Branches with the Bayesian posterior probability (B.P.P) of less than 0.85 are highlighted in grey (remaining in colours). Site model 8 (M8) computed ω values for respective lineages are presented."

@@ -1,0 +1,1 @@
+"pone.0012967.g002.png","Phylogenetic tree indicating relationships of mammalian and zebrafish A/B-type metallocarboxypeptidases.Sequences were aligned by ClustalW and .dnd files produced to construct a phylogenetic tree. Scale bar indicates substitutions per site."

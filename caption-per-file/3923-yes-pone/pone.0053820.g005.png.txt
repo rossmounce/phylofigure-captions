@@ -1,0 +1,1 @@
+"pone.0053820.g005.png","Bayesian phylogenetic tree constructed from the chloroplast 23S rDNA sequences.The numbers on the nodes represent the posterior probabilities (PP)/bootstrap support values (BP) produce by the Bayesian inference and maximum-likelihood analyses. Values >0.50 for PP and >50 for BP are shown. The sequences obtained in our study are shaded in gray."

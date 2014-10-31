@@ -1,0 +1,1 @@
+"FIGURE 3. Strict consensus of 3 equally parsimonious trees (tree length = 2997, ensemble CI = 0.66, RI = 0.74) based on thenucleotide dataset of Arroyave & Stiassny (2011) augmented with expanded taxon sampling within “clade C” (added taxa listedin Table 2). Type species of focal genera indicated by * and illustrated at right. Indices at nodes indicate jacknife support."

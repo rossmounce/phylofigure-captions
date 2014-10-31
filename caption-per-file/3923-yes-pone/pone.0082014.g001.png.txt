@@ -1,0 +1,1 @@
+"pone.0082014.g001.png","Molecular phylogenetic analysis for EPPIN and SEMG1 within the primate lineage.EPPIN (A) and SEMG1 (B) trees were drawn to scale with branch lengths measured in the number of substitutions per site. GenBank accession number for each DNA sequence used for EPPIN and SEMG1 analyses are shown in Table 6."

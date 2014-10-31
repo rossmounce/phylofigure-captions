@@ -1,0 +1,1 @@
+"pone.0016889.g005.png","Phylogenetic analysis of the 112 elephant VH genes. A phylogenetic tree of nucleotide sequences of 112 elephant VH segments was constructed. The seven identified VH gene families are labeled with Arabic numerals. The credibility value for each node is shown."

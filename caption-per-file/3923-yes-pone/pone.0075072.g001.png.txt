@@ -1,0 +1,1 @@
+"pone.0075072.g001.png","Phylogeny of oomycetes.Phylogeny of the large rDNA subunit of select oomycetes as inferred by Bayesian analysis. The phylogenetic tree was constructed using rDNA sequences from 14 stramenopiles. Numbers on the branches are Bayesian posterior probability values calculated using MrBayes [110]. Hpa, Hyaloperonospora arabidopsidis."

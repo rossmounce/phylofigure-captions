@@ -1,0 +1,1 @@
+"pone.0012714.g002.png","Recombination-insensitive phylogenetic analysis.The analysis was based on the sequence of seven house-keeping genes (7497 nucleotides from genes arcA, aroE, icd, mdh, mtlD, pgi and rpoS) of 23 genomes reference strains including LF82. The major branches are labeled according to the major phylogroups A, B1, B2, D, E and F."

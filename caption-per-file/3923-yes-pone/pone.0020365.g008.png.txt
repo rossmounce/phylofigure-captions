@@ -1,0 +1,1 @@
+"pone.0020365.g008.png","The phylogeny of six MAGE-A genes from humans and macaques. The NJ tree was based on synonymous divergences among six MAGE-A CDSs. The number of sites compared is 314. The root is determined by MAGE-A4."

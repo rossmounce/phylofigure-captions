@@ -1,0 +1,1 @@
+"FIGURE 43. Most parsimonious phylogenetic tree of the genus Pyrgus, using Carcharodus baeticus and Muschampia proto asoutgroup taxa. The analysis included all the studied characters (19 morphological and 3 ecological characters). The Bootstrapsupport for each node is given on the branches. The state changes are shown with white circles (homoplasies) or black circles"

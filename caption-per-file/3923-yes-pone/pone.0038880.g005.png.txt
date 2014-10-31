@@ -1,0 +1,1 @@
+"pone.0038880.g005.png","A phylogenetic tree of Bayesian inference consensus trees based on the last 30,001 maximum likelihood trees for combined dataset of Hypoxidaceae.The Bayesian posterior probability (×100) is indicated near the nodes."

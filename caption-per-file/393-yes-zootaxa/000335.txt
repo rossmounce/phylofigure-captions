@@ -1,0 +1,1 @@
+"FIGURE 25. Phylogenetic tree of 12 Amphinemura specimens with Nemoura cinerea as outgroup, based on 796 bp fragment of 28S. Single most parsimonious tree (length 102 steps, CI 0.89, RI 0.88). Support values: above branches: *, ** indicate Bayesian posterior probability >0.95 and >0.99 respectively; MP and NJ bootstrap percentages are shown in this order"

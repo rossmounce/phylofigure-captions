@@ -1,0 +1,1 @@
+"pone.0019132.g004.png","K. veneficum multigene plastid phylogeny. Maximum likelihood tree inferred by RAxML based on the concatenated alignment of psaA, psaB, psbA, psbC, psbD, and rbcL genes confirms the phylogenetic placement of the K.veneficum plastid. Dots display 100% bootstrap support."

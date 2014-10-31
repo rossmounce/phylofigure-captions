@@ -1,0 +1,1 @@
+"FIGURE 2. Bayesian trees of a 2426 bp fragments of mtDNA (left) and a 1987 bp fragments of nuDNA (right) for sample ofthe L. nigrops group (for the sample numbers, see Table 1). Numbers above branches represent bootstrap support for MP and ML, and Bayesian posterior probabilities (MPBS / MLBS / BPP). Asterisks indicate node with full bootstrap supports for MP and"

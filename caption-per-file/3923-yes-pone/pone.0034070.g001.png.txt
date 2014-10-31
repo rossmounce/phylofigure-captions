@@ -1,0 +1,1 @@
+"pone.0034070.g001.png","ML phylogenetic tree inferred from the complete cytochrome b gene sequences. The numbers on the branches correspond to bootstrap support (BP) for the ML tree and posterior probabilities (PP, shown as percentages) for the BI tree."

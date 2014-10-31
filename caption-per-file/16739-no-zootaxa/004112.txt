@@ -1,0 +1,1 @@
+"FIGURE 4. PCA for plastron shape. Specimens are marked according to haplotype group. A—haplotype group 1, B—group 2,C—group 3, D—haplotype 61, U—unknown. The first axis PC1 explains 29.79% and second axis PC2 explains 14.14% of thetotal variance in the shapes."

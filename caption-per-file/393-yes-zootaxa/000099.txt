@@ -1,0 +1,1 @@
+FIGURE 7. Phylogram of a maximum parsimony analysis of eight sequences from the ITS1 region. This is tree one of 15 most parsimonious trees. After all gaps and missing data were removed there were a total of 492 positions available for analysis ofwhich 38 were parsimony informative. No outgroup was used.

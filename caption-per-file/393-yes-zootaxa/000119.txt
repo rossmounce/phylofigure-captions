@@ -1,0 +1,1 @@
+"FIGURE 53. Single tree of Selenocosmiinae obtained with TNT: RAS & TBR searches with implied weighting (K  =  6),length: 72, total fit: 40.75, adjusted homoplasy: 2.25. Node numbers in bold, character numbers above rectangles, characterstates (state transformations for multi-state characters) below. Hollow rectangles indicate homoplasy, solid rectangles indicate"

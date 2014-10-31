@@ -1,0 +1,1 @@
+"pone.0031445.g007.png","Phylogenetic tree topology comparison-2. Comparative picture of phylogenetic trees between functionally equivalent pair of subunits from the two adaptor protein complexes, AP2M (2vglM) and AP1M (1w63M). The trees were constructed as mentioned in the legend to Figure 6 and in the merthods section."

@@ -1,0 +1,1 @@
+"pone.0020250.g004.png","Alignment of the amino-acid sequences of the R2D2 proteins from Bombyx mori (BmR2D2), Tribolium castaneum (TcR2D2) and Drosophila melanogaster (DmR2D2) and the phylogenetic tree derived from it. Identical amino-acids are boxed in black. The two dsRNA-binding domains are underlined."

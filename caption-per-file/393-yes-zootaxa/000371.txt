@@ -1,0 +1,1 @@
+FIGURE 9. Maximum-likelihood tree of Pyllocnistis species based on 639 bp of the mitochondrial gene cytochrome oxidase subunit I (COI). Numbers above branches indicate bootstrap support higher than 60%; branch lengths are indicated below. Asterisks indicate bootstrap values < 60% and branch lengths < 0.001. Species of Bucculatricidae (Bucculatrix canadensisella)

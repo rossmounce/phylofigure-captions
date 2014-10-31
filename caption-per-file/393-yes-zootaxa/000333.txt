@@ -1,0 +1,1 @@
+FIGURE 3. Results of the phylogenetic analysis of morphological and molecular data. The tree shown is the single most parsimonious tree (length 10144) with jackknife support values added. Two nodes were supported in the jackknife analysis butnot the strict consensus: Megalomys desmarestii plus M. luciae (jackknife support 0.53) and Oryzomys couesi plus O. gorgasi

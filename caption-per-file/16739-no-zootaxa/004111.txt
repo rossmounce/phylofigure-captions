@@ -1,0 +1,1 @@
+"FIGURE 3. Bayesian skyline plot demonstrating changes in effective population size in Orlitia borneensis based on mitochondrial data. Thick solid line represents median of the estimate, borders of grey area delineate the highest 95% posterior densityinterval."

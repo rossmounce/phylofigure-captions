@@ -1,0 +1,1 @@
+"FIGURE 3. The Maximum Likelihood tree recovered from analysis of the combined data (COI, EF-1 a and 28S D2-D3), as reported in Gullan et al. (2010) but with species names associated with the former clades A–F and I. Bootstrap proportions (BS)are given above each node and posterior probabilities (PP) below each node. The terminal labelled ‘Ferrisia quaintancii?’ was"

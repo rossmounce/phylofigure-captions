@@ -1,0 +1,1 @@
+"pone.0054063.g003.png","Consensus tree from a Bayesian phylogenetic analysis using all three gene regions.This is a species-level depiction of Figure S1B; see that figure for analysis details. Internal nodes show support as posterior probability, expressed as percent."

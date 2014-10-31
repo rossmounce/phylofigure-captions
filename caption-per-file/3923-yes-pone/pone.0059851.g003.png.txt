@@ -1,0 +1,1 @@
+"pone.0059851.g003.png","Distribution of the best RRPE and PAC/PAC2 matches across fungal phylogeny.Sequence logos represent the best SCOPE matches to RRPE and PAC/PAC2 sequence for each species."

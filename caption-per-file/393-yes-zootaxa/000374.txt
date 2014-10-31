@@ -1,0 +1,1 @@
+FIGURE 5. Phylogenetic reconstruction based on maximum likelihood analysis of internal transcribed spacer region 2 sequences. Up to three figures are written above or under branches or to the right of bars connecting taxa. The first figure (inplain font) is the Bayesian posterior probability multiplied by 100 for legibility. The second (in bold font) if present is the

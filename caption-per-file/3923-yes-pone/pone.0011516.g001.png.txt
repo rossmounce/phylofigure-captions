@@ -1,0 +1,1 @@
+"pone.0011516.g001.png","Phylogenetic analysis of well characterized plant ALDHs.Neighbor-Joining (NJ) method was used to performe a phylogenetic analysis of O. sativa (red), A. thaliana (blue), P. patens (green), and C. reinhardtii (yellow) deduced ALDH protein sequences. Members of respective ALDH families are depicted in a specific background colour."

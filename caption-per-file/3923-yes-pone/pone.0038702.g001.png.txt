@@ -1,0 +1,1 @@
+"pone.0038702.g001.png","Bayesian phylogram based on combined cpDNA data.Support values are Bayesian posterior probability/maximum parsimony bootstrap/maximum likelihood bootstrap. Names in all caps to the right of brackets indicate sections of Panicum s.s. Outgroups have been omitted for clarity."

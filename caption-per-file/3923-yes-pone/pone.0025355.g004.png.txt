@@ -1,0 +1,1 @@
+"pone.0025355.g004.png","Bayesian phylograms from 18S rRNA, Hsp70 nDNA, Fox-D nDNA, EF-1γ nDNA, and Wingless nDNA matrices. Asterisks indicate pp values above 0.95%. The californicus and erebus group species are indicated by colored branches (see insert). Outgroups have been removed from gene trees for illustration purposes."

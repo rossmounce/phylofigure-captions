@@ -1,0 +1,1 @@
+"pone.0020040.g001.png","Topology of phylogenetic analysis and ancestral reconstruction of female body size and clutch size in the Tropidurinae. Topology used for phylogenetic analysis (based on [58]), together with parsimony reconstructions of ancestral body and clutch size in gravid females within Tropidurinae lizards."

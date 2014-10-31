@@ -1,0 +1,1 @@
+"pone.0045219.g002.png","Neighbor-Joining (NJ) phylogenetic tree showing genetic interrelationship among seven different population samples based on pairwise population genetic distance matrix (Nei's D, Table S3).The colour codes of the three clades are same as that of the Figure 1, corresponding to differential incidences of vivax malaria (high, medium, low)."

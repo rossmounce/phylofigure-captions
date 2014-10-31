@@ -1,0 +1,1 @@
+"FIGURE 5. Maximum likelihood (ML) phylogenetic tree of 131 Hemidactylus specimens of the Arid clade (Carranza & Arnold,2006) based on 2866 bp of concatenated sequences of four mitochondrial (12S, cyb, nd4 and tRNAs) and three nuclear (c-mos, mc1rand rag2) genes. Two specimens of H. flaviviridis were used to root the tree and have not been included in the figure. Tree topology"

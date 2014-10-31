@@ -1,0 +1,1 @@
+"pone.0016388.g004.png","Distance of the phylogenetic tree of 12 nodes (developed by MATLAB 7.3)."

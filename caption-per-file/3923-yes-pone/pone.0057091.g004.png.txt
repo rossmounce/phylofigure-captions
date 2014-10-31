@@ -1,0 +1,1 @@
+"pone.0057091.g004.png","Phylogenetic tree of K. pneumoniae isolates with one representative in each ST as derived from concatenated sequences of the 7 gene loci used in MLST.The tree was constructed using the maximum likelihood method. The phylogenetically distinct cluster is shaded."

@@ -1,0 +1,1 @@
+"pone.0059366.g009.png","T3SS effector proteins (T3EPs) phylogeny.For the phylogenetic analysis, the amino acid sequences of every effector group were used, as they are presented in the Hop Database website. Additional information for the phylogeny of the rest of Pcal T3EPs can be found in figure S4."

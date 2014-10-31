@@ -1,0 +1,1 @@
+"pone.0007606.g002.png","Mitochondrial DNA cytochrome oxidase 1 (COI) phylogenetic tree.Phylogenetic tree using the 49 mitochondrial COI representing the eight recognized tuna species and including individuals of T. thynnus and T. orientalis with introgressed mtDNA. Tree is rooted at midpoint. Numbers above the nodes represent bootstrap support above 60% after 1,000 replicates."

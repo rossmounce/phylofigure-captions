@@ -1,0 +1,1 @@
+"FIGURE 6. Two-dimensional plots of (A, C) the first two factors of PCA and (B, D) the first and third factors ofmorphological characters for the samples examined. Data are given separately for males (A, B) and females (C, D). Greencircles, yellow circles, orange triangles, blue diamonds, violet squares and red circles indicate scores of Russian O. fischeri,"

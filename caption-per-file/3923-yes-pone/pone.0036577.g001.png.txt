@@ -1,0 +1,1 @@
+"pone.0036577.g001.png","Maximum Likelihood phylogenetic tree for 76 HPV16 samples from Anyang.This tree is constructed using whole genome sequences and bootstrap scores larger than 70% are displayed. The tree itself is shown in bold, the sample IDs are linked through dashed lines. EPs are the European Prototypes and EAs are the European Asian types."

@@ -1,0 +1,1 @@
+"pone.0029329.g002.png","Phylogenetic relationships among haplotypes. The inferred phylogenetic tree and the Major-joining network based on the combined COI, cyt b and ND2 genes. Numbers above tree branches are the posterior probabilities for the BI and bootstrap values for the ML below. Dashes and numbers in the network represent the corresponding mutation steps."

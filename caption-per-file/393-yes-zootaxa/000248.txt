@@ -1,0 +1,1 @@
+"FIGURE 2. Maximum likelihood Hypostomus phylogenetic tree based on D-loop haplotypes (-lnL  =  5192.34998). The ML treewas derived using the HKY + G model of sequence evolution. Numbers next to branches are Bayesian posterior probabilitiesfollowed by bootstrap values when these are above 50%, respectively. These support values are showed only for the relevant"

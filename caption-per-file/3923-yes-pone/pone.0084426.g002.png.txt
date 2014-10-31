@@ -1,0 +1,1 @@
+"pone.0084426.g002.png","Phylogenetic trees based on catalase amino acid sequences, showing the phylogenetic relationships between ScCAT1 (KF664183) and the catalases from other plant species.Neighbor-joining method was used."

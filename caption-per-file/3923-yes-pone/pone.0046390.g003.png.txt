@@ -1,0 +1,1 @@
+"pone.0046390.g003.png","The phylogenetic tree.(A) The neighbor-joining (NJ) tree obtained on the basis of the housekeeping gene rpoB. The red solid circles represent GIs with virB/D clusters. (B) NJ tree obtained on the basis of a concatenated sequence of virB4, virB6, and virD4 genes in GI."

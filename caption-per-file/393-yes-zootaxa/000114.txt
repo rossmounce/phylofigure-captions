@@ -1,0 +1,1 @@
+"FIGURE 6. Phylogenetic tree of Neotropical skinks (Mabuyidae, Mabuyinae) showing linearized branch lengths (GTR +gamma + invariants) derived from sequences of the cytochrome b gene. A scale of pairwise sequence divergence is indicatedbelow. The topology of the four-gene analysis (Fig. 5) was used, where cytochrome b sequences were present. Gray bars at"

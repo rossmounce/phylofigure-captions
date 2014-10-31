@@ -1,0 +1,1 @@
+"pone.0026237.g001.png","Phylogenetic analysis of VP1 protein coding region and the complete polyprotein coding region of EV71 strains. A: phylogenetic tree based on VP1 protein coding region. B: phylogenetic tree based on polyprotein coding region. ▴: SC-EV71 strain."

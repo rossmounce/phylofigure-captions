@@ -1,0 +1,1 @@
+"pone.0057091.g003.png","50% majority-rule consensus phylogenetic tree derived from ClonalFrame for the 7 housekeeping loci in K. pneumoniae, displaying the clonal relationship between the STs and drug resistance of the K. pneumoniae population."

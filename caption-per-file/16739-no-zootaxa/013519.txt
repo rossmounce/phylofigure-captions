@@ -1,0 +1,1 @@
+"FIGURE 4. Plot of different developmental stages against number of days for larvae of Nasikhabatrachus sahyadrensis(Gosner stage = 0.252 x days since hatching + 22.86, and R² = 0.969)."

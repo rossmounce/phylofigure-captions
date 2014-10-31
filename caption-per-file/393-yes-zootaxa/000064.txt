@@ -1,0 +1,1 @@
+FIGURE 7. Phylogenetic trees based on the combined mitochondrial 12S and 16S rDNA sequence (954 bp) showing thegenetic relationship of the Dasia johnsinghi sp. nov. relative to other Dasia species: (a) Maximum Likelihood (b) MaximumParsimony and (c) Bayesian tree. Values at the nodes are bootstrap support values or posterior probabilities obtained in ML / MP

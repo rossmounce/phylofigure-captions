@@ -1,0 +1,1 @@
+"pone.0036968.g001.png","Schematic representation of the 12 LEAP classes.(A) Consensus sequences of the LEAP classes. The way they were obtained introduced gaps (see Material and Methods). Therefore, the lengths indicated in the figure do not reflect real LEAP sequence lengths. (B) Radial phylogram obtained with the 12 LEAP clas consensus sequences."

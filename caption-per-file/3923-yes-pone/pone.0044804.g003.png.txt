@@ -1,0 +1,1 @@
+"pone.0044804.g003.png","Bayesian consensus phylogram of Arachonia COI and Cytb haplotpyes.Host Ficus section is indicated with vertical coloured bars. Arrows indicate polyphyletic Ficus associations with Sycomorus within otherwise Galoglychia-affiliated lineages. Posterior probability node support is given in Figure S2."

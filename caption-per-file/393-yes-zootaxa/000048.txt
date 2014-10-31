@@ -1,0 +1,1 @@
+"FIGURE 84. Tree from Bayesian analysis of 28S, indel, and Histone H3 data sets of selected taxa of Deltocephalinae. Numbers above branches are Bayesian posterior probability values and numbers below branches are parsimony bootstrap  /  maximum likelihood bootstrap values."

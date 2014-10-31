@@ -1,0 +1,1 @@
+"pone.0054844.g006.png","Inferred phylogeny of Gallibacterium anatis using concatenated sequences for eight housekeeping genes.Data was analyzed using the Maximum Likelihood method based on the Hasegawa-Kishino-Yano model in MEGA5. A total of 4,172 positions were used in the final dataset and 100 bootstrap replicates were included."

@@ -1,0 +1,1 @@
+FIGURE 2. The Bayesian consensus tree inferred from COI under GTR+I+G model (lnL = 3999.9661; freqA = 0.2104;freqC = 0.1017; freqG = 0.1948; freqT = 0.4931; R(a) = 1.2258; R(b) = 7.2392; R(c) = 1.5064; R(d) = 0.0698; R(e) = 4.1806; R(f) = 1;Pinva = 0.5476; Shape = 1.5992). Posterior probability values exceeding 50% are given on appropriate clades.

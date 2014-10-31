@@ -1,0 +1,1 @@
+"pone.0050312.g002.png","Laccase protein phylogeny.Phylogenetic tree was built based on an alignment of Lac51 and Lac9 with the nearest relative multicopper oxidases in Pseudomonas spp. and other representatives of bacteria from which laccase activity was demonstrated [18]."

@@ -1,0 +1,1 @@
+"FIGURE 14. Strict consensus of 16 best fit cladograms under implied weights, concavity constant k = 3. Numbers above branches are GC values."

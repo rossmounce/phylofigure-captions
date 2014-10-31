@@ -1,0 +1,1 @@
+"pone.0011324.g001.png","Sequence and phylogenetic analysis of PDGFRβ.Alignment of the zebrafish PDGFRβ tyrosine kinase domain with known PDGFRβ proteins of human, mouse, and Fugu (A). Phylogenetic analysis of PDGFRβ and PDGF-B proteins (B). Arrows in A indicate the beginning and end of the tyrosine kinase domains of PDGFRβ."

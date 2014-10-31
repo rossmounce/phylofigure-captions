@@ -1,0 +1,1 @@
+"FIGURE 1. A, strict consensus tree of the 151 equally most parsimonious trees obtained. Numbers above the branches indicateMP jackknife support, numbers below the branches indicate ML bootstrap; * indicates a node absent in the ML tree. B, majority-rule consensus tree resulting from the Bayesian analysis depicting branch lengths. Numbers indicate posterior"

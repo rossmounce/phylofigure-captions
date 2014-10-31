@@ -1,0 +1,1 @@
+"pone.0043912.g001.png","Species level phylogeny of 4339 amphibian species, colour-coded by species’ EDGE scores. Data Deficient and Extinct species have been omitted."

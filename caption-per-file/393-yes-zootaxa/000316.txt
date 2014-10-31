@@ -1,0 +1,1 @@
+"FIGURE 1. The most parsimonious tree (length: 400 steps, CI  =  0.57, RI  =  0.79) with Bremer support  /  jackknife values (onlyif greater than 50%)."

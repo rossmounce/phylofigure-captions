@@ -1,0 +1,1 @@
+"pone.0081016.g003.png","The ML phylogeny inferred from the four-fold degenerate sites of 474 genes.The internal nodes are labeled 19–35, with node 35 being the divergent point between E. coli and Salmonella and node 32 being the root node of the ingroup Salmonella."

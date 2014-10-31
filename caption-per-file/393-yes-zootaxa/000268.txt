@@ -1,0 +1,1 @@
+"FIGURE 2. Maximum likelihood inference phylogram of evolutionary relationships of Pseudophryne mitochondrial ND4sequences. Branches in gray indicate that Bayesian posterior probabilities were ≥0.95 and ML bootstrap proportions were≥70%. Symbols and numbers refer to locations and taxa on maps (Figs 1, 7) and Table 1."

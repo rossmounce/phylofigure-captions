@@ -1,0 +1,1 @@
+"FIGURE 2. Bayesian tree of partial 16S rDNA sequences (alignment of 326bps, Genbank acc#: JN609568-JN609587) of Terebellides specimens from the Western South Atlantic (sub-clade I), Western Mediterranean Sea (II), Maud Rise (II), and theAntarctic continental shelf (III). Node values show posterior probabilities, measure bar indicates branch length"

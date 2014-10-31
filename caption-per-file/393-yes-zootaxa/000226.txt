@@ -1,0 +1,1 @@
+FIGURE 7. NJ tree based on a 390 bp fragment of cytochrome c oxidase subunit I barcode region from 5 samples of C. luteusplus the other sequences of the same mtDNA region for the genus Cyrtogenius retrieved from GenBank. Bootstrap percent values (1000 replicates) higher than 50 are reported on nodes.

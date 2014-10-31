@@ -1,0 +1,1 @@
+FIGURE 6 Phylogenetic tree inferred from 13 PCGs of 35 heteropteran species and 4 out-group hemipteran insects. Bayesian and ML analyses show the same topology. The value at each node denotes Bayesian posterior probabilities and bootstrap values of ML.

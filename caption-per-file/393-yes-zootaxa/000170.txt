@@ -1,0 +1,1 @@
+FIGURE 14. Character optimizations for the single most parsimonious tree (Matrix 2) under equal weights (continued fromFigure 13). Ambiguous character changes optimized as in Figure 11. Thicker lines indicate Ternatus clade.

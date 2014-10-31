@@ -1,0 +1,1 @@
+FIGURE 11. Neighbour-joining tree of Polistes COI sequence data. Bootstrap support values are indicated for major nodes.The tree was re-rooted on the outgroup taxon P. dominula. The number of identical sequences (if greater than 1) and geographicorigin by state / province are given in parentheses behind the GenBank accession number.

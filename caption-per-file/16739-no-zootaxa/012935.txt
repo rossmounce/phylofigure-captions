@@ -1,0 +1,1 @@
+"FIGURE 11. Bivariate plot of Principal Compenent 1 vs. Principal Component 2, showing lack of a priori multivariatediscrimination among Nyctimystes cheesmani (open squares), N. bivocalis (open circles), and N. intercastellus (triangles)."

@@ -1,0 +1,1 @@
+"FIGURE 25. Simplified molecular phylogeny of the Astrophorida focusing on the relationships within the Theneidae,modified from Cárdenas et al. (2011, Fig. 2). Maximum-likelihood tree made from concatenated sequences of COI (Folmerfragment) and 28S (C1–D2 domains). Bootstrap nodal support values >50% are given above the nodes (2,000 replicates)."

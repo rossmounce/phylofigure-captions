@@ -1,0 +1,1 @@
+"pone.0033359.g003.png","1-Ancestral character state reconstruction for the evolution of depth limits (a) and habitat (b) in bivalves based on unweighted parsimony was mapped onto the ML phylogeny. Character states are represented by colour-coded depth intervals. Branches with equivocal character states are shown in grey."

@@ -1,0 +1,1 @@
+"FIGURE 2. Majority rule consensus tree obtained in Bayesian analysis. Numbers below branches are posterior probabilities obtained from 45,000 trees. Numbers above branches are bootstrap values from 1,000 bootstrap pseudoreplicates obtained inmaximum-parsimony analysis. Values below 50% are not shown."

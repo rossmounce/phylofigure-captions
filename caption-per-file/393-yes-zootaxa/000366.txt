@@ -1,0 +1,1 @@
+"FIGURE 39. Neighbor-joining tree of the Teleiopsis (implemented under Kimura 2 Parameter model) based on sequences ofthe mtDNA COI gene 5’ fragment (DNA barcode, 658 bp). Bootstrap support values, based on 500 pseudoreplicates, are shownfor internal nodes. The tree was rooted on T. terebinthinella, the presumed sister taxon of other species. The scale bar indicates"

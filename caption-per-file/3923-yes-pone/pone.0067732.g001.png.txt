@@ -1,0 +1,1 @@
+"pone.0067732.g001.png","Neighbor-joining phylogenetic tree of the amino acid sequences of HMGR by Molecular Evolutionary Genetics Analysis Software Version 4.0 (MEGA4).The branches were statistically evaluated by bootstrap analysis. All sequences were from GenBank."

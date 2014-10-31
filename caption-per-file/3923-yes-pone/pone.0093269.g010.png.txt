@@ -1,0 +1,1 @@
+"pone.0093269.g010.png","Open reading frame structure and phylogenetic analysis of the human papillomavirus genome identified in this study.Analysis and graphical presentation was performed as described in the legend to Figure 7. The HPV reference genomes are from reference [45], For the phylogenetic analysis, the ORFS for E6-E7-E1-E2-L2-L1 were concatenated."

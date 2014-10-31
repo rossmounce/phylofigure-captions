@@ -1,0 +1,1 @@
+"FIGURE 2. Cluster analysis, with Jaccard's coefficient and centroid clustering method showing the taxonomic similarities between the bioregions considered. Although Pantepui and Marine cluster together they do not share any similarity, these two bioregions are clearly distinct from all other bioregions."

@@ -1,0 +1,1 @@
+FIGURE 6. Phylogenetic relationships among species of Oligoryzomys based on Maximum likelihood (ML) analysis of thecytochrome b gene. Nodal support values shown above branches are ML bootstrap values (>50%) and Bayesian posterior probability (>0.50). Model of substitution selected was GTR+G.

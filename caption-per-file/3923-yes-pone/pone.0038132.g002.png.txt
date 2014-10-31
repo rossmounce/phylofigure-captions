@@ -1,0 +1,1 @@
+"pone.0038132.g002.png","Results of phylogenetic analyses.(A) Phylogram of bayesian analysis of full dataset (see text). Numbers indicate posterior probability for respective branches. (B) Strict consensus of three trees from maximum likelihood analysis. Numbers indicate bootstrap values. Where these values are missing the respective node collapsed in the bootstrap analysis."

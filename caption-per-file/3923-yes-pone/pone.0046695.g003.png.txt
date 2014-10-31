@@ -1,0 +1,1 @@
+"pone.0046695.g003.png","Rooted neighbor-joining phylogenetic tree of Alphaproteobacteria species actively involved in DIC assimilation obtained from 16S rRNA gene clone libraries of 13C fractions from SIP experiments conducted at NH-10 in September 2008, March 2009, and May 2010. Clones representing highly similar OTUS were collapsed for clarity."

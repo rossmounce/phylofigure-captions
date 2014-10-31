@@ -1,0 +1,1 @@
+"pone.0028187.g008.png","Phylogenetic relationship of the primate ficolins based on the proteins sequences. The neighbouring joining was bootstrapped 500 times. Based on several output files representative phylogenetic trees were constructed. Numbers on branches are bootstrap percentages supporting a given partitioning."

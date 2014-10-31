@@ -1,0 +1,1 @@
+"pone.0089701.g003.png","Maximum-likelihood phylogeny of Meconostigma species based on ETS and matK markers.aLRT values ?85% are indicated in the branch nodes."

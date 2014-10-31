@@ -1,0 +1,1 @@
+"pone.0051781.g009.png","Strict consensus tree from phylogenetic analysis.Consensus tree from three most parsimonious trees (length  = 374, CI  = 0.4679, RI  = 0.7375, HI  = 0.5508) based on taxon-character matrix of 135 morphological characters and 32 taxa of mosasauroids. A: Mosasaurinae. B: Tethysaurinae. C: Halisaurinae. D: Tylosaurinae+Plioplatecarpinae."

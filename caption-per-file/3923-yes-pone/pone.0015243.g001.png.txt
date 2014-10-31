@@ -1,0 +1,1 @@
+"pone.0015243.g001.png","Schematic representation of sequence evolution. The phylogenetic distance of extant sequences to ancestral sequences is reduced, as compared to the distance among extant sequences."

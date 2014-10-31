@@ -1,0 +1,1 @@
+"pone.0048420.g001.png","Bayesian phylogenetic analysis of the complete genome sequence of TBEV strain Ljubljana I.Branch labels represent posterior probabilities. GenBank accession numbers of all sequences are shown in the brackets alongside TBEV strain names. OMSKV?=?Omsk hemorrhagic fever virus."

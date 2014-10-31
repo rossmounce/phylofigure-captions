@@ -1,0 +1,1 @@
+"pone.0064745.g001.png","UPGMA phylogenic tree (MIRU-VNTR plus) based on spoligotype analysis and MIRU-VNTR of Mycobacterium tuberculosis isolates from patients at the Mubende regional referral hospital, Uganda.Standard International types (SIT), lineages and MIRU-VNTR data are presented."

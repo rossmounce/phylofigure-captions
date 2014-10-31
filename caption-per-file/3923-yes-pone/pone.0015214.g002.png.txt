@@ -1,0 +1,1 @@
+"pone.0015214.g002.png","Complete mtDNA phylogenetic tree of subhaplogroup C5c. Numbers along links refer to substitutions scored relative to rCRS [51]. Transversions are further specified; ins denotes insertion of nucleotide; symbol [12]), and FamilyTreeDNA Project individual of unknown population origin (FTDNA)."

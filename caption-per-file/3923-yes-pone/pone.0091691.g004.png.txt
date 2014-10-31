@@ -1,0 +1,1 @@
+"pone.0091691.g004.png","Consensus trees used in phylogenetic analysis.Tick marks represent increments of 10 million years. A, non-primate mammal tree topology and branch lengths derived from [37]–[44]; B, primate tree derived from [45]; C, bird tree derived from [46]–[48]."

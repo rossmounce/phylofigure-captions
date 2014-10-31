@@ -1,0 +1,1 @@
+"pone.0029505.g003.png","Inferred phylogenetic relationships of SFV pol (∼153 bp) sequences detected in USFWS bushmeat samples. Neighbor-joining (NJ) and maximum-likelihood (ML) analysis gave identical branching orders. New SFV sequences identified in this study are underlined."

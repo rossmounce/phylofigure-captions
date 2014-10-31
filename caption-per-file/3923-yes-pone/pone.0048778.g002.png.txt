@@ -1,0 +1,1 @@
+"pone.0048778.g002.png","Maximum-parsimony phylogram of 49 hemipterans.Phylogenetic analysis was based on 13 protein-coding genes (only including first and second codon positions) and two rRNA genes. The tree was rooted by Orthoptera and Psocoptera. Only bootstrap support values above 50% are shown."

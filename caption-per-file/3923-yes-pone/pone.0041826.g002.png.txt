@@ -1,0 +1,1 @@
+"pone.0041826.g002.png","Phylogenetic tree of ATG8 proteins.ATG8 from M. brevicollis is used as outgroups. The phylogenetic tree was constructed as described in Methods section (1000 bootstrap replicates). Protein accession numbers and the strain names are as in Table 1 and Table 4, respectively."

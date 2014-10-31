@@ -1,0 +1,1 @@
+"pone.0020460.g005.png","Neighbor-joining tree showing phylogenetic relationships of 16S rDNA sequences cloned from intestinal contents to closely related sequences from GenBank. The tree was constructed using the neighbor-joining method. The bar indicates 5% sequence divergence."

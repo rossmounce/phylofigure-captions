@@ -1,0 +1,1 @@
+FIGURE 1. The 10001st Bayesian tree inferred from D2 / 3 under TVM+I+G model (lnL = 3666.3835; freqA = 0.2858;freqC = 0.1462; freqG = 0.2398; freqT = 0.3281; R(a) = 0.9646; R(b) = 4.53; R(c) = 2.4724; R(d) = 0.3335; R(e) = 4.53; R(f) = 1;Pinva = 0.5461; Shape = 0.5601). Posterior probability values exceeding 50% are given on appropriate clades. The legend on the

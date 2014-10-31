@@ -1,0 +1,1 @@
+"FIGURE 2. Median-joining network indicating relationships among haplotypes of Orlitia borneensis based on cytochrome bsequences. Haplotypes are denoted as circles, their size is proportional to number of individuals carrying respective haplotype.Numbers at branches represent numbers of mutational steps (displayed for n > 1). Three main haplogroups are marked by ovals."

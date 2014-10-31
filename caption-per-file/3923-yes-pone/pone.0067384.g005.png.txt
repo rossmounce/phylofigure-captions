@@ -1,0 +1,1 @@
+"pone.0067384.g005.png","Network analysis of the cloned D1/D2 sequences.(A) Rooted rectangular phylogenetic network. Dotted lines represent network edges. (B) Neighbor-net splits graph. The scale bar represents the split support for the edges. Clusters described in the text are denoted by Roman numerals."

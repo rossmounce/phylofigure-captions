@@ -1,0 +1,1 @@
+"pone.0007123.g003.png","Structure-based phylogenetic tree of TFP domains.The tree was computed using BioNJ and a matrix of pairwise structure distances derived from phenotypic plasticity method (PPM) similarity scores. PDB codes in bold correspond to the structure adjacent structure shown in ribbon representation."

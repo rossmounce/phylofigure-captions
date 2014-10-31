@@ -1,0 +1,1 @@
+"pone.0080818.g002.png","A phylogenetic tree showing the evolutionary relationship of the CDPK family among the A. thaliana (At), V. vinifera (Vv), and A. trichopoda(Atr).Parameters for constructing the Maximum likelihood tree: JTT model, partial deletion, no. of bootstrap replications: 1000."

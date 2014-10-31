@@ -1,0 +1,1 @@
+"pone.0039304.g006.png","Mitochondrial phylogeny.Result of Bayesian phylogenetic analyses of three mitochondrial genes. Node numbers indicate Bayesian posterior probabilities."

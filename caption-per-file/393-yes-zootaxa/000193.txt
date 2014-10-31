@@ -1,0 +1,1 @@
+"FIGURE 10. Neighbor Joining tree (Kimura 2 parameter, built with MEGA 5; cf. Tamura et al. 2011), only sequences (>600bp) considered. Width of triangles represent sample size, depth the genetic variation within the cluster. Source: DNA Barcode data from BOLD (Barcode of Life Database, cf. Ratnasingham & Hebert 2007)."

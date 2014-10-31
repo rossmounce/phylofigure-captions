@@ -1,0 +1,1 @@
+"FIGURE 4. Phylogenetic relationships (phylogram of best ML tree) of species of Hypselobarbus reconstructed using RaxMLand 11 mitochondrial genes. General information is provided in text and outlined in Table 4. Numbers at nodes represent bootstrap values for ML. *R — from Rusewalai fish farm, *S — from Shimoga fish farm."

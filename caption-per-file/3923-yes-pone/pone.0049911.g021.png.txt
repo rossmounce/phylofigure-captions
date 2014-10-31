@@ -1,0 +1,1 @@
+"pone.0049911.g021.png","Result of the first phylogenetic analysis based on 39 taxa and 110 characters.Strict consensus tree of the 584 equally parsimonious trees (length  = 288; consistency index  = 0.4132; retention index  = 0.6938). Branch in grey is supported only by ambiguous synapomorphies."

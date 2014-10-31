@@ -1,0 +1,1 @@
+"FIGURE 11. The power spectra of the female response songs of Isophya bumernagoides and I. rizeensis (FFT size 16384, window function: Hanning).Literature cited"

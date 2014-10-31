@@ -1,0 +1,1 @@
+"pone.0052377.g002.png","Phylogenetic tree based on 18S gene sequences of lice species collected from domestic animals.Accession numbers in red color are 18S gene sequence of lice of animals from Ethiopia recently deposited in the GenBank. Minimum evolution method was used to build the phylogentic tree. Bootstrap values are indicated at the nodes."

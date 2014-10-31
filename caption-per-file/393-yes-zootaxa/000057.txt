@@ -1,0 +1,1 @@
+"FIGURE 2. Consensus trees from bayesian inference analysis for mtDNA locus, individual nuclear loci, concatenated nucleardata, and concatenated mtDNA and nuclear data. Posterior probabilities from the Bayesian analysis are listed before bootstrapsfrom the ML analysis."

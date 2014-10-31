@@ -1,0 +1,1 @@
+"pone.0041389.g003.png","Genomic segment flux in Haloferax.GenoPlast was used to infer rates of genomic gain (red) and loss (blue) in the Haloferax lineage, depicted by width of line along phylogeny branch. 95% confidence intervals are represented by bordering thin blue and red lines."

@@ -1,0 +1,1 @@
+"pone.0020223.g007.png","Neighbour-joining phylogenetic tree based on nodC gene sequences (about 860 nt) showing the position of representative strains from each biovar analysed in this study. Bootstrap values calculated for 1000 replications are indicated. Bar, 5 nt substitution per 100 nt. Accesion numbers from Genbank are given in brackets."

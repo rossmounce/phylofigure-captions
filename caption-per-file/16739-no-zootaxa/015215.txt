@@ -1,0 +1,1 @@
+"FIGURE 3. Bivariate plot of (A) principal component 1 (eigenvalue = 0.168) versus principal component 2 (eigenvalue =0.012), and (B) principal component 2 versus principal component 3 (eigenvalue = 0.008) for eight type specimens ofCophixalus aimbensis (closed circles), ten other specimens of C. verrucosus from Sudest Island (open circles), ten specimens"

@@ -1,0 +1,1 @@
+"pone.0042240.g003.png","Consensus phylogenetic tree resulting from the Bayesian analysis of 28S rDNA sequence data.Clade support indicated by Bayesian posterior probabilities. The Lizard Island polyclad (G20079) falls out within a well–supported clade of Amakusaplana acroporae from captivity."

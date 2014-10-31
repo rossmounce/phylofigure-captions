@@ -1,0 +1,1 @@
+"pone.0068518.g005.png","Maximum likelihood phylogeny of 82 plastome genes from 47 asterids (21 families, 10 orders and one unplaced family).All nodes, except the ones indicated, received 100% bootstrap support in ML/MP analyses."

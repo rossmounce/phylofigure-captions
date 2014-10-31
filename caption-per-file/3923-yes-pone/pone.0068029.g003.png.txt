@@ -1,0 +1,1 @@
+"pone.0068029.g003.png","BEAST chronophylogenetic trees.More likely chronophylogenetic tree from the BEAST analysis for 28 species of Primates using mtDNA and nuclear sequences. Mean node ages are depicted in each node. Blue horizontal bars represent the posterior 95% CI for the node ages. The vertical line shows the estimated earliest age of Patagonian lineages."

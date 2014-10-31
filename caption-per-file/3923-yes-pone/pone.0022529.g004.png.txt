@@ -1,0 +1,1 @@
+"pone.0022529.g004.png","A consensus phylogenetic tree of 200 PV based on nucleotide sequences of the L1 gene. Numbers at nodes show maximum likelihood bootstrap support (%) above 50. Betapapillomavirus species numbers are indicated above the corresponding genotypes."

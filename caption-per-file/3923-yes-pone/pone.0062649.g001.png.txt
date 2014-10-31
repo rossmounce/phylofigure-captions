@@ -1,0 +1,1 @@
+"pone.0062649.g001.png","Evolutionary history of DENV-1.The phylogeny was inferred using a Maximum likelihood analysis of 1583 sequences. Because of the large number of isolates branch tips were removed. Numbers correspond to bootstrapping values."

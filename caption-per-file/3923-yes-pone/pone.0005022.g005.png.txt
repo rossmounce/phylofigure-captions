@@ -1,0 +1,1 @@
+"pone.0005022.g005.png","The panorama phylogenetic tree of subtype H3 influenza virus based on the viral HA sequences.Bootstrap values were given at relevant nodes."

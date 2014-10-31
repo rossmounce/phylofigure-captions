@@ -1,0 +1,1 @@
+"pone.0055814.g003.png","The most frequently occurring organisms, by the number of associated events found in literature.This plot illustrates that this study covers normalized event data across all domains and kingdoms. It was created with iTOL [51], and the phylogenetic tree is constructed through the information available at NCBI Taxonomy [19]."

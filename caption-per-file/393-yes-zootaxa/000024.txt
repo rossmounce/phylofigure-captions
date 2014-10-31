@@ -1,0 +1,1 @@
+"FIGURE 1. The Bayesian 50% majority-rule consensus tree inferred from the combined dataset of 12S RNA, 16S RNA, cyt band ND4 based on a four-partition strategy. Posterior probabilities (BI) and bootstrap values (ML / MP) for the clades are shownin this order. Support values < 50% are indicated by “-“."

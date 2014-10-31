@@ -1,0 +1,1 @@
+"pone.0086788.g005.png","Maximum-likelihood phylogenetic tree for the hemagglutinin gene segment of Italian 2010–2012 H5N2 LPAI viruses.Viruses sequenced and characterized in this study are in red. Numbers at the nodes represent bootstrap values."

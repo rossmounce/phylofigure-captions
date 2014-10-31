@@ -1,0 +1,1 @@
+"pone.0080653.g006.png","Phylogeny and diversity of 16S rRNA gene clone libraries from H. perlevis, O. papilla, P. penicillus and seawater.(A) Maximum-likelihood circular phylogenetic tree constructed using partial 16S rRNA gene sequences bacterial OTUs. (B) Clone library diversity inferred from each source."

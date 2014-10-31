@@ -1,0 +1,1 @@
+"pone.0003837.g003.png","Proposed phylogeny of 12 Prochlorococcus genomes by integrating gene order phylogeny as well as phylogeny inferred from random concatenation of 100 core genes.(A) MIT9211/SS120 clade is closer to the HL species (B) NATL1A/NATL2A clade is closer to the HL species."

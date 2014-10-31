@@ -1,0 +1,1 @@
+"pone.0004002.g002.png","Bayesian phylogenetic tree of B. lusitaniae strains based on the IGS.The tree was rooted with B. burgdorferi strain B31. Posterior probabilities values are indicated to provide branch support. The scale bar represents 5% sequence divergence. B. lusitaniae samples derived from Grândola are highlighted."

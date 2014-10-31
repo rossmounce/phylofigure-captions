@@ -1,0 +1,1 @@
+"pone.0056288.g003.png","Bayesian phylogenetic tree based on internal transcribed spacer 2 (ITS-2) sequences of Bursaphelenchus xylophilus (Bx) and B. mucronatus (Bm).Support values are given in Bayesian posterior probabilities. The scale bar represents nucleotide substitutions per site."

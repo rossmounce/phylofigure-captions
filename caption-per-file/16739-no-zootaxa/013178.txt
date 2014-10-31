@@ -1,0 +1,1 @@
+"FIGURE 10. Discriminant function scores for Polistes hirsuticornis sp. nov., P. parametricus sp. nov. and three relatedspecies. Analysis based on 11 morphometric parameters for females (top chart) and 12 for males (bottom chart). For Wilks' λ, Fand p values see Table 5. Ellipses are for visualization purposes only and do not represent confidence thresholds."

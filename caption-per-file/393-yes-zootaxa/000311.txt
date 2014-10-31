@@ -1,0 +1,1 @@
+FIGURE 12. Cladistic analysis of Polistes COI sequence data: support tree. GC values are indicated for major nodes. The strictconsensus tree is identical to the support tree except for the node marked * which is unresolved in the former. The number ofidentical sequences (if greater than 1) and geographic origin by state / province are given in parentheses behind the GenBank

@@ -1,0 +1,1 @@
+"pone.0032139.g007.png","MEGA 4.0.2-derived phylogenetic relationships between sequences within the Mix5 T1-0.05 dataset at the FastGroupII-defined OTU level (unrooted ME trees, 100 bootstrap replicates, K2P model). Bootstrap values >50 are highlighted. OTUs are named and represented as in Figure 6."

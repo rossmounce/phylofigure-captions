@@ -1,0 +1,1 @@
+"FIGURE 3. Bayesian phylogenetic tree of crangonyctid species together with Crymostygius thingvallensis based on 18S sequences. Posterior probability values are displayed in the box. The tree is rooted by Megaluropus longimerus, the outgroup isnot shown. Branches are drawn to scale, with the bar indicating 0.01 expected changes per site."

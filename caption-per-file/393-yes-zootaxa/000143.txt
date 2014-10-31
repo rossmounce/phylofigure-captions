@@ -1,0 +1,1 @@
+"FIGURE 13. Strict consensus of 999 shortest cladograms (260 steps, CI 0.50, RI 0.84) with equal character weights. Numbersabove branches are jackknife frequencies >50%, numbers below nodes are Bremer support."

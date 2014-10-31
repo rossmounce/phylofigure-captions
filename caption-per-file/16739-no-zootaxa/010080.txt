@@ -1,0 +1,1 @@
+"FIGURE 6. (A) Waveform and (B) spectrogram of a 1-second sequence of the call of Aromobates cannatellai sp. nov. Background noise has been strongly reduced and frequencies below 100–500 Hz were filtered from the spectrogram."

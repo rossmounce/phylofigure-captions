@@ -1,0 +1,1 @@
+"pone.0035359.g003.png","Relations between phylogeny and some morphological characters.A: Diagram of the major clades as in Fig. 2. Symbols refer only to taxa included in this study. B: Partial SSU gene tree of the “Lamproderma arcyrioides"" clades derived by Bayesian inference of 549 nucleotide positions."

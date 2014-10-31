@@ -1,0 +1,1 @@
+"pone.0040907.g002.png","Best maximum likelihood phylogenetic tree of all cytb sequences.Sequences from this study are coded by the year of sampling and the sample number. GenBank sequences are indicated by their corresponding accession numbers. Black circles denote well-supported nodes (>90%). LnLik = –4882.55. α = 0.223717."

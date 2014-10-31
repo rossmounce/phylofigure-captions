@@ -1,0 +1,1 @@
+"pone.0080847.g007.png","Neighbour-joining phylogenetic tree (16S rRNA gene sequences) of OTUs related potential fish pathogens and their closest relatives (with accession number).Black circles indicate the most frequent pathogens described in literature. Bootstrap values generated from 500 replicates. Values lower than 50% were omitted."

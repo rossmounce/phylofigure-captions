@@ -1,0 +1,1 @@
+"pone.0025355.g002.png","28S Bayesian phylogram. Posterior probabilities shown for all major clades. Taxon names consist of species, MY (or GMY) number, and collecting locality (see Fig. 1). Immature specimens are denoted with imm; western localities for transvalley taxa denoted with black dots."

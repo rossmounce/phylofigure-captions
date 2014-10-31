@@ -1,0 +1,1 @@
+"FIGURE 94. Strict consensus of 7390 trees from the MP analysis with unambiguous characters supporting nodes and terminaltaxa mapped onto the branches. Filled (black) circles indicate unique synapomorphies, empty circles (white) indicate homoplastic changes. Numbers above and below circles correspond to character numbers and state numbers respectively."

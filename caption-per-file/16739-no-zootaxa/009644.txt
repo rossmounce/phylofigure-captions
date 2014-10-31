@@ -1,0 +1,1 @@
+"FIGURE 10. Bivariate plots with 95% confidence regions for the first two axes derived from scores of PCA analyses for male(A–B) and female (C–D) of Atractus torquatus complex."

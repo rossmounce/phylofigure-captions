@@ -1,0 +1,1 @@
+FIGURE 4. Phylogenetic relationships of 16 species of Heterorhabditis based on analysis of ITS rDNA regions. Caenorhabditis elegans and Pellioditis typica were used as outgroup taxa. Bayesian inference and maximum parsimonyproduced identical trees. Bayesian posterior probability values and bootstrap support values from maximum parsimony are

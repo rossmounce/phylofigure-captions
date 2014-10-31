@@ -1,0 +1,1 @@
+"pone.0061217.g001.png","Example of a phylogenetic sequencing workflow.A diagram of an experimental and analysis workflow for amplicon or shotgun phylogenetic sequencing. The intended role for phyloseq is indicated."

@@ -1,0 +1,1 @@
+"pone.0032152.g003.png","MP phylogram inferred from nuclear data set with gaps coded as missing data. Bootstrap support values (>50%) are indicated at each node."

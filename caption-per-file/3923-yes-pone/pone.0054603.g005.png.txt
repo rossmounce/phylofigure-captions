@@ -1,0 +1,1 @@
+"pone.0054603.g005.png","Phylogenetic tree showing genetic distance among a set of eight diverse soybean cultivars.The phylogenetic tree was constructed on the basis of 10,120 SNPs identified using the GBS approach."

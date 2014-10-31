@@ -1,0 +1,1 @@
+"pone.0047302.g008.png","Estimated divergence times of major clades of Neuropterida.Nodes on the phylogram represent means of the probability distributions for node ages, with time intervals for 95% probability of actual age represented as blue bars. Time-scale units are in millions of years and numbers on nodes represent the estimated age for that divergence."

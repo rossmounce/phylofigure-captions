@@ -1,0 +1,1 @@
+"pone.0036274.g001.png","Hypotheses of phylogenetic relationships among Colobine genera.Trees were reconstructed based on (a) 12 protein-coding mt genes [14], (b) fragment of X-chromosome [18] and 54 nuclear genes [12], (c) complete cytb gene [16] and 7 mt genes [22], (d) 15 mt genes and 43 nuclear genes [23], (e) 83 mobile elements [13], (f) nuclear genes [13]."

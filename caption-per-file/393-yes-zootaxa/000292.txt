@@ -1,0 +1,1 @@
+"FIGURE 132. Most parsimonious tree obtained in the cladistic analysis of Neocoelidiinae (431 steps, IC  =  0.40, IR =  0.73).Nodes numbers are in bold. Bootstrap values > 50% are marked above the branches and Bremer support values > 0 are given below the branches. Type-species of included genera are in bold."

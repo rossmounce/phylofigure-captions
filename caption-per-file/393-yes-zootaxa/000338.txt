@@ -1,0 +1,1 @@
+FIGURE 4. Bayesian Majority Rule (50%) Consensus tree inferred from 18 sequences of a COI fragment (714 bp). Numbersat nodes indicate Bayesian posterior probability / ML bootstrap / MP bootstrap. The scale bar represents 0.03 substitutions persite. h1–h7 are haplotypes. Individual ID numbers of the studied specimens are shown before the species names. Geographical

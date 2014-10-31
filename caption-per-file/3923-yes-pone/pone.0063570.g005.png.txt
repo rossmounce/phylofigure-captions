@@ -1,0 +1,1 @@
+"pone.0063570.g005.png","Likelihood of ancestral host plant in the butterfly phylogeny.Blocks on the right represent the observed states for each subfamily, piecharts represents the scaled likelihood of each potential ancestral character at selected nodes in the phylogeny. Based on the alternative 1 cladogram."

@@ -1,0 +1,1 @@
+"pone.0078955.g004.png","Ultrametric phylogram with branch lengths based on 12S, 16S and CO1 sequences.Colored bars showing proportions of behavioral responses, excluding non-responses, are placed at the tips."

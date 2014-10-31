@@ -1,0 +1,1 @@
+"pone.0044936.g001.png","The maximum likelihood (ML) phylogenetic trees.The tree was constructed by PhyML based on concatenated sequences of 28 core genes (A), SMc00019-truA-thrA concatenate (B) or recA-glnII-atpD concatenate (C). Bootstrap confidence levels ≥50% are indicated at the internodes. Bar = 10% nucleotide divergence."

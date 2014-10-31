@@ -1,0 +1,1 @@
+"pone.0041997.g001.png","The genotype 6 part of the phylogenetic tree constructed using the first 600 bp of the alignment."

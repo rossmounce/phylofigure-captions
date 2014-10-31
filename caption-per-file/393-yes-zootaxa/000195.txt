@@ -1,0 +1,1 @@
+FIGURE 3. Phylogram based on analysis of the combined data set. Values on selected branches refer to parsimony bootstrapvalues above the branch and Bayesian posterior probabilities below.

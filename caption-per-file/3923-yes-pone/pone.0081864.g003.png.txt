@@ -1,0 +1,1 @@
+"pone.0081864.g003.png","Maximum likelihood (ML) phylogenetic tree of mammalian LGP2 gene used for codon-based ML.The TPM2uf+I+G nucleotide substitution model was employed in mammalian LGP2 gene phylogenetic reconstruction. Bootstrap values >50 are indicated on the branches."

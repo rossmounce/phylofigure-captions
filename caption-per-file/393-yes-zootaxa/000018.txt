@@ -1,0 +1,1 @@
+"FIGURE 11. Average node support (Bayesian posterior probability) (blue line) and number of species groups defined (red line)in each node level, counting from the root of the genus Hydroporus in the tree of Fig. 10."

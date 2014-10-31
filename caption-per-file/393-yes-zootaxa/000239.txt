@@ -1,0 +1,1 @@
+FIGURE 3. Maximum-likelihood tree based on COI sequence data with the GTR+I+G substitution model with host taxa indicated on the right; bootstrap values >50% are shown; bootstrap values are shown in the order ME / ML / MP.

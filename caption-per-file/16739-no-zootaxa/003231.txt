@@ -1,0 +1,1 @@
+"FIGURE 4. Networks of the cyt-b and ApoB haplotypes in Blarinella. The missing haplotypes in the network are representedby black dots. Each mutation step is shown as a short line connecting neighboring haplotypes; number of mutations betweenhaplotypes, if greater than one, are indicated near branches. Haplotype designations can be found in Tables 1."

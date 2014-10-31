@@ -1,0 +1,1 @@
+"pone.0018515.g002.png","Phylogenetic analysis. Neighbor-joining phylogram of NS5BΔ21 from this study (G1, G2, G3, G4 and G5) and the same reference sequences as in A). A consensus for genotype 6 has also been included. Bootstrap analysis was performed with 100 repetitions. *  =  bootstrap values of 100% showing the divergence of the different genotypes."

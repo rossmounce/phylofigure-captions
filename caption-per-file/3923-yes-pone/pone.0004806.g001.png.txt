@@ -1,0 +1,1 @@
+"pone.0004806.g001.png","Maximum likelihood tree with bootstrap support values for the M50-P50 transmission chain including control sequences.Only bootstrap support values over 70% are shown. The Bayesian phylogenetic inference produced very similar results."

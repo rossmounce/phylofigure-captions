@@ -1,0 +1,1 @@
+"FIGURE 8. A Bayesian inference (BI) tree for Uca chlorophthalmus (H. Milne Edwards, 1837), U. crassipes (White, 1947)and U. splendida (Stimpson, 1858) from the Indo-West Pacific and outgroups, based on COI gene. Probability values at thenodes represent support values for BI, maximum likelihood (MI) and maximum parsimony (MP). “*” indicates specimens"

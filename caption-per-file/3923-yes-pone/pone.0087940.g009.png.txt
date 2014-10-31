@@ -1,0 +1,1 @@
+"pone.0087940.g009.png","Cathepsins gene phylogeny and amino acid alignment.(A) Bootstrap values next to the nodes represent the percentage of 1000 replicate trees supporting the corresponding clade. (B) The predicted cathepsin proteins from H. chinensis were aligned together with X. tropicalis and X. laevis cathepsin proteins using MAFFT multiple alignment program."

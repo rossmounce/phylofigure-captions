@@ -1,0 +1,1 @@
+"pone.0023499.g005.png","Amino acids at sites with positive selection for change on the cagA phylogenetic tree. The tree is based on nucleotide sequences of the entire gene. Each codon number refers to those in strain 26695. (A) 82nd codon. (B) 634th codon. (C) 910th codon. (D) 911th codon. (E) 989th codon. (F) 1111th codon. (G) 1160th codon."

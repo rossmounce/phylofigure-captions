@@ -1,0 +1,1 @@
+FIGURE 1. Phylogenetic tree (and / or gene tree) depicting inferred relationships of species of Catostomidae using partitionedmaximum-likelihood (ML) analysis of 849 aligned nucleotides from IRBP exon 1 region in data matrix 1 (ML score — 4079.257156).Branch lengths are proportional to number of substitutions under the GTR+G+I model. Numbers on branches are ML bootstrap

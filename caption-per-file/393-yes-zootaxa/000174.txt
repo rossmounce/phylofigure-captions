@@ -1,0 +1,1 @@
+"FIGURE 2. —  Topologies from maximum parsimony, maximum likelihood, and Bayesian analyses. Bootstrap support > 50% and Bayesian posterior probalilities > 0.5 are indicated. *  =  significant support (Posterior probability > 0.95 in Bayesian tree; bootstrap support >70% in maximum parsimony and maximum likelihood trees)."

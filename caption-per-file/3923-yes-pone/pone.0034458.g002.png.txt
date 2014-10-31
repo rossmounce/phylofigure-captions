@@ -1,0 +1,1 @@
+"pone.0034458.g002.png","Unrooted Deinococcales neighbor-joining phylogenetic tree deduced from the nucleotide acid sequences of the orthologous proteins that occur in all 14 sequenced strains from the phylum Deinococcus-Thermus. D. gobiensis and D. radiodurans are most closely related. Numbers indicate bootstrap values below 100."

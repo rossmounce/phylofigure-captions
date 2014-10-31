@@ -1,0 +1,1 @@
+"FIGURE 32. The single most parsimonious tree under equal weights, and implied weights with concavity values k  =  4–9. Unambiguous synapomorphies are mapped on branches. Empty and filled hashmarks represent homoplasious and nonhomoplasious transformations respectively. Large circles on each branch display Bremer support values  /  jackknife frequencies.

@@ -1,0 +1,1 @@
+"pone.0013508.g002.png","Phylogenetic relationships of the endemic East Asian cyprinids inferred from the concatenated sequences. Numbers above branches represent posterior probability of BI, and the bootstrap support of ML and MP, respectively. And on the right side is the phylogram. The symbol “-” indicates the branch was unresolved (bootstrap value less than 70%)."

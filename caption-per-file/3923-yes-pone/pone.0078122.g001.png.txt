@@ -1,0 +1,1 @@
+"pone.0078122.g001.png","Diversity in phylogenetic tree shapes for animal RNA viruses.These phylogenies were generated from samples of genetic sequences from HIV-1 subtype B (HIV1-B), dengue virus serotype 1II (DEN-1II), influenza A virus serotype H3N2 (IAV-H3), and coxsackievirus A24 variant (CA24v)."

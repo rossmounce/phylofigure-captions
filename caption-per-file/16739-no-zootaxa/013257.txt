@@ -1,0 +1,1 @@
+"FIGURE 11. Linear regression between genetic distance (pairwise divergence) and geographic distance.Selva Biological Station-1, 50m, M Molina and H Garcia (AMI-1-W-006-05) [JTLC]. Heredia, La Selva"

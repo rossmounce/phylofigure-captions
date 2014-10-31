@@ -1,0 +1,1 @@
+"pone.0017906.g006.png","The phylogenetic tree generated on 54 single-chromosome prokaryotic taxa by our DCNs-alignment-based inference method. For each organism, the Bergey's code, NCBI ID, and the scientific name are shown. The percentage of the agreed quartets between this tree and the Bergey's taxonomy is 93.45%."

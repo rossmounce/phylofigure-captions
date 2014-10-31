@@ -1,0 +1,1 @@
+"FIGURE 5. Maximum likelihood (ML) tree based on the nucleotides sequence of 1078 bp of mitochondrial (16S + Cytb) geneswith Euphlyctis cyanophlyctis and E. hexadactylus as out groups. The most parsimonious and Bayesian analyses reconstructedthe same tree topology. Numbers near branches represent bootstrap support for ML and MP inferences, and Bayesian posterior"

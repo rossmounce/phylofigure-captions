@@ -1,0 +1,1 @@
+"pone.0081207.g005.png","Phylogenetic relations of sHSPs from cyanophages, prokaryotes and Eukaryotes obtained by maximum likelihood.Only the ACD and C-terminal extension were used for the phylogenetic analysis. WAG Substitution model and the statistical confidence of the nodes were calculated by aLRT test. Branches with aLRT values lower than 50% were collapsed."

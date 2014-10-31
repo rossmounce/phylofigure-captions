@@ -1,0 +1,1 @@
+"pone.0061924.g003.png","MCC phylogeny representing Thrichomys species tree generated with the *Beast method.Numbers above branches are mean height and 95% HPD interval (in brackets) of date estimates and numbers below branches are posterior probability values. This analysis was generated using Beast. Branch colors follow same colors of Figure 2."

@@ -1,0 +1,1 @@
+"FIGURE 4. Maximum likelihood-based COI mitochondrial gene tree for C. fuscus n. sp. and C. anani Poupin & McLaughlin,1998, constructed using RAxML. Values above the branches are maximum likelihood bootstraps, while values below the branches represent Bayesian posterior probabilities."

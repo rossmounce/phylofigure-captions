@@ -1,0 +1,1 @@
+"FIGURE 2. PCA scatter plots of individual scores of the first three principal components of variation in continuous andmeristic traits for H. williamsii sp. nov. and the species with which it was previously confused. See Table 1 for the most highly(+, positively; -, negatively) contributing variables."

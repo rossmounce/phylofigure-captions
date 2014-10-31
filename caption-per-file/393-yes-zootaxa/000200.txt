@@ -1,0 +1,1 @@
+"FIGURE 2. Phylogenetic tree obtained from the BA analysis (burnin, 1000) of the combined molecular dataset (COI, 12S,16S). Numbers for each recovered node represent Bayesian posterior probability."

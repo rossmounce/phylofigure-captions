@@ -1,0 +1,1 @@
+"FIGURE 2. Maximum likelihood topology for Hyperolius. Black circles represent nodes supported by Bayesian posteriorprobabilities (>0.95) and ML bootstrap (>70%), grey circles represent nodes supported by Bayesian posterior probabilitiesonly, and white circles represent nodes supported by ML bootstrap only."

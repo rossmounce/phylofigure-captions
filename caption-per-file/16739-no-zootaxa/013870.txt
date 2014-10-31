@@ -1,0 +1,1 @@
+"FIGURE 3. Power spectrum of the male calling song of I. nagyi sp. n. (recording distance approx. 15 cm, 2024 piont FFTanalysis with Blackmann window function)."

@@ -1,0 +1,1 @@
+"FIGURE 48. Phylogenetic tree of 18S rRNA gene sequences showing the position of Pseudourostyla cristatoides n. sp.based on maximum likelihood (ML) and Bayesian inference (BI). Both bootstrap values for ML and posterior probabilityvalues for BI are represented on branches. Nodes with a solid circle show fully supported branches (100% ML, 100% BI)."

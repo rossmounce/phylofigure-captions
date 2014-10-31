@@ -1,0 +1,1 @@
+"pone.0023479.g005.png","Bayesian inference phylogeny of the SAHs Mesh1 and Mesh1L. The tree was generated from a MrBayes analysis of 179 amino acid positions from 99 sequences. Branch support and length are shown as described in Fig. 4. Sequence names are colored by taxonomic groups."

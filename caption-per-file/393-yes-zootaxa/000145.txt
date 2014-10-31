@@ -1,0 +1,1 @@
+"FIGURE 25. Topology of the Bayesian and ML tree of the molecular dataset. The numbers above branches are values of Bayesian posterior probability (first number, only values above 0.50 are displayed) and ML bootstrap support (second number,only values above 50% are displayed). Roman numbers indicate individual haplotypes as recognized by the TCS analysis."

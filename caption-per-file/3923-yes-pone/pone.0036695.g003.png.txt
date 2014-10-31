@@ -1,0 +1,1 @@
+"pone.0036695.g003.png","A phylogeny of AM fungi found in the 50 m×50 m sampling grid, along with trait values for Root Colonization and Hyphal Length mapped to each taxon.Both traits were phylogenetically conserved."

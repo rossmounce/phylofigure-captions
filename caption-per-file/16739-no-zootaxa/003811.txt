@@ -1,0 +1,1 @@
+"FIGURE 2. Ordination of primary OTUs along the first and third principal components based on a PCA of the charactersEYED, EYEN, TAIL, WSNT, VENT, SUBC, INFRA, TEMP, PARSC, TSTR1, TSTR2 and STR (see Table 2 for explanationof abbreviations). The median PC-values per OTU are shown."

@@ -1,0 +1,1 @@
+"FIGURE 13. Character optimizations for the single most parsimonious tree (Matrix 2) under equal weights (L  =  930, CI  = 0.23, RI  =  0.58). Ambiguous character changes optimized as in Figure 11(continued in Figure 14)."

@@ -1,0 +1,1 @@
+"pone.0080720.g009.png","Bayesian maximum likelihood (ML) phylogenetic tree for the flavivirus-like KF298267 and related sequences.The tree is midpoint-rooted and, for clarity, only posterior probability values >80% are shown."

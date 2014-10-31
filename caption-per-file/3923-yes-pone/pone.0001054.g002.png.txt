@@ -1,0 +1,1 @@
+"pone.0001054.g002.png","Unrooted metazoan-wide phylogeny of opsins, new cnidarian genes in bold, branches proportional to substitutions per site.Circles at nodes indicate Bayesian posterior probabilities (White = 1.0, Red>0.90, Blue>0.80, Green>0.70, Yellow>0.60, Black>0.50). cil = ciliary, rh = rhabdomeric."

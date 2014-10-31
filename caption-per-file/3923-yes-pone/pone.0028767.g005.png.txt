@@ -1,0 +1,1 @@
+"pone.0028767.g005.png","ML phylogenetic tree of bikont eukaryotic SSU rDNA sequences from Alchichica microbialites. Numbers at nodes indicate bootstrap values. Sequences from this study are in bold. Numbers of clones retrieved from each sample for each OTU are given on the right. The scale bar indicates the number of substitutions per site for a unit branch length."

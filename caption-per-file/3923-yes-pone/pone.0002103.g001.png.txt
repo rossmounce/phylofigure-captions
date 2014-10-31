@@ -1,0 +1,1 @@
+"pone.0002103.g001.png","16S rRNA gene-based phylogenetic tree of the delta-Proteobacteria indicates that A. dehalogenans strain 2CP-C is deeply nested in the order Myxococcales.Neighbor-joining bootstrap values (500 replicates) are indicated at each branch. Class, order, and suborder designations are indicated on the right side."

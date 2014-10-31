@@ -1,0 +1,1 @@
+"pone.0051724.g001.png","The PIWIL1 protein.A: Complete amino acid sequence of PIWIL1; PAZ domain, red; PIWI domain, blue. B: A phylogenetic tree of the PIWIL1 protein generated using UPGMA."

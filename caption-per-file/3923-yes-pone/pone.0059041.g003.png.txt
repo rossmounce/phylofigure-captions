@@ -1,0 +1,1 @@
+"pone.0059041.g003.png","Unrooted Neighbor-Joining phylogenetic tree.This was built with Pairwise-Fst genetic distances determined with the 97 ISSR markers analyzed. Note the two groups of populations corresponding to the southern (upper half) and eastern (lower half) regions. All populations harbored B chromosomes excepting Caravaca, Socovos and Claras."

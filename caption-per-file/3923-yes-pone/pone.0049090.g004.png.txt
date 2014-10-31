@@ -1,0 +1,1 @@
+"pone.0049090.g004.png","Maximum Likelihood (RAxML) SSU rDNA phylogeny of Reticulamoeba isolates 1?7 and the six main lineages identified in this study.58 sequences, 1067 positions. ML bootstrap values shown when >70%."

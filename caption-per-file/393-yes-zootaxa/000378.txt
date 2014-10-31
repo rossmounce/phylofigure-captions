@@ -1,0 +1,1 @@
+FIGURE 2. 50% major-rule consensus of the Bayesian tree based on the cyt b data set with 53 haplotypes. Numbers on node indicate Bayesian posterior probabilities. Numbers in brackets represent the samples of each haplotype. Colors representpopulation from different locations (see Fig. 1).

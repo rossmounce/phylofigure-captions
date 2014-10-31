@@ -1,0 +1,1 @@
+"pone.0084298.g001.png","Phylogenetic analysis of Na+/K+-ATPase (Nka) α1, Nkaα3a and Nkaα3b.A phylogenetic tree to illustrate the relationship between Nkaα1, Nkaα3a and Nkaα3b from the brain of Monopterus albus and Nka of selected teleost species. Numbers presented at each branch point represent bootstrap values from 100 replicates. Ciona intestinalis Nka is used as an outgroup."

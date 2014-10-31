@@ -1,0 +1,1 @@
+"pone.0020223.g004.png","Neighbour-joining phylogenetic tree based on atpD gene sequences (about 500 nt) showing the position of species included in this study. Bootstrap values calculated for 1000 replications are indicated. Bar, 2 nt substitution per 100 nt. Accesion numbers from Genbank are given in brackets."

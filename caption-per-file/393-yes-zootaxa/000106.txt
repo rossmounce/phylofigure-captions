@@ -1,0 +1,1 @@
+"FIGURE 9. Maximum likelihood tree of COI sequences of seven Clubiona species. Values above and below the branches represent bootstrap values and posterior probabilities of the Bayesian consensus tree, respectively. Only values above 0.50 are shown, except for the node that was not present in the Bayesian tree, represented by an asterisk (bootstrap value of 0.34)."

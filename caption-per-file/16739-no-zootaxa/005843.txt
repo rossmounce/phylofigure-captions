@@ -1,0 +1,1 @@
+"FIGURE 5. Scatter plot produced from the first two components of the PCA conducted on skull measurement of a series ofGerbilliscus specimens (black circles = 7 specimens of Gerbilliscus sp. studied molecularly; white circles = 19 specimens fromBenin not studied molecularly). Specimen n°1998-067 corresponds to the individual with the 2n = 46 chromosome karyotype"

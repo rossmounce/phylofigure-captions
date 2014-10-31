@@ -1,0 +1,1 @@
+"pone.0056917.g003.png","Neighbour-joining phylogram showing phylogenetic relationships between different large subunit rRNA gene sequences from Pulmonaria officinalis nectar-inhabiting yeasts and reference sequences of the most related type strains found in GenBank.Bootstrap percentages based on 1000 replications are shown at the major nodes."

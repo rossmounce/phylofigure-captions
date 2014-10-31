@@ -1,0 +1,1 @@
+"pone.0054530.g001.png","Type of data sets that might be used with crossed-DPCoA.Distance metrics are used to transform raw data (tables of functional traits, phylogenetic trees, taxonomies) into a symmetrical matrix of distances among species."

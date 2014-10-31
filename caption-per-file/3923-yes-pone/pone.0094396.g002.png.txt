@@ -1,0 +1,1 @@
+"pone.0094396.g002.png","A phylogenetic hypothesis of hupehsuchian relationships.The tree is the single most parsimonious tree (TL = 28, CI = 0.964, RI = 0.957), given the small data matrix. Numbers are Bremer support/bootstrap (n = 1000) values. Parahupehsuchus is derived within a well-defined Hupehsuchia. See Text S1 for the data matrix."

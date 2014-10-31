@@ -1,0 +1,1 @@
+"pone.0022642.g003.png","Phylogenetic mapping of mating pattern and presence of signa in a sample of Lepidoptera. Consensus supertree for 37 taxa (plus outgroup) of Lepidoptera in which female mating pattern (monandry/polyandry) and presence/absence of the female genital trait known as signa are mapped. References of source phylogenies are in Table 1."

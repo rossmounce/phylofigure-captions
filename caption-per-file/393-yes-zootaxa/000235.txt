@@ -1,0 +1,1 @@
+FIGURE 22. Simplified tree resulted from the three weighting schemes. Small numbers above squares: characters; smallnumbers below squares: states; white squares: not uniquely derived apomorphies; black squares: derived apomorphies; thenumbers below branches indicate Bremer support.

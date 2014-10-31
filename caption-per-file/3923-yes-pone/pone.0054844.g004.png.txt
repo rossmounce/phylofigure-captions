@@ -1,0 +1,1 @@
+"pone.0054844.g004.png","Inferred phylogeny of the fimbrial usher proteins of UMN179.Data was analyzed using the Maximum Likelihood method based on the JTT matrix-based model conducted in MEGA5. There were a total of 666 positions in the final dataset and 500 bootstrap replicates were included."

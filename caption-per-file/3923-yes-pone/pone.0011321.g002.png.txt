@@ -1,0 +1,1 @@
+"pone.0011321.g002.png","Phylogenetic tree of hexon sequences and reference strains. Neighbor-joining phylogenetic tree of partial length HAdV hexon gene sequences obtained from 64 clinical samples (blue) and reference strains (red)."

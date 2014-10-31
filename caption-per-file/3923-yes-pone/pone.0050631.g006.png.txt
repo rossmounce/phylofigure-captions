@@ -1,0 +1,1 @@
+"pone.0050631.g006.png","A reticulate phylogenetic hypothesis for PVY genomes.A rooted phylogenetic network, assuming that recombination (blue branches) represents reticulation events. The nodes representing the most recent common ancestors of PVY strains and recombinant clades are indicated with red circles and labels."

@@ -1,0 +1,1 @@
+"pone.0073281.g001.png","Molecular phylogeny of Pseudo-nitzschia species.Maximum Likelihood tree constructed with rbcL (A) and LSU (B) sequences. The strains in bold have been analysed for oxylipin production. The position specificity of the LOX activity detected for the different strains and the still unidentified compounds are mapped with different colours on the trees."

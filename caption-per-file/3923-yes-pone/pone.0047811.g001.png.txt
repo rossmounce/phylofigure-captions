@@ -1,0 +1,1 @@
+"pone.0047811.g001.png","Neighbor-joining phylogenetic tree of pre-miR482 sequences in seed plants obtained from MEGA 5.0.Numbers in the tree represent the bootstrap value (bootstrap values below 50% are not shown at the nodes). The phylogeny of pre-miR1448 of P. trichocarpa is also compared to pre-miR482 sequences in other plants."

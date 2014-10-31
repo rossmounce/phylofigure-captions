@@ -1,0 +1,1 @@
+"pone.0088886.g006.png","Dendrogram showing the phylogenetic relationships among Escherichia coli sequences based on 16S rDNA partial genes.The tree was constructed by using the neighbor-joining method with Mega 5.02."

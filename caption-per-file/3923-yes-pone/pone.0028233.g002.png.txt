@@ -1,0 +1,1 @@
+"pone.0028233.g002.png","BI phylograms of each individual gene (COI, 16S, 28S) and concatenated data set (CON = COI+16S+28S). The numbers on branches are posterior probabilities >50% of BI (in percentage). Species P. alatus and P.excavatus are highlighter a bold."

@@ -1,0 +1,1 @@
+"pone.0030952.g002.png","Shared variation clusters among IR24, MH63, and SH527 and phylogenetic tree analysis. a–c, Synteny analysis results for (a) SNPs, (b) InDels, and (c) SVs. d, Phylogenetic tree constructed by authentic collections of SNPs."

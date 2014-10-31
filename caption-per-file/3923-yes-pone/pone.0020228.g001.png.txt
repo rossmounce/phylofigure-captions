@@ -1,0 +1,1 @@
+"pone.0020228.g001.png","Joint-dated phylogeny of the AMPK subunits. (A) subunit α; (B) subunit β; (C) subunit γ. Sequences obtained in this study are in bold and green; mis-annotated database sequences (NCBI) are in gray. Posterior probabilities are indicated only when "

@@ -1,0 +1,1 @@
+"pone.0042438.g007.png","Expression patterns of TPS genes in Populus (A), Arabidopsis (B), and rice (C).NC indicates plants grown under normal growth conditions. HO, SA, SL, and DR indicate plants treated with H2O2, salicylic acid, NaCl, and drought stressors, respectively. Only bootstrap values >50% are shown in the phylogenetic trees."

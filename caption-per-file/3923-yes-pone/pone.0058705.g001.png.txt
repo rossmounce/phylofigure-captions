@@ -1,0 +1,1 @@
+"pone.0058705.g001.png","Neighbour-joining phylogenetic tree based on 400 bp of env gene sequences of BLV isolates.Euroasian isolates are shown by name. Remaining strains in the tree are shown by accession number and country of origin. Numbers at the branches show bootstrap support. Genotypes are indicated by vertical line."

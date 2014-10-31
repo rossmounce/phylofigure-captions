@@ -1,0 +1,1 @@
+"FIGURE 4. Bayesian tree obtained with a simple codon partition (see text). Bars on branches represent levels of support fromanalyses under the following inference methods (in order): Bayesian with codon partition, Bayesian with single partition,Maximum likelihood with codon partition, ML with single partition, Parsimony. Black =  jack-knife or bootstrap support >70,"

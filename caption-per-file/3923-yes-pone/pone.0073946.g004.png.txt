@@ -1,0 +1,1 @@
+"pone.0073946.g004.png","ML phylogram of the angiosperms using whole chloroplast genome sequences.The tree has two outgroup taxa, Pinusthunbergii and Cycastaitungensis. Numbers above each node indicate the ML bootstrap support values."

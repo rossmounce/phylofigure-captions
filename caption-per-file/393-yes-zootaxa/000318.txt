@@ -1,0 +1,1 @@
+FIGURE 2. Bootstrapped Neighbour Joining (NJ) tree constructed using the Kimura 2-parameter (K2P) genetic distances showing the clustering pattern of the COI DNA midi-barcode region (c. 220 to 416 bp) for 30 specimens belonging to thesubgenus Trichodagmia (highlighted in red). Bootstraps values higher than 80% are shown in the tree below each node.

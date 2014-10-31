@@ -1,0 +1,1 @@
+"FIGURE 44. Relationships of thrips inferred in this study using the Neighbor-Joining method and Kimura 2-parameterpairwise distance of mitochondrial COI sequences. The topology and branch lengths are shown. Bootstrap values are shownnext to the branches. H1, H2 and H3 indicate three different haplotypes in the B. brevitubus clade."

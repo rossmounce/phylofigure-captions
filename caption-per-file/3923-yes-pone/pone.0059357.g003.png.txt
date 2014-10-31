@@ -1,0 +1,1 @@
+"pone.0059357.g003.png","Maximum parsimony (MP) phylogenetic tree of Mad2 full gene sequences of Metarhizium isolates.Bootstrap values are based on 1000 pseudoreplicates."

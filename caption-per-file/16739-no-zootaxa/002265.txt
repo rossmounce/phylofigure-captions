@@ -1,0 +1,1 @@
+"FIGURE 51. Result of PCA for the material of Brunehaldia (raw variables), eigenvalues and percentage of variation explainedby the extracted components.

@@ -1,0 +1,1 @@
+"pone.0011757.g003.png","Fungal community phylogenetic tree.Hierarchical phylogenetic supertree based on nrDNA LSU and ITS sequence data showing the phylogenetic relationships of the ECM fungal species detected in serpentine (grey branches) and non-serpentine soil (black branches) (* indicates species detected in both soil types)."

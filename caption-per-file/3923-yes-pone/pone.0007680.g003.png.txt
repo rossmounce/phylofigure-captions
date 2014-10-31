@@ -1,0 +1,1 @@
+"pone.0007680.g003.png","Arthropod phyla containing HAP2/GCS1-related genes.The tree shows the phylogenetic relationships of arthropods for which assembled genomes sequences are available [18], [19]. Boxed organisms contain HAP2/GCS1-related genes."

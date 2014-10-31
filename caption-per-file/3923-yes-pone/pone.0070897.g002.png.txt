@@ -1,0 +1,1 @@
+"pone.0070897.g002.png","Neighbour-net splits graph of allelic profiles from all 38 STs identified upon MLST analysis of 87 P. acnes isolates.STs representing all phylogroups were identified from this cohort of isolates. Parallelogram structures indicative of recombination events are evident within the major type I and II divisions."
