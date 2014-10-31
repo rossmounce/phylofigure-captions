@@ -1,1 +1,1 @@
-"pone.0054848.g004.png","Indels on the phylogram of the 416-locus Bayesian tree.Hash marks indicate the phylogenetic position of the 13 indels that supported clades found in the DNA sequence data trees. The number of indels supporting each clade is shown."
+Indels on the phylogram of the 416-locus Bayesian tree.Hash marks indicate the phylogenetic position of the 13 indels that supported clades found in the DNA sequence data trees. The number of indels supporting each clade is shown."

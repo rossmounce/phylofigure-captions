@@ -1,1 +1,1 @@
-"pone.0010866.g003.png","Desulfurococcales and Sulfolobales PCNA phylogeny rooted between PCNA C1, C2, and C3.The branching indicated here lends further support to the three PCNA C1, C2, and C3 groupings."
+Desulfurococcales and Sulfolobales PCNA phylogeny rooted between PCNA C1, C2, and C3.The branching indicated here lends further support to the three PCNA C1, C2, and C3 groupings."

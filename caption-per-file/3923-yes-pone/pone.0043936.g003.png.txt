@@ -1,1 +1,1 @@
-"pone.0043936.g003.png","Phylogenetic tree of the nucleotide sequences of transferrin proteins from 38 taxa.The phylogeny of the sequences was estimated using the Bayesian inference implemented in the software MrBayes."
+Phylogenetic tree of the nucleotide sequences of transferrin proteins from 38 taxa.The phylogeny of the sequences was estimated using the Bayesian inference implemented in the software MrBayes."

@@ -1,1 +1,1 @@
-"pone.0066889.g008.png","Maximum likelihood phylogenetic tree of SERPINA2 and SERPINA1.Values shown by nodes are the bootstrap values and posterior probabilities obtained from the Bayesian Inference analysis. AA1– Ancestral SERPINA1 branch for primates. AA2– Ancestral SERPINA2 branch."
+Maximum likelihood phylogenetic tree of SERPINA2 and SERPINA1.Values shown by nodes are the bootstrap values and posterior probabilities obtained from the Bayesian Inference analysis. AA1– Ancestral SERPINA1 branch for primates. AA2– Ancestral SERPINA2 branch."

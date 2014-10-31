@@ -1,1 +1,1 @@
-"pone.0002837.g005.png","Distribution of temperature-dependent sex determination (TSD) in fish.Orders, families and species with TSD are marked in color. Teleost phylogeny based on Nelson [41]."
+Distribution of temperature-dependent sex determination (TSD) in fish.Orders, families and species with TSD are marked in color. Teleost phylogeny based on Nelson [41]."

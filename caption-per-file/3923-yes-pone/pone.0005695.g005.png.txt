@@ -1,1 +1,1 @@
-"pone.0005695.g005.png","The distribution of seed size across the phylogeny."
+The distribution of seed size across the phylogeny."

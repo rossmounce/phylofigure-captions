@@ -1,1 +1,1 @@
-"pone.0017512.g005.png","Bayesian phylogram of Drosophila mre11-like genes. Numbers are posterior credibility values."
+Bayesian phylogram of Drosophila mre11-like genes. Numbers are posterior credibility values."

@@ -1,1 +1,1 @@
-"pone.0093580.g002.png","Phylogenetic NJ trees build from concatenated sequences located in 5 chromosomal arms.Bootstrap values are shown on branches of phylogenetic trees as percentages."
+Phylogenetic NJ trees build from concatenated sequences located in 5 chromosomal arms.Bootstrap values are shown on branches of phylogenetic trees as percentages."

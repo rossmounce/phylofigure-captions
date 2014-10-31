@@ -1,1 +1,1 @@
-"pone.0017512.g007.png","Bayesian phylogram of Drosophila mtrm-like genes. Numbers are posterior credibility values."
+Bayesian phylogram of Drosophila mtrm-like genes. Numbers are posterior credibility values."

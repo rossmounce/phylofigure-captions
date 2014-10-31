@@ -1,1 +1,1 @@
-"pone.0073588.g001.png","Schematic diagram showing the phylogenetic relationship among species used in this study.The reproduction type and availability of genomic data are also indicated. Dashed lines are used to indicate partly ambiguous phylogenetic relations."
+Schematic diagram showing the phylogenetic relationship among species used in this study.The reproduction type and availability of genomic data are also indicated. Dashed lines are used to indicate partly ambiguous phylogenetic relations."

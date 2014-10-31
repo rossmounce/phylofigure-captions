@@ -1,1 +1,1 @@
-"pone.0041284.g002.png","Allocation of the Trypanosoma cruzi isolated in the State of Amazonas into known phylogenetic clusters, most recently classified as TcI to TcVI, based on cytochrome c oxidase subunit II gene sequencing."
+Allocation of the Trypanosoma cruzi isolated in the State of Amazonas into known phylogenetic clusters, most recently classified as TcI to TcVI, based on cytochrome c oxidase subunit II gene sequencing."

@@ -1,1 +1,1 @@
-"pone.0014025.g002.png","Phylogenetic network reconstruction based on DNA sequences of staphylococcal agr genes."
+Phylogenetic network reconstruction based on DNA sequences of staphylococcal agr genes."

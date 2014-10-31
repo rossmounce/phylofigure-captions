@@ -1,1 +1,1 @@
-"pone.0080847.g006.png","Neighbour-joining phylogenetic tree (16S rRNA gene sequences) of the most dominant OTUs in turbot and sole RAS and their closest relatives (accession number-species).Bootstrap values generated from 500 replicates. Values lower than 50% were omitted."
+Neighbour-joining phylogenetic tree (16S rRNA gene sequences) of the most dominant OTUs in turbot and sole RAS and their closest relatives (accession number-species).Bootstrap values generated from 500 replicates. Values lower than 50% were omitted."

@@ -1,1 +1,1 @@
-"pone.0017300.g003.png","The phylogenic tree of repeats HP0227 and HP1342 with their homologs in different genomes. The arrows indicate the homologs in strain HPAG1."
+The phylogenic tree of repeats HP0227 and HP1342 with their homologs in different genomes. The arrows indicate the homologs in strain HPAG1."

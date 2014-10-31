@@ -1,1 +1,1 @@
-"pone.0084796.g003.png","Splits decomposition analysis of L. garvieae population and subgroups.Parallelograms identify interconnected network of phylogenetic relationships between strains."
+Splits decomposition analysis of L. garvieae population and subgroups.Parallelograms identify interconnected network of phylogenetic relationships between strains."

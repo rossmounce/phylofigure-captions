@@ -1,1 +1,1 @@
-"pone.0016889.g010.png","Phylogenetic analysis of the 58 elephant Vκ genes. A phylogenetic tree of the nucleotide sequences of 58 elephant Vκ segments was constructed. The eight Vκ gene families are labeled with Arabic numerals. The credibility value for each node is shown."
+Phylogenetic analysis of the 58 elephant Vκ genes. A phylogenetic tree of the nucleotide sequences of 58 elephant Vκ segments was constructed. The eight Vκ gene families are labeled with Arabic numerals. The credibility value for each node is shown."

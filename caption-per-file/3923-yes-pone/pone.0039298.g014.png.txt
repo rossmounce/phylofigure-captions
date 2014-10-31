@@ -1,1 +1,1 @@
-"pone.0039298.g014.png","Phylogenetic analysis of the 111 guinea pig Vκ genes.A phylogenetic tree of the nucleotide sequences of 111 guinea pig Vκ segments were constructed. The six Vκ gene families are labeled with Arabic numerals."
+Phylogenetic analysis of the 111 guinea pig Vκ genes.A phylogenetic tree of the nucleotide sequences of 111 guinea pig Vκ segments were constructed. The six Vκ gene families are labeled with Arabic numerals."

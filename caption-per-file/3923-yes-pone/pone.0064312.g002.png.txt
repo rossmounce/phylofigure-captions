@@ -1,1 +1,1 @@
-"pone.0064312.g002.png","Estimate of Galliformes phylogeny based upon Bayesian MCMC analysis of the complete data matrix.Groups of taxa are indicated using the same color coding as Figure 1. Support values for this analysis are shown in Figure 3."
+Estimate of Galliformes phylogeny based upon Bayesian MCMC analysis of the complete data matrix.Groups of taxa are indicated using the same color coding as Figure 1. Support values for this analysis are shown in Figure 3."

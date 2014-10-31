@@ -1,1 +1,1 @@
-"pone.0076818.g003.png","Cytb phylogenic analysis.The phylogenic tree based on ML method of the two pre-Columbian Chilean nits based on the partial Cytb gene (270 bp). HL: head louse, BL: body louse. The numbers on the branches are bootstrap values."
+Cytb phylogenic analysis.The phylogenic tree based on ML method of the two pre-Columbian Chilean nits based on the partial Cytb gene (270 bp). HL: head louse, BL: body louse. The numbers on the branches are bootstrap values."

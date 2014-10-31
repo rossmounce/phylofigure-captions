@@ -1,1 +1,1 @@
-"pone.0003903.g003.png","Differences in phylogenetic trees constructed from a) sequence based and b) structure based multiple sequence alignment.The sequences and structures of UPF0201 proteins and both L5 and non-L5 RRM homologs are included in the alignment."
+Differences in phylogenetic trees constructed from a) sequence based and b) structure based multiple sequence alignment.The sequences and structures of UPF0201 proteins and both L5 and non-L5 RRM homologs are included in the alignment."

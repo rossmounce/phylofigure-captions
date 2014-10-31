@@ -1,1 +1,1 @@
-"pone.0082598.g002.png","A phylogenetic tree estimated from C/E1 fragment sequences corresponding to H77 (nucleotide positions, 843–1315)."
+A phylogenetic tree estimated from C/E1 fragment sequences corresponding to H77 (nucleotide positions, 843–1315)."

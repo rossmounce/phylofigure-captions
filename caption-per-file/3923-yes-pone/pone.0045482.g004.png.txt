@@ -1,1 +1,1 @@
-"pone.0045482.g004.png","Comparison of phylogeny and distribution of the terminal lineages of sub-clade A of the Ethira clade as followed from the Bayesian analyses of the Rib COI data set (see Figure 2)."
+Comparison of phylogeny and distribution of the terminal lineages of sub-clade A of the Ethira clade as followed from the Bayesian analyses of the Rib COI data set (see Figure 2)."

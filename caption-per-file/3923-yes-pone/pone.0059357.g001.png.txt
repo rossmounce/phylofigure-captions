@@ -1,1 +1,1 @@
-"pone.0059357.g001.png","Maximum parsimony (MP) phylogenetic tree of 5? EF-1? sequences of Metarhizium isolates.Bootstrap values are based on 1000 pseudoreplicates."
+Maximum parsimony (MP) phylogenetic tree of 5? EF-1? sequences of Metarhizium isolates.Bootstrap values are based on 1000 pseudoreplicates."

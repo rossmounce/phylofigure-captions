@@ -1,1 +1,1 @@
-"pone.0037128.g006.png","Distributions of the allotetraploid gene substitution.The phylogenetic tree was the subtree of that in Figure 5."
+Distributions of the allotetraploid gene substitution.The phylogenetic tree was the subtree of that in Figure 5."

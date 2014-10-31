@@ -1,1 +1,1 @@
-"pone.0089813.g001.png","The distribution of FslK members in fungal species used in this study.The species tree was drawn based on the phylogenetic tree of α-tubulins. The red bar indicates the number of FslK members."
+The distribution of FslK members in fungal species used in this study.The species tree was drawn based on the phylogenetic tree of α-tubulins. The red bar indicates the number of FslK members."

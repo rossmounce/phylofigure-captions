@@ -1,1 +1,1 @@
-"pone.0066900.g002.png","Bayesian phylogram of earwig families based on nuclear sequence data (18S and 28S ribosomal DNA and histone-3).Numbers above branches indicate posterior probabilities."
+Bayesian phylogram of earwig families based on nuclear sequence data (18S and 28S ribosomal DNA and histone-3).Numbers above branches indicate posterior probabilities."

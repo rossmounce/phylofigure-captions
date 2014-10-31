@@ -1,1 +1,1 @@
-"pone.0075985.g001.png","The phylogenetic relationships among the plants with completely sequenced genomes.The number in the table corresponds to the number of PAT genes in 8 subgroups and the total number of PATs in each species."
+The phylogenetic relationships among the plants with completely sequenced genomes.The number in the table corresponds to the number of PAT genes in 8 subgroups and the total number of PATs in each species."

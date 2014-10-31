@@ -1,1 +1,1 @@
-"pone.0039298.g007.png","Phylogenetic analysis of 94 guinea pig VH genes.A phylogenetic tree of nucleotide sequences of 94 guinea pig potentially functional VH segments was constructed. The three identified VH gene families are labeled with Arabic numerals."
+Phylogenetic analysis of 94 guinea pig VH genes.A phylogenetic tree of nucleotide sequences of 94 guinea pig potentially functional VH segments was constructed. The three identified VH gene families are labeled with Arabic numerals."

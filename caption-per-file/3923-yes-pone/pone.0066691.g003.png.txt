@@ -1,1 +1,1 @@
-"pone.0066691.g003.png","A phylogenetic tree that illustrates the relationship between the deduced amino acid sequence of gulonolactone oxidase (Gulo) of Himantura signifer and those of other animals with that of Lysinibacillus sphaericus as the outgroup."
+A phylogenetic tree that illustrates the relationship between the deduced amino acid sequence of gulonolactone oxidase (Gulo) of Himantura signifer and those of other animals with that of Lysinibacillus sphaericus as the outgroup."

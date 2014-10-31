@@ -1,1 +1,1 @@
-"pone.0010866.g004.png","RFCS subunit phylogeny rooted between the Archaea and the eukaryotes.The red stars indicate splits between RFCS and RFCS1 subunit types in the Methanomicrobia, possibly from loss of RFCS2."
+RFCS subunit phylogeny rooted between the Archaea and the eukaryotes.The red stars indicate splits between RFCS and RFCS1 subunit types in the Methanomicrobia, possibly from loss of RFCS2."

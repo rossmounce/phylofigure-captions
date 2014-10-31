@@ -1,1 +1,1 @@
-"pone.0032152.g007.png","ML phylogram inferred from combined data set. Bootstrap support values (>50%) are indicated at each node."
+ML phylogram inferred from combined data set. Bootstrap support values (>50%) are indicated at each node."

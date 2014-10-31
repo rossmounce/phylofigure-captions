@@ -1,1 +1,1 @@
-"pone.0032739.g002.png","Neighbor-Joining phylogenetic tree of noroviruses based on the complete capsid sequence (amino acid). The newly identified feline NoV CU081210E/10/US is in bold. Bootstrap values are shown near branches."
+Neighbor-Joining phylogenetic tree of noroviruses based on the complete capsid sequence (amino acid). The newly identified feline NoV CU081210E/10/US is in bold. Bootstrap values are shown near branches."

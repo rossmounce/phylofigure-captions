@@ -1,1 +1,1 @@
-"pone.0061009.g003.png","The best maximum-likelihood (ML) tree from phylogenetic analysis of near-full-length env nucleotide sequences generated in this study and obtained from the NCBI database.FeLV sequence information obtained from the NCBI database is listed in Table S1."
+The best maximum-likelihood (ML) tree from phylogenetic analysis of near-full-length env nucleotide sequences generated in this study and obtained from the NCBI database.FeLV sequence information obtained from the NCBI database is listed in Table S1."

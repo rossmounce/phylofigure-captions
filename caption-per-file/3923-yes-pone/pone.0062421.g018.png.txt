@@ -1,1 +1,1 @@
-"pone.0062421.g018.png","Results of phylogenetic analysis 3, with new characters added to modified character state codings from analysis 2."
+Results of phylogenetic analysis 3, with new characters added to modified character state codings from analysis 2."

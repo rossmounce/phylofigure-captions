@@ -1,1 +1,1 @@
-"pone.0042396.g001.png","Phylogenetic relationships between the catalases of Rhodococcus equi 103.Catalases were aligned using Phylogeny.fr (http://www.phylogeny.fr/) [37]."
+Phylogenetic relationships between the catalases of Rhodococcus equi 103.Catalases were aligned using Phylogeny.fr (http://www.phylogeny.fr/) [37]."

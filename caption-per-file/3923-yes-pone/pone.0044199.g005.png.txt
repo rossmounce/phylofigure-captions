@@ -1,1 +1,1 @@
-"pone.0044199.g005.png","Phylogenetic tree constructed from 48 concatenated guaA, mutL, and nuoD sequences indicating a star-like phylogeny."
+Phylogenetic tree constructed from 48 concatenated guaA, mutL, and nuoD sequences indicating a star-like phylogeny."

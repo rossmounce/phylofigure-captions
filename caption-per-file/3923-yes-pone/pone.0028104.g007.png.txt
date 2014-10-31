@@ -1,1 +1,1 @@
-"pone.0028104.g007.png","Consensus model of the phylogeny of DNA methyltransferases and Dnmt2 indicating that Dnmt1 and Dnmt2/3 enzymes have an independent origin in the prokaryotic DNA methyltransferases."
+Consensus model of the phylogeny of DNA methyltransferases and Dnmt2 indicating that Dnmt1 and Dnmt2/3 enzymes have an independent origin in the prokaryotic DNA methyltransferases."

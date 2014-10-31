@@ -1,1 +1,1 @@
-"pone.0051781.g008.png","Three most parsimonious trees from phylogenetic analysis.Length  = 374, CI  = 0.4679, RI  = 0.7375, HI  = 0.5508; using 135 morphological characters and 32 taxa of mosasauroids."
+Three most parsimonious trees from phylogenetic analysis.Length  = 374, CI  = 0.4679, RI  = 0.7375, HI  = 0.5508; using 135 morphological characters and 32 taxa of mosasauroids."

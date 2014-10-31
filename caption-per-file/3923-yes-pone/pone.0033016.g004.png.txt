@@ -1,1 +1,1 @@
-"pone.0033016.g004.png","Maximum-likelihood phylogeny of the fHbp DNA sequences. Annotations are for FHbp segments, clonal complex, year of collection, and region of collection. Numbers above the branches are bootstrap percentages."
+Maximum-likelihood phylogeny of the fHbp DNA sequences. Annotations are for FHbp segments, clonal complex, year of collection, and region of collection. Numbers above the branches are bootstrap percentages."

@@ -1,1 +1,1 @@
-"pone.0063895.g007.png","Phylogenetic tree of ABCD subfamily transporters.The phylogenetic tree was obtained as in Figure 1. Numbers around the nodes correspond to bootstrap support values (1.0, i.e., 100%). Accession numbers for all sequences are provided in Table S1."
+Phylogenetic tree of ABCD subfamily transporters.The phylogenetic tree was obtained as in Figure 1. Numbers around the nodes correspond to bootstrap support values (1.0, i.e., 100%). Accession numbers for all sequences are provided in Table S1."

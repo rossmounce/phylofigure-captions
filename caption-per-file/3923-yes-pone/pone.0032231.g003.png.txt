@@ -1,1 +1,1 @@
-"pone.0032231.g003.png","Classification of the European eel Hox clusters. An unrooted phylogenetic tree showing the relationships between A. anguilla and fish Hox9 paralogues. Numbers indicate bootstrap support."
+Classification of the European eel Hox clusters. An unrooted phylogenetic tree showing the relationships between A. anguilla and fish Hox9 paralogues. Numbers indicate bootstrap support."

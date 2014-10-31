@@ -1,1 +1,1 @@
-"pone.0018757.g001.png","Phylogeny of the genus Fukomys. Combined phylogeny based on TTR Intron I, 12sRNA and cyt b sequences; adopted from [27] and [28]."
+Phylogeny of the genus Fukomys. Combined phylogeny based on TTR Intron I, 12sRNA and cyt b sequences; adopted from [27] and [28]."

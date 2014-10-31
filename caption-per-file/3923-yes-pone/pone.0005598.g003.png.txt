@@ -1,1 +1,1 @@
-"pone.0005598.g003.png","Phylogenetic relationships among 58 cpe-positive or cpe-negative C. perfringens strains.The phylogenetic tree was constructed by Clustal W analysis based on the concatenated nucleotide sequence of eight housekeeping genes. The phylogenetic clusters are given on the right."
+Phylogenetic relationships among 58 cpe-positive or cpe-negative C. perfringens strains.The phylogenetic tree was constructed by Clustal W analysis based on the concatenated nucleotide sequence of eight housekeeping genes. The phylogenetic clusters are given on the right."

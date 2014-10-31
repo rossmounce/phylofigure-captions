@@ -1,1 +1,1 @@
-"pone.0000995.g002.png","One phylogenetic hypothesis for taxa included in this study [37], [42].Alternative phylogenies, with Peramelia basal and with different topologies within Peramelia, were also tested."
+One phylogenetic hypothesis for taxa included in this study [37], [42].Alternative phylogenies, with Peramelia basal and with different topologies within Peramelia, were also tested."

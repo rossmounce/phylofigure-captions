@@ -1,1 +1,1 @@
-"pone.0085501.g004.png","Phylogenetic relationships existing between the 90 inbred lines (NJ tree).The phylogenetic tree reflects population structure inferred by Structure with good fidelity. Color-codes are the same as those used in Figure 2. Bootstrap values higher than 50 are shown on branches."
+Phylogenetic relationships existing between the 90 inbred lines (NJ tree).The phylogenetic tree reflects population structure inferred by Structure with good fidelity. Color-codes are the same as those used in Figure 2. Bootstrap values higher than 50 are shown on branches."

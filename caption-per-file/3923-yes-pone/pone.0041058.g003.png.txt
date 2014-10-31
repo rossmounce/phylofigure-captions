@@ -1,1 +1,1 @@
-"pone.0041058.g003.png","Maximum Likelihood phylogeny of mtDNA haplotypes inferred in RaXML.Numbers above branches are bootstrap support values greater than 50%. The length of branch leading to the outgroup is not to scale."
+Maximum Likelihood phylogeny of mtDNA haplotypes inferred in RaXML.Numbers above branches are bootstrap support values greater than 50%. The length of branch leading to the outgroup is not to scale."

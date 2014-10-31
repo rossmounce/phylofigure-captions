@@ -1,1 +1,1 @@
-"pone.0044194.g002.png","The ML-phylogenetic tree for the CytR proteins from the Enterobacteriales and Vibrionales.The tree defined the order of constructing alignments of upstream regions, see text for details."
+The ML-phylogenetic tree for the CytR proteins from the Enterobacteriales and Vibrionales.The tree defined the order of constructing alignments of upstream regions, see text for details."

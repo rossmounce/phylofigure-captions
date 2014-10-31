@@ -1,1 +1,1 @@
-"pone.0093269.g011.png","Open reading frame structure and phylogenetic analysis of the norovirus genomes identified in this study.Analysis and graphical presentation was performed as described in the legend to Figure 7."
+Open reading frame structure and phylogenetic analysis of the norovirus genomes identified in this study.Analysis and graphical presentation was performed as described in the legend to Figure 7."

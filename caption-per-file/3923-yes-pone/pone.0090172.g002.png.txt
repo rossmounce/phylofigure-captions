@@ -1,1 +1,1 @@
-"pone.0090172.g002.png","Bayesian phylogenetic relationships of Fgf21 proteins among vertebrates, in which human growth hormone was used as outgroup.Sequences used for phylogeny construction were shown in supporting information Table S2."
+Bayesian phylogenetic relationships of Fgf21 proteins among vertebrates, in which human growth hormone was used as outgroup.Sequences used for phylogeny construction were shown in supporting information Table S2."

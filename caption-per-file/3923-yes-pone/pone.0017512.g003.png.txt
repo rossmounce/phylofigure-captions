@@ -1,1 +1,1 @@
-"pone.0017512.g003.png","Bayesian phylogram of Drosophila cav-like genes. Numbers are posterior credibility values."
+Bayesian phylogram of Drosophila cav-like genes. Numbers are posterior credibility values."

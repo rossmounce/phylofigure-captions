@@ -1,1 +1,1 @@
-"pone.0005022.g011.png","The panorama phylogenetic diversity and distribution of N2 influenza viruses without (A) and with (B) the isolate A/swine/Quebec/4001/2005(H3N2).Bootstrap values were given at relevant nodes."
+The panorama phylogenetic diversity and distribution of N2 influenza viruses without (A) and with (B) the isolate A/swine/Quebec/4001/2005(H3N2).Bootstrap values were given at relevant nodes."

@@ -1,1 +1,1 @@
-"pone.0003777.g002.png","Phylogenetic tree of eleven isolates and their closest sequences based on the analysis of the 16S rRNA gene sequences.Partial sequences of approximately 600 bp in the 3′ end of full length 16S rDNA were used for constructing the phylogenetic tree."
+Phylogenetic tree of eleven isolates and their closest sequences based on the analysis of the 16S rRNA gene sequences.Partial sequences of approximately 600 bp in the 3′ end of full length 16S rDNA were used for constructing the phylogenetic tree."

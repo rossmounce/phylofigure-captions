@@ -1,1 +1,1 @@
-"pone.0058640.g006.png","ML phylogenetic tree of 16S rRNA sequences from completely sequenced Pseudomonas genomes.Nodal support was evaluated by aLRT. Different species are shown in different colors. Only unique sequences from each genome were included for this analysis."
+ML phylogenetic tree of 16S rRNA sequences from completely sequenced Pseudomonas genomes.Nodal support was evaluated by aLRT. Different species are shown in different colors. Only unique sequences from each genome were included for this analysis."

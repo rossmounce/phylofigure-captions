@@ -1,1 +1,1 @@
-"pone.0020986.g002.png","Midpoint rooted maximum likelihood phylogram of B. plicatilis mtDNA haplotypes. Percent bootstrap support, if >50%, is shown. See Table 1 for pond acronyms."
+Midpoint rooted maximum likelihood phylogram of B. plicatilis mtDNA haplotypes. Percent bootstrap support, if >50%, is shown. See Table 1 for pond acronyms."

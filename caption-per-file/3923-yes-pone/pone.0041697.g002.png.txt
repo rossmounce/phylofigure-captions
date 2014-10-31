@@ -1,1 +1,1 @@
-"pone.0041697.g002.png","Maximum likelihood tree showing phylogenetic relationships among 32 mtDNA Formica haplotypes.Bootstrap percentages with values over 70 are shown for nodes. Specimens refer to Table 1."
+Maximum likelihood tree showing phylogenetic relationships among 32 mtDNA Formica haplotypes.Bootstrap percentages with values over 70 are shown for nodes. Specimens refer to Table 1."

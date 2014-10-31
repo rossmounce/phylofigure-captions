@@ -1,1 +1,1 @@
-"pone.0005022.g008.png","The panorama phylogenetic tree of subtype H9 influenza virus based on the viral HA sequences.The strains marked with “•” were isolated from mammals. Bootstrap values were given at relevant nodes."
+The panorama phylogenetic tree of subtype H9 influenza virus based on the viral HA sequences.The strains marked with “•” were isolated from mammals. Bootstrap values were given at relevant nodes."

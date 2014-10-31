@@ -1,1 +1,1 @@
-"pone.0032739.g001.png","Neighbor-Joining phylogenetic tree of caliciviruses based on the complete genomes (nucleotide). The newly identified feline NoV CU081210E/10/USA is in bold. Bootstrap values are shown near branches."
+Neighbor-Joining phylogenetic tree of caliciviruses based on the complete genomes (nucleotide). The newly identified feline NoV CU081210E/10/USA is in bold. Bootstrap values are shown near branches."

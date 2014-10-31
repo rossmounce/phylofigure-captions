@@ -1,1 +1,1 @@
-"pone.0026619.g003.png","Neighbour-joining tree based on 108 COI sequences belonging to Neogastropoda from a wide phylogenetic range."
+Neighbour-joining tree based on 108 COI sequences belonging to Neogastropoda from a wide phylogenetic range."

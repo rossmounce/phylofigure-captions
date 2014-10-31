@@ -1,1 +1,1 @@
-"pone.0080720.g013.png","Neighbour-joining phylogenetic tree for the RdRp amino acid sequences of the narnavirus-like KF298275 and KF298276 and related sequences.Nodes with <80% bootstrap support have been collapsed."
+Neighbour-joining phylogenetic tree for the RdRp amino acid sequences of the narnavirus-like KF298275 and KF298276 and related sequences.Nodes with <80% bootstrap support have been collapsed."

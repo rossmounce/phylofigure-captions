@@ -1,1 +1,1 @@
-"pone.0080046.g005.png","Phylogenetic analysis of putative glutathione S-transferase (GST) genes in Liposcelis entomophila with other insects.Numbers above the branches show support for the phylogenies from amino acid sequences and only values above 60% are shown."
+Phylogenetic analysis of putative glutathione S-transferase (GST) genes in Liposcelis entomophila with other insects.Numbers above the branches show support for the phylogenies from amino acid sequences and only values above 60% are shown."

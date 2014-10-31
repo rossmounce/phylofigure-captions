@@ -1,1 +1,1 @@
-"pone.0008838.g002.png","The phylogenetic topology of the RH1 gene based on nucleotide sequences.Numbers above the branches are the ML bootstrap values, while those under the branches are the Bayesian posterior probabilities."
+The phylogenetic topology of the RH1 gene based on nucleotide sequences.Numbers above the branches are the ML bootstrap values, while those under the branches are the Bayesian posterior probabilities."

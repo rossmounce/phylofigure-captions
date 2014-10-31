@@ -1,1 +1,1 @@
-"pone.0037362.g005.png","Maximum likelihood phylogram with aLRT branch-support values of the MAFFT alignment of the Stx2-bacteriophage closely related to the O104:H4 outbreak isolates."
+Maximum likelihood phylogram with aLRT branch-support values of the MAFFT alignment of the Stx2-bacteriophage closely related to the O104:H4 outbreak isolates."

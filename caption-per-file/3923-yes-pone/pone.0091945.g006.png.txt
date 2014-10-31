@@ -1,1 +1,1 @@
-"pone.0091945.g006.png","Maximum likelihood phylogeny of UF3GT genes of ‘Zaosu’, ‘Red Zaosu’ and which previous reported in Pyrus and Malus.The tree was produced using MUSCLE and PhyML with the JTT amino acid substitution model."
+Maximum likelihood phylogeny of UF3GT genes of ‘Zaosu’, ‘Red Zaosu’ and which previous reported in Pyrus and Malus.The tree was produced using MUSCLE and PhyML with the JTT amino acid substitution model."

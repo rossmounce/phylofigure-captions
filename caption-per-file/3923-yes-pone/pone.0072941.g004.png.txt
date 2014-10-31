@@ -1,1 +1,1 @@
-"pone.0072941.g004.png","A Bayesian Inference phylogram of all seven C. emma??s haplotypes obtained from MtDNA COI (622 bp) data.Values by nodes indicate Bayesian Inference posterior probabilities (BPP)."
+A Bayesian Inference phylogram of all seven C. emma??s haplotypes obtained from MtDNA COI (622 bp) data.Values by nodes indicate Bayesian Inference posterior probabilities (BPP)."

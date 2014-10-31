@@ -1,1 +1,1 @@
-"pone.0086042.g002.png","Ultrametric tree of species used for leaf trait phylogenetic signal analyses.Foliar %C is provided after the species name as it was the only trait identified as having significant phylogenetic signal. The scale bar (lower left corner) represents 10 million years."
+Ultrametric tree of species used for leaf trait phylogenetic signal analyses.Foliar %C is provided after the species name as it was the only trait identified as having significant phylogenetic signal. The scale bar (lower left corner) represents 10 million years."

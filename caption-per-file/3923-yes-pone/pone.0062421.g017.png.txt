@@ -1,1 +1,1 @@
-"pone.0062421.g017.png","Results of phylogenetic analysis 2, modifying character state codings from Thompson et al. [32]."
+Results of phylogenetic analysis 2, modifying character state codings from Thompson et al. [32]."

@@ -1,1 +1,1 @@
-"pone.0070477.g002.png","Maximum Likelihood phylogram based on a 2101 bp concatamer of 16S rRNA, amiB and empA gene sequences of the Vibrio anguillarum isolates investigated in this study.The percentage of trees from 1000 bootstrap resamples supporting the topology is indicated when above 50."
+Maximum Likelihood phylogram based on a 2101 bp concatamer of 16S rRNA, amiB and empA gene sequences of the Vibrio anguillarum isolates investigated in this study.The percentage of trees from 1000 bootstrap resamples supporting the topology is indicated when above 50."

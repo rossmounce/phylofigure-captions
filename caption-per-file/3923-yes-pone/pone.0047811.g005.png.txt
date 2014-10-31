@@ -1,1 +1,1 @@
-"pone.0047811.g005.png","Neighbor-joining phylogenetic trees based on the MIR482-MIR1448 polycistron and rDNA-ITS combined dataset in Populus.Numbers in the tree represent the bootstrap value (bootstrap values below 50% are not shown at the nodes). Two Salix clones were treated as an outgroup."
+Neighbor-joining phylogenetic trees based on the MIR482-MIR1448 polycistron and rDNA-ITS combined dataset in Populus.Numbers in the tree represent the bootstrap value (bootstrap values below 50% are not shown at the nodes). Two Salix clones were treated as an outgroup."

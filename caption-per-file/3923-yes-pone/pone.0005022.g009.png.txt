@@ -1,1 +1,1 @@
-"pone.0005022.g009.png","The panorama phylogenetic tree of subtypes H4, H6, H8, H11, H12, H13 and H16 based on the viral HA sequences.Bootstrap values were given at relevant nodes."
+The panorama phylogenetic tree of subtypes H4, H6, H8, H11, H12, H13 and H16 based on the viral HA sequences.Bootstrap values were given at relevant nodes."

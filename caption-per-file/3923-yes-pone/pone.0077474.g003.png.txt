@@ -1,1 +1,1 @@
-"pone.0077474.g003.png","Neighbor-Joining tree depicting the phylogenetic relationships between 17 haplotypes of the GmFT2a promoter region."
+Neighbor-Joining tree depicting the phylogenetic relationships between 17 haplotypes of the GmFT2a promoter region."

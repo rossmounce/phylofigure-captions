@@ -1,1 +1,1 @@
-"pone.0022916.g007.png","A cladogram showing the systematic position of Linhevenator tani among the Troodontidae, which is derived from the strict consensus of the 12 most parsimonious trees produced by our analysis of coelurosaurian dinosaur phylogeny (see Methods)."
+A cladogram showing the systematic position of Linhevenator tani among the Troodontidae, which is derived from the strict consensus of the 12 most parsimonious trees produced by our analysis of coelurosaurian dinosaur phylogeny (see Methods)."

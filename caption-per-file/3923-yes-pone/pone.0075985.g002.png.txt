@@ -1,1 +1,1 @@
-"pone.0075985.g002.png","Phylogenetic relationships between the PATs in plants.The amino acid sequences of the plant PATs were aligned using MUSCLE, and the phylogenetic tree was constructed using the neighbour-joining method in the MEGA 5 software."
+Phylogenetic relationships between the PATs in plants.The amino acid sequences of the plant PATs were aligned using MUSCLE, and the phylogenetic tree was constructed using the neighbour-joining method in the MEGA 5 software."

@@ -1,1 +1,1 @@
-"pone.0039298.g016.png","Phylogenetic tree analysis of the 58 guinea pig Vλ genes.A phylogenetic tree of the nucleotide sequences of 58 guinea pig Vλ segments were constructed. The eleven Vλ gene families are labeled with Arabic numerals."
+Phylogenetic tree analysis of the 58 guinea pig Vλ genes.A phylogenetic tree of the nucleotide sequences of 58 guinea pig Vλ segments were constructed. The eleven Vλ gene families are labeled with Arabic numerals."

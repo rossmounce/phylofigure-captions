@@ -1,1 +1,1 @@
-"pone.0032152.g008.png","Bayesian phylogram inferred from combined data set. Bayesian posterior probabilities (>50%) are indicated at each node."
+Bayesian phylogram inferred from combined data set. Bayesian posterior probabilities (>50%) are indicated at each node."

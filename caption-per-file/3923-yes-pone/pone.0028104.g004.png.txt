@@ -1,1 +1,1 @@
-"pone.0028104.g004.png","Compilation of different topologies 100 alternative the phylogenetic trees of prokaryotic and eukaryotic DNA-(cytosine C5)-MTases and Dnmt2 proteins generated during the bootstrapping analysis of the tree shown in Fig. 3."
+Compilation of different topologies 100 alternative the phylogenetic trees of prokaryotic and eukaryotic DNA-(cytosine C5)-MTases and Dnmt2 proteins generated during the bootstrapping analysis of the tree shown in Fig. 3."

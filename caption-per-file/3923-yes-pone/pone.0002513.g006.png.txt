@@ -1,1 +1,1 @@
-"pone.0002513.g006.png","Neighbor-joining phylogenetic tree inferred using resequencing array (RA) data with a quality score threshold of 60 for a subsample of 19 Bacillus strains.Bootstrap values for nodes with greater than 99% support (1000 replicates total) are shown."
+Neighbor-joining phylogenetic tree inferred using resequencing array (RA) data with a quality score threshold of 60 for a subsample of 19 Bacillus strains.Bootstrap values for nodes with greater than 99% support (1000 replicates total) are shown."

@@ -1,1 +1,1 @@
-"pone.0017512.g006.png","Bayesian phylogram of Drosophila polo-like genes. Numbers are posterior credibility values."
+Bayesian phylogram of Drosophila polo-like genes. Numbers are posterior credibility values."

@@ -1,1 +1,1 @@
-"pone.0078297.g002.png","Chalcidoid phylogeny adapted from Heraty et al [20]. Second phylogeny used in the analysis based on Heraty et al [20] RAxML phylogeny produced using combined morphological and molecular data. Colouring and reconstruction of evolutionary transitions as per Figure 1."
+Chalcidoid phylogeny adapted from Heraty et al [20]. Second phylogeny used in the analysis based on Heraty et al [20] RAxML phylogeny produced using combined morphological and molecular data. Colouring and reconstruction of evolutionary transitions as per Figure 1."

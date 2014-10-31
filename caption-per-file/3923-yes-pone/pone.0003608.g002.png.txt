@@ -1,1 +1,1 @@
-"pone.0003608.g002.png","HCV NS5B phylogenetic tree for drug users in Liuzhou, Guangxi, Southern China, with 96 drug users of which 20 are HIV/HCV co-infected (underlined)."
+HCV NS5B phylogenetic tree for drug users in Liuzhou, Guangxi, Southern China, with 96 drug users of which 20 are HIV/HCV co-infected (underlined)."

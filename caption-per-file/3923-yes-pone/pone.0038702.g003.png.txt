@@ -1,1 +1,1 @@
-"pone.0038702.g003.png","Bayesian phylogram for the knotted1 abridged dataset.Selected examples of polyploid individuals are indicated. Outgroups have been omitted for clarity."
+Bayesian phylogram for the knotted1 abridged dataset.Selected examples of polyploid individuals are indicated. Outgroups have been omitted for clarity."

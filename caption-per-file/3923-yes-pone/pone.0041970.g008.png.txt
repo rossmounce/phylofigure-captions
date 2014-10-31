@@ -1,1 +1,1 @@
-"pone.0041970.g008.png","Phylogenetic affiliation of clones within cercozoans.Maximum-likelihood phylogenetic tree constructed with 77 partial and complete cercozoan sequences (1059 informative positions). For further description see legend of Figure 6."
+Phylogenetic affiliation of clones within cercozoans.Maximum-likelihood phylogenetic tree constructed with 77 partial and complete cercozoan sequences (1059 informative positions). For further description see legend of Figure 6."

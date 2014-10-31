@@ -1,1 +1,1 @@
-"pone.0074397.g003.png","Maximum-likelihood phylogeny based on the barcode region of the COI marker.The numbers near the branches represent the bootstrap probabilities."
+Maximum-likelihood phylogeny based on the barcode region of the COI marker.The numbers near the branches represent the bootstrap probabilities."

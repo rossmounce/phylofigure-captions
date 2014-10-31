@@ -1,1 +1,1 @@
-"pone.0076070.g001.png","A phylogenetic hypothesis of Siwalik murine rodents proposed by Jacobs [26] and Jacobs and Downs [19].Solid symbols correspond to those in Figure 4."
+A phylogenetic hypothesis of Siwalik murine rodents proposed by Jacobs [26] and Jacobs and Downs [19].Solid symbols correspond to those in Figure 4."

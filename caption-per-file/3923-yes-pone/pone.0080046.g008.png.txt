@@ -1,1 +1,1 @@
-"pone.0080046.g008.png","Phylogenetic analysis of putative heat shock protein (Hsp) genes in Liposcelis entomophila with other insects.Numbers above the branches show support for the phylogenies from amino acid sequences and only values above 70% are shown."
+Phylogenetic analysis of putative heat shock protein (Hsp) genes in Liposcelis entomophila with other insects.Numbers above the branches show support for the phylogenies from amino acid sequences and only values above 70% are shown."

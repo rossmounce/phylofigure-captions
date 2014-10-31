@@ -1,1 +1,1 @@
-"pone.0048778.g003.png","Maximum-likelihood phylogram infered from 13 protein-coding genes (1st and 2nd codon positions) and two rRNA genes.The tree was rooted by Orthoptera and Psocoptera. Only bootstrap support values above 50% are shown."
+Maximum-likelihood phylogram infered from 13 protein-coding genes (1st and 2nd codon positions) and two rRNA genes.The tree was rooted by Orthoptera and Psocoptera. Only bootstrap support values above 50% are shown."

@@ -1,1 +1,1 @@
-"pone.0038702.g005.png","Bayesian phylogram based on combined nDNA data.Support values are Bayesian posterior probability/maximum parsimony bootstrap/maximum likelihood bootstrap. Outgroups have been omitted for clarity."
+Bayesian phylogram based on combined nDNA data.Support values are Bayesian posterior probability/maximum parsimony bootstrap/maximum likelihood bootstrap. Outgroups have been omitted for clarity."

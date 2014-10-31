@@ -1,1 +1,1 @@
-"pone.0061528.g003.png","Phylogenetic network of 17 species of Nocardiopsis.The phylogenetic network was constructed with SplitsTree software [66], using a concatenated alignment of 1,555 orthologous core proteins as the input. The horizontal bar indicates number of substitutions per site."
+Phylogenetic network of 17 species of Nocardiopsis.The phylogenetic network was constructed with SplitsTree software [66], using a concatenated alignment of 1,555 orthologous core proteins as the input. The horizontal bar indicates number of substitutions per site."

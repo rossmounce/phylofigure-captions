@@ -1,1 +1,1 @@
-"pone.0094899.g003.png","Chromosomal location, phylogenetic relationships and gene structure of the mouse Fbxw12 gene cluster.These genes diverged at intron length, caused in part by internal sequence repeats."
+Chromosomal location, phylogenetic relationships and gene structure of the mouse Fbxw12 gene cluster.These genes diverged at intron length, caused in part by internal sequence repeats."

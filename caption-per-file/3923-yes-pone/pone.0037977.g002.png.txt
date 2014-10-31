@@ -1,1 +1,1 @@
-"pone.0037977.g002.png","Co-extinction and co-survival matrices for a same theoretical phylogeny of five species (A–E) among which species A and B become extinct (daggers).The two matrices differ in structure when either extinctions or survivals are coded by “1”."
+Co-extinction and co-survival matrices for a same theoretical phylogeny of five species (A–E) among which species A and B become extinct (daggers).The two matrices differ in structure when either extinctions or survivals are coded by “1”."

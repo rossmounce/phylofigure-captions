@@ -1,1 +1,1 @@
-"pone.0071162.g002.png","Temporal phylogeny of cichlids pruned to subfamily for Ptychochrominae, Etroplinae, tribes for Pseudocrenilabrinae, Cichlinae.Red clades indicate rate shifts in diversification, with lineages in blue undergoing a background rate of diversification."
+Temporal phylogeny of cichlids pruned to subfamily for Ptychochrominae, Etroplinae, tribes for Pseudocrenilabrinae, Cichlinae.Red clades indicate rate shifts in diversification, with lineages in blue undergoing a background rate of diversification."

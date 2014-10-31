@@ -1,1 +1,1 @@
-"pone.0042760.g006.png","Flow chart of the main steps to quantify standardized effect size of phylogenetic beta diversity."
+Flow chart of the main steps to quantify standardized effect size of phylogenetic beta diversity."

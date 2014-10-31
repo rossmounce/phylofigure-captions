@@ -1,1 +1,1 @@
-"pone.0032980.g003.png","Representational phylogeny showing the taxonomic distribution of fungal endophytes isolated from Sarracenia. Fungi isolated in this study are denoted by an asterisk [*] following the taxa name."
+Representational phylogeny showing the taxonomic distribution of fungal endophytes isolated from Sarracenia. Fungi isolated in this study are denoted by an asterisk [*] following the taxa name."

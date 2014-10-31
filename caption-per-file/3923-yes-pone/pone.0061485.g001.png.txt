@@ -1,1 +1,1 @@
-"pone.0061485.g001.png","The phylogenetic framework showing the alternative positions of Psarolepis romeri.Based on references [3], [6], [7], [8]. Icons of representative fishes after reference [9]."
+The phylogenetic framework showing the alternative positions of Psarolepis romeri.Based on references [3], [6], [7], [8]. Icons of representative fishes after reference [9]."

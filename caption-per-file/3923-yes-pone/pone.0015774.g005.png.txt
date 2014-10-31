@@ -1,1 +1,1 @@
-"pone.0015774.g005.png","Phylogenetic relationships of sponge archaeal amoA genes. Unrooted neighbour-joining phylogenetic tree (▪) HhP92, (□) HhCA, (Δ) PmCA and (◊) PcCA. Hh, Hymeniacidon heliophila; Pm, Paraleucilla magna; Pc, Petromica citrina; CA, Cagarras Archipelago; P92, inner bay site."
+Phylogenetic relationships of sponge archaeal amoA genes. Unrooted neighbour-joining phylogenetic tree (▪) HhP92, (□) HhCA, (Δ) PmCA and (◊) PcCA. Hh, Hymeniacidon heliophila; Pm, Paraleucilla magna; Pc, Petromica citrina; CA, Cagarras Archipelago; P92, inner bay site."

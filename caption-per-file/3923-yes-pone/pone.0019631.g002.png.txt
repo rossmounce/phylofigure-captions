@@ -1,1 +1,1 @@
-"pone.0019631.g002.png","Neighbor-joining phylogeny. Tree derived from 727 concatenated, conserved protein sequences in the complete genomes of 10 Pasteurellaceae species. The scale indicates the number of substitutions per residue. Node support after 1,000 bootstrap replicates is shown."
+Neighbor-joining phylogeny. Tree derived from 727 concatenated, conserved protein sequences in the complete genomes of 10 Pasteurellaceae species. The scale indicates the number of substitutions per residue. Node support after 1,000 bootstrap replicates is shown."

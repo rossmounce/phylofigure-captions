@@ -1,1 +1,1 @@
-"pone.0088805.g001.png","Aeromonas species maximum likelihood phylogenetic tree.E.coli and S. enterica were used as the outgroup. Nodes supported by bootstrap values ?70% are indicated. The scale bar represents 20% sequence divergence."
+Aeromonas species maximum likelihood phylogenetic tree.E.coli and S. enterica were used as the outgroup. Nodes supported by bootstrap values ?70% are indicated. The scale bar represents 20% sequence divergence."

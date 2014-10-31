@@ -1,1 +1,1 @@
-"pone.0029127.g004.png","Neighbor-joining phylogenetic analysis of the glutathione S-transferases from Bactrocera dorsalis (Bd) and Drosophila melanogaster (Dm)."
+Neighbor-joining phylogenetic analysis of the glutathione S-transferases from Bactrocera dorsalis (Bd) and Drosophila melanogaster (Dm)."

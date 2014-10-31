@@ -1,1 +1,1 @@
-"pone.0040153.g003.png","Neighbour-net phylogenetic network based on the 16S-23S ITS of M. vaginatus.Bootstrap supports greater than 50% are indicated. The studied strains are in bold. The geographical origin of each strain is indicated as E – Europe, A – Asia, and NA – North America."
+Neighbour-net phylogenetic network based on the 16S-23S ITS of M. vaginatus.Bootstrap supports greater than 50% are indicated. The studied strains are in bold. The geographical origin of each strain is indicated as E – Europe, A – Asia, and NA – North America."

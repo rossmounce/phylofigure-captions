@@ -1,1 +1,1 @@
-"pone.0093269.g012.png","Open reading frame structure and phylogenetic analysis of the Torque teno virus genomes identified in this study.Analysis and graphical presentation was performed as described in the legend to Figure 7. The TTV reference set was from reference [34]."
+Open reading frame structure and phylogenetic analysis of the Torque teno virus genomes identified in this study.Analysis and graphical presentation was performed as described in the legend to Figure 7. The TTV reference set was from reference [34]."

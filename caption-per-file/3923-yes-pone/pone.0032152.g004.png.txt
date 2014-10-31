@@ -1,1 +1,1 @@
-"pone.0032152.g004.png","ML phylogram inferred from nuclear data set. Bootstrap support values (>50%) are indicated at each node."
+ML phylogram inferred from nuclear data set. Bootstrap support values (>50%) are indicated at each node."

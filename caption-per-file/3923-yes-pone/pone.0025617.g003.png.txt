@@ -1,1 +1,1 @@
-"pone.0025617.g003.png","Radial phylogenetic tree of 70 STs of P. aeruginosa: A 50% majority consensus tree for the clonal genealogies obtained after six ClonalFrame runs."
+Radial phylogenetic tree of 70 STs of P. aeruginosa: A 50% majority consensus tree for the clonal genealogies obtained after six ClonalFrame runs."

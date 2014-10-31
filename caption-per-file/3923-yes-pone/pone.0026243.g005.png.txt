@@ -1,1 +1,1 @@
-"pone.0026243.g005.png","Bayesian phylogenetic tree based of 18 S rRNA, rooted using Upogebia affinis. Scale bar equals percent sequence divergence."
+Bayesian phylogenetic tree based of 18 S rRNA, rooted using Upogebia affinis. Scale bar equals percent sequence divergence."

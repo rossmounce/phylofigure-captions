@@ -1,1 +1,1 @@
-"pone.0086006.g001.png","Nuclear DNA contents in picograms (pg) superimposed on a consensus molecular phylogenetic tree for Bonnemaisoniales on the basis of supported clades in published phylogenies [20], [8], [21], [6]. (○) 1C nuclear DNA contents.(•) 2C nuclear DNA contents."
+Nuclear DNA contents in picograms (pg) superimposed on a consensus molecular phylogenetic tree for Bonnemaisoniales on the basis of supported clades in published phylogenies [20], [8], [21], [6]. (○) 1C nuclear DNA contents.(•) 2C nuclear DNA contents."

@@ -1,1 +1,1 @@
-"pone.0093580.g003.png","Phylogenetic ML trees build from concatenated sequences located in 5 chromosomal arms and the partitioned ML tree for all arms combined.Bootstrap values are shown on branches of phylogenetic trees as percentages."
+Phylogenetic ML trees build from concatenated sequences located in 5 chromosomal arms and the partitioned ML tree for all arms combined.Bootstrap values are shown on branches of phylogenetic trees as percentages."

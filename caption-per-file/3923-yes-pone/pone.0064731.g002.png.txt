@@ -1,1 +1,1 @@
-"pone.0064731.g002.png","A phylogenetic split-network drawn from single nucleotide variants showing the relationship between CC395 isolates.Invasive isolates are coloured in red."
+A phylogenetic split-network drawn from single nucleotide variants showing the relationship between CC395 isolates.Invasive isolates are coloured in red."

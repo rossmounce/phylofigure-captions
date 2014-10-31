@@ -1,1 +1,1 @@
-"pone.0041697.g001.png","Maximum likelihood tree showing phylogenetic relationships among 32 mtDNA Formica haplotypes with the outgroup Polyergus rufescens.Bootstrap percentages with values over 70 are shown for major nodes. Specimens refer to Table 1."
+Maximum likelihood tree showing phylogenetic relationships among 32 mtDNA Formica haplotypes with the outgroup Polyergus rufescens.Bootstrap percentages with values over 70 are shown for major nodes. Specimens refer to Table 1."

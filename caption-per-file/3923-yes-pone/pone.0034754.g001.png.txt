@@ -1,1 +1,1 @@
-"pone.0034754.g001.png","Phylogeny as inferred from the pyr-redox gene. The phylogenetic tree was obtained using maximum likelihood with the amino acid dataset. Numbers at the nodes represent bootstrap percentages. Only high bootstraps (>75) are indicated."
+Phylogeny as inferred from the pyr-redox gene. The phylogenetic tree was obtained using maximum likelihood with the amino acid dataset. Numbers at the nodes represent bootstrap percentages. Only high bootstraps (>75) are indicated."

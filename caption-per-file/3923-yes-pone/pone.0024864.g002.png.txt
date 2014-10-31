@@ -1,1 +1,1 @@
-"pone.0024864.g002.png","One phylogenetic tree of Bayesian inference consensus trees based on the last 30,001 maximum likelihood trees for the combined datasets of ITS, trnL-F, matK, and morphological characters matrix. The Bayesian posterior probability (×100) is given near the node."
+One phylogenetic tree of Bayesian inference consensus trees based on the last 30,001 maximum likelihood trees for the combined datasets of ITS, trnL-F, matK, and morphological characters matrix. The Bayesian posterior probability (×100) is given near the node."

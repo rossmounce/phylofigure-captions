@@ -1,1 +1,1 @@
-"pone.0022483.g004.png","An example showing an advantage of using over . The trees above show the phylogenetic relationships of five genomes. The value next to a genome name is the genome's eigenvector element computed using (top) and (bottom), respectively."
+An example showing an advantage of using over . The trees above show the phylogenetic relationships of five genomes. The value next to a genome name is the genome's eigenvector element computed using (top) and (bottom), respectively."

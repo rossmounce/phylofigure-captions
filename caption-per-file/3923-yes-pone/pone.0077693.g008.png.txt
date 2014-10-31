@@ -1,1 +1,1 @@
-"pone.0077693.g008.png","Strict consensus cladogram illustrating the phylogenetic positions of Yumenornis huangi, Changmaornis houi, and Jiuquanornis niui.Tree length: 842 steps, consistency index = 0.387, retention index = 0.670."
+Strict consensus cladogram illustrating the phylogenetic positions of Yumenornis huangi, Changmaornis houi, and Jiuquanornis niui.Tree length: 842 steps, consistency index = 0.387, retention index = 0.670."

@@ -1,1 +1,1 @@
-"pone.0036972.g002.png","Bacterial phylogenetic tree reconstructed from a concatenated alignment of 50 nearly ubiquitous r-proteins.Green boxes denoted as I, II, and III mark three putative “megaphyla” discussed in the text. Branches having bootstrap support values less than 0.5 were collapsed."
+Bacterial phylogenetic tree reconstructed from a concatenated alignment of 50 nearly ubiquitous r-proteins.Green boxes denoted as I, II, and III mark three putative “megaphyla” discussed in the text. Branches having bootstrap support values less than 0.5 were collapsed."

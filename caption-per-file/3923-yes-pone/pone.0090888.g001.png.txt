@@ -1,1 +1,1 @@
-"pone.0090888.g001.png","An unrooted phylogenetic tree of the barley Csl super family.Phylogenetic analysis was done using MrBayes (codon position model) in TOPALi v2. The posterior probabilities have been multiplied by 100. The scale bar shows expected number of nucleotide substitutions per site."
+An unrooted phylogenetic tree of the barley Csl super family.Phylogenetic analysis was done using MrBayes (codon position model) in TOPALi v2. The posterior probabilities have been multiplied by 100. The scale bar shows expected number of nucleotide substitutions per site."

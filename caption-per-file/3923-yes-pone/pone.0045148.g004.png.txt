@@ -1,1 +1,1 @@
-"pone.0045148.g004.png","Phylogenetic tree constructed by neighbour-joining method based on the sequences of gLYZs from different animals.Numbers at the forks indicate the bootstrap values (in %) out of 1000 replicates. The sequences used to construct phylogeny trees of gLYZs are shown in Table S3."
+Phylogenetic tree constructed by neighbour-joining method based on the sequences of gLYZs from different animals.Numbers at the forks indicate the bootstrap values (in %) out of 1000 replicates. The sequences used to construct phylogeny trees of gLYZs are shown in Table S3."

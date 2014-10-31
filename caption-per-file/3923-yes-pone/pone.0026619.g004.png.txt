@@ -1,1 +1,1 @@
-"pone.0026619.g004.png","Neighbour-joining tree based on 102 16S rDNA sequences belonging to Neogastropoda from a wide phylogenetic range."
+Neighbour-joining tree based on 102 16S rDNA sequences belonging to Neogastropoda from a wide phylogenetic range."

@@ -1,1 +1,1 @@
-"pone.0077457.g002.png","Bayesian molecular phylogeny produced from the combined mitochondrial COI and nuclear 28S rRNA genes.Numbers above branches are posterior probabilities. Outgroup taxa removed for clarity."
+Bayesian molecular phylogeny produced from the combined mitochondrial COI and nuclear 28S rRNA genes.Numbers above branches are posterior probabilities. Outgroup taxa removed for clarity."

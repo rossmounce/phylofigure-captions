@@ -1,1 +1,1 @@
-"pone.0021543.g003.png","Schematic phylogeny of the R haplogroup. The data and tree topology are based on the PhyloTree dataset and branch lengths reflect the differential accumulation of mutations along different lineages."
+Schematic phylogeny of the R haplogroup. The data and tree topology are based on the PhyloTree dataset and branch lengths reflect the differential accumulation of mutations along different lineages."

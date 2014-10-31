@@ -1,1 +1,1 @@
-"pone.0044843.g003.png","Phylogeny and identification of bhlh100/bhlh101 double mutant.Phylogenetic tree of closely related bHLH genes involved in the iron-deficiency response. The tree was created using MUSCLE alignment of protein sequences and neighbor joining (bioNJ) on phylogeny.fr [20]–[22]."
+Phylogeny and identification of bhlh100/bhlh101 double mutant.Phylogenetic tree of closely related bHLH genes involved in the iron-deficiency response. The tree was created using MUSCLE alignment of protein sequences and neighbor joining (bioNJ) on phylogeny.fr [20]–[22]."

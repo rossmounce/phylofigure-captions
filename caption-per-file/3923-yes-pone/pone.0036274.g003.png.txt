@@ -1,1 +1,1 @@
-"pone.0036274.g003.png","Phylogenetic tree inferred from the mt genome sequences.The nodal supports (Bayesian PP/PhyloBayes PP/ML BS/MP BS) are shown above the nodes. Node numbers in the tree indicate the nodes that were used in divergence time estimations and phylogenetic performance evaluation."
+Phylogenetic tree inferred from the mt genome sequences.The nodal supports (Bayesian PP/PhyloBayes PP/ML BS/MP BS) are shown above the nodes. Node numbers in the tree indicate the nodes that were used in divergence time estimations and phylogenetic performance evaluation."

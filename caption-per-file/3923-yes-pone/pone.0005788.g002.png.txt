@@ -1,1 +1,1 @@
-"pone.0005788.g002.png","Phylogenetic relationships of the NA genes.The phylogenetic methods and abbreviations were as described for figure 1."
+Phylogenetic relationships of the NA genes.The phylogenetic methods and abbreviations were as described for figure 1."

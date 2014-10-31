@@ -1,1 +1,1 @@
-"pone.0039495.g003.png","Carbapenemase-hydrolysing oxacillinases phylogenetic tree using neighbour-joining method.*, partial blaOXA-23 sequences found in Uncultured Acinetobacter isolated from groundwater collected from deep tube well in Nepal."
+Carbapenemase-hydrolysing oxacillinases phylogenetic tree using neighbour-joining method.*, partial blaOXA-23 sequences found in Uncultured Acinetobacter isolated from groundwater collected from deep tube well in Nepal."

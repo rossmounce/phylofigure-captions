@@ -1,1 +1,1 @@
-"pone.0033922.g001.png","Phylogenetic tree of X. tropicalis OR1 and OR2 genes. Amino acid sequences of all XtOR2 and all XtOR1 class I (OR(I)), four XtOR1 class II ORs (OR(II)γ), and three melanocortin receptors (MCRs), were used for the phylogenetic analysis."
+Phylogenetic tree of X. tropicalis OR1 and OR2 genes. Amino acid sequences of all XtOR2 and all XtOR1 class I (OR(I)), four XtOR1 class II ORs (OR(II)γ), and three melanocortin receptors (MCRs), were used for the phylogenetic analysis."

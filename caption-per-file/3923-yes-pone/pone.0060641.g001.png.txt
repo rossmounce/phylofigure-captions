@@ -1,1 +1,1 @@
-"pone.0060641.g001.png","A phylogenetic tree based on 5?UTR sequences and showing the genetic relationships between enteroviruses (A).Nucleotide alignment of the 2C region containing the cre element in HEV-C (B)."
+A phylogenetic tree based on 5?UTR sequences and showing the genetic relationships between enteroviruses (A).Nucleotide alignment of the 2C region containing the cre element in HEV-C (B)."

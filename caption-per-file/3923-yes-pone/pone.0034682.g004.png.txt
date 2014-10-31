@@ -1,1 +1,1 @@
-"pone.0034682.g004.png","Phylogeny of insect orders.The phylogeny is based on information and figures in [56], [57], [58], [59]. Macro-evolutionary events in insect evolution, which are cited as being major Bauplan transitions, are mapped on the phylogeny. Pictures are modified after [60]."
+Phylogeny of insect orders.The phylogeny is based on information and figures in [56], [57], [58], [59]. Macro-evolutionary events in insect evolution, which are cited as being major Bauplan transitions, are mapped on the phylogeny. Pictures are modified after [60]."

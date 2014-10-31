@@ -1,1 +1,1 @@
-"pone.0050978.g007.png","Maximum likelihood phylogeny of Ty5 LTR sequences from the reference genome of S. cerevisiae.The phylogeny was created from 268 aligned nucleotide positions. Formatting of the tree and labels is the same as in Figure 4."
+Maximum likelihood phylogeny of Ty5 LTR sequences from the reference genome of S. cerevisiae.The phylogeny was created from 268 aligned nucleotide positions. Formatting of the tree and labels is the same as in Figure 4."

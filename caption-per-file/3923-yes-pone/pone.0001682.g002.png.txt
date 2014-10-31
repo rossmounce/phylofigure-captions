@@ -1,1 +1,1 @@
-"pone.0001682.g002.png","Splitgraph obtained by a NeighborNet analysis with LogDet distances for the Asplenium viride DArT marker set.Sample numbers, symbols and symbol colors as in Figure 1. The dotted ovals mark putative groups found in phylogenetic analyses (Figure 3)."
+Splitgraph obtained by a NeighborNet analysis with LogDet distances for the Asplenium viride DArT marker set.Sample numbers, symbols and symbol colors as in Figure 1. The dotted ovals mark putative groups found in phylogenetic analyses (Figure 3)."

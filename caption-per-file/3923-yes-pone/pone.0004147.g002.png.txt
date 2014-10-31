@@ -1,1 +1,1 @@
-"pone.0004147.g002.png","Phylogenetic relationships among the seven species sampled (modified from the phylogenetic tree of Springer et al. [33])."
+Phylogenetic relationships among the seven species sampled (modified from the phylogenetic tree of Springer et al. [33])."

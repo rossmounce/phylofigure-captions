@@ -1,1 +1,1 @@
-"pone.0025275.g005.png","Comparison of the phylogenetic tree from two regions of the HeV genome a) nucleotides1561–2385 and b) nucleotides 4288–5065."
+Comparison of the phylogenetic tree from two regions of the HeV genome a) nucleotides1561–2385 and b) nucleotides 4288–5065."

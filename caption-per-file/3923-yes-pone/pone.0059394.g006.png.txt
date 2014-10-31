@@ -1,1 +1,1 @@
-"pone.0059394.g006.png","Maximum likelihood phylogenetic analysis of partial VP1 capsid sequences from GIV noroviruses.Bootstrap values are shown as percent values for major nodes. A black star indicates the sequence obtained from this study."
+Maximum likelihood phylogenetic analysis of partial VP1 capsid sequences from GIV noroviruses.Bootstrap values are shown as percent values for major nodes. A black star indicates the sequence obtained from this study."

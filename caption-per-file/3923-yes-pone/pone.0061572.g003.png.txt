@@ -1,1 +1,1 @@
-"pone.0061572.g003.png","MSA-based and ISM-based phylogenetic analysis of H5N1-HPAIV isolated in Egypt.(a) The phylogenetic tree constructed using the IS-based method. (b) Phylogenetic tree constructed by the neighbor-joining method."
+MSA-based and ISM-based phylogenetic analysis of H5N1-HPAIV isolated in Egypt.(a) The phylogenetic tree constructed using the IS-based method. (b) Phylogenetic tree constructed by the neighbor-joining method."

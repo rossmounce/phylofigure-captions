@@ -1,1 +1,1 @@
-"pone.0084098.g003.png","Maximum-likelihood phylogeny on the basis of the concatenated sequences (mitochondrial COI+nuclear rDNA) haplotypes.A 50% majority-rule consensus bootstrap tree is shown."
+Maximum-likelihood phylogeny on the basis of the concatenated sequences (mitochondrial COI+nuclear rDNA) haplotypes.A 50% majority-rule consensus bootstrap tree is shown."

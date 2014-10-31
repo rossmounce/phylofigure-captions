@@ -1,1 +1,1 @@
-"pone.0068518.g004.png","Maximum likelihood phylogeny of 82 plastome genes from 19 asterids (14 families, 6 orders) with completed plastomes.All nodes, except the one uniting Gentianales and Solanales, received 100% bootstrap support in ML/MP analyses."
+Maximum likelihood phylogeny of 82 plastome genes from 19 asterids (14 families, 6 orders) with completed plastomes.All nodes, except the one uniting Gentianales and Solanales, received 100% bootstrap support in ML/MP analyses."

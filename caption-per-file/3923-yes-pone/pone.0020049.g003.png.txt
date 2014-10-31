@@ -1,1 +1,1 @@
-"pone.0020049.g003.png","Maximum likelihood phylogeny of mtDNA haplotypes. Statistical support for the major clades is expressed as the percentage bootstrap proportions of 1000 replicates and as the SH-like approximate likelihood ratio probabilities."
+Maximum likelihood phylogeny of mtDNA haplotypes. Statistical support for the major clades is expressed as the percentage bootstrap proportions of 1000 replicates and as the SH-like approximate likelihood ratio probabilities."

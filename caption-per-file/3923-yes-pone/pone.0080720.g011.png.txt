@@ -1,1 +1,1 @@
-"pone.0080720.g011.png","Neighbour-joining (NJ) phylogenetic tree for the orbivirus-like KF298266 and KF298273 and related sequences.Nodes with <80% bootstrap support have been collapsed."
+Neighbour-joining (NJ) phylogenetic tree for the orbivirus-like KF298266 and KF298273 and related sequences.Nodes with <80% bootstrap support have been collapsed."

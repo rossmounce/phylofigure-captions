@@ -1,1 +1,1 @@
-"pone.0063547.g003.png","Multilocus phylogenetic analysis of the nuc28S-nuc18S-rpb2-mcm7 sequences of 45 members of the Chaetothyriales.Phylogram inferred from the ML analysis with RAxML using the Gtrcat model of evolution. Taxa in bold refer to new combinations or new taxonomic treatments."
+Multilocus phylogenetic analysis of the nuc28S-nuc18S-rpb2-mcm7 sequences of 45 members of the Chaetothyriales.Phylogram inferred from the ML analysis with RAxML using the Gtrcat model of evolution. Taxa in bold refer to new combinations or new taxonomic treatments."

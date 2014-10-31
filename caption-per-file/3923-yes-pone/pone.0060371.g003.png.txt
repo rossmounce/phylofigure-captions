@@ -1,1 +1,1 @@
-"pone.0060371.g003.png","Bayesian consensus phylograms for the combined ITS, matK, and rbcL datasets and 59 morphological character matrix, including 72 genera of Orchidaceae.The Bayesian PP (×100) is provided above the branches."
+Bayesian consensus phylograms for the combined ITS, matK, and rbcL datasets and 59 morphological character matrix, including 72 genera of Orchidaceae.The Bayesian PP (×100) is provided above the branches."

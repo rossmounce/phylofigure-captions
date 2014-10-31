@@ -1,1 +1,1 @@
-"pone.0008795.g001.png","Neighbor joining phylogeny of 21 group B Streptococcus (GBS) strains.Phylogeny is based on concatenated multilocus sequence typing data for seven housekeeping genes and the capsule (cps) genotypes are provided."
+Neighbor joining phylogeny of 21 group B Streptococcus (GBS) strains.Phylogeny is based on concatenated multilocus sequence typing data for seven housekeeping genes and the capsule (cps) genotypes are provided."

@@ -1,1 +1,1 @@
-"pone.0016728.g004.png","A phylogenetic tree based on neighbor-joining (NJ) using ITS data from 14 taxa of Zea and the outgroup taxa of Tripsacum (Trip). Numbers above branches indicate bootstrap values from 1000 replications."
+A phylogenetic tree based on neighbor-joining (NJ) using ITS data from 14 taxa of Zea and the outgroup taxa of Tripsacum (Trip). Numbers above branches indicate bootstrap values from 1000 replications."

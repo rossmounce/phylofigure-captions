@@ -1,1 +1,1 @@
-"pone.0009693.g002.png","HA gene phylogeny of 13 Indian isolates and representative global isolates using the Bayesian method.Scale bar indicates number of nucleotide substitutions per site. The color scheme follows that of Figure 1. Scale bar indicates number of nucleotide substitutions per site."
+HA gene phylogeny of 13 Indian isolates and representative global isolates using the Bayesian method.Scale bar indicates number of nucleotide substitutions per site. The color scheme follows that of Figure 1. Scale bar indicates number of nucleotide substitutions per site."

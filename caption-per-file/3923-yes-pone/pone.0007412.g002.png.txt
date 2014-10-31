@@ -1,1 +1,1 @@
-"pone.0007412.g002.png","Phylogenetic trees of SSU rRNA gene (A) and mitochondrial genome (B).The numbers on the phylogenetic tree represent bootstrap values based on 1000 replications. GenBank accession numbers are in brackets."
+Phylogenetic trees of SSU rRNA gene (A) and mitochondrial genome (B).The numbers on the phylogenetic tree represent bootstrap values based on 1000 replications. GenBank accession numbers are in brackets."

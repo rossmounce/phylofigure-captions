@@ -1,1 +1,1 @@
-"pone.0048778.g004.png","Bayesian phylogram inferred from 13 protein-coding genes (1st and 2nd codon positions) and two rRNA genes.The tree was rooted by Orthoptera and Psocoptera. Only posterior probabilities above 50% are shown."
+Bayesian phylogram inferred from 13 protein-coding genes (1st and 2nd codon positions) and two rRNA genes.The tree was rooted by Orthoptera and Psocoptera. Only posterior probabilities above 50% are shown."

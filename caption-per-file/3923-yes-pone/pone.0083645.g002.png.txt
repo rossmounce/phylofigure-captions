@@ -1,1 +1,1 @@
-"pone.0083645.g002.png","Bayesian phylogenetic tree generated in MrBayes for the cytochrome b gene.Posterior probability values are above nodes. Branch lengths are in substitutions/site."
+Bayesian phylogenetic tree generated in MrBayes for the cytochrome b gene.Posterior probability values are above nodes. Branch lengths are in substitutions/site."

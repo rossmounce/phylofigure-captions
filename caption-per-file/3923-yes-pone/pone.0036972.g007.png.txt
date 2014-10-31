@@ -1,1 +1,1 @@
-"pone.0036972.g007.png","Three-domain phylogenetic tree reconstructed from a concatenated alignment of 32 universal r-proteins.Branches having bootstrap support values less than 0.5 were collapsed."
+Three-domain phylogenetic tree reconstructed from a concatenated alignment of 32 universal r-proteins.Branches having bootstrap support values less than 0.5 were collapsed."

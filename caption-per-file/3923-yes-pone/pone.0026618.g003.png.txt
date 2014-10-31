@@ -1,1 +1,1 @@
-"pone.0026618.g003.png","(A) Evolutionary trajectory of parallel sites from prestin and KCNQ4 mapped onto the bat species phylogeny. Red points indicate the nodes where higher frequency hearing might gain. (B) States of parallel-evolved sites from prestin and KCNQ4 on different branches."
+(A) Evolutionary trajectory of parallel sites from prestin and KCNQ4 mapped onto the bat species phylogeny. Red points indicate the nodes where higher frequency hearing might gain. (B) States of parallel-evolved sites from prestin and KCNQ4 on different branches."

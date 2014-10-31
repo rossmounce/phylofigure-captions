@@ -1,1 +1,1 @@
-"pone.0032450.g030.png","Strict Consensus trees with Bremer support values for the phylogenetic analysis of morphological characters for 16 uropeltid species. (A) All 33 characters included (see Methods S2); (B) characters 4,6,7,11,13 excluded."
+Strict Consensus trees with Bremer support values for the phylogenetic analysis of morphological characters for 16 uropeltid species. (A) All 33 characters included (see Methods S2); (B) characters 4,6,7,11,13 excluded."

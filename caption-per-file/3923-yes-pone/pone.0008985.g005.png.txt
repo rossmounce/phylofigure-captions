@@ -1,1 +1,1 @@
-"pone.0008985.g005.png","The phylogeny over 24 mammal species used in the reconstruction of the boreoeutherian ancestral sequence (Personal communication from Adam Siepel)."
+The phylogeny over 24 mammal species used in the reconstruction of the boreoeutherian ancestral sequence (Personal communication from Adam Siepel)."

@@ -1,1 +1,1 @@
-"pone.0084971.g001.png","Comparative phylogenetic analysis of strains under study and 12 whole genomes from the NCBI database.Phylogenetic tree based on all SNPs of genomes was constructed using the Neighbor-Joining algorithm. Evolutionary distances were calculated using p-distance method."
+Comparative phylogenetic analysis of strains under study and 12 whole genomes from the NCBI database.Phylogenetic tree based on all SNPs of genomes was constructed using the Neighbor-Joining algorithm. Evolutionary distances were calculated using p-distance method."

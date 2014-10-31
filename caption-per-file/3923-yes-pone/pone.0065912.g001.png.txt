@@ -1,1 +1,1 @@
-"pone.0065912.g001.png","Phylogenetic analysis showing evolutionary patterns of AD and ADL in trypanosomatids.Amino acid sequences were retrieved from the Swiss-Prot gene data base and phylogenetic tree was constructed using MEGA 5.0 software showing the different clusters of AD and ADL."
+Phylogenetic analysis showing evolutionary patterns of AD and ADL in trypanosomatids.Amino acid sequences were retrieved from the Swiss-Prot gene data base and phylogenetic tree was constructed using MEGA 5.0 software showing the different clusters of AD and ADL."

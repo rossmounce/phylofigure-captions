@@ -1,1 +1,1 @@
-"pone.0023673.g001.png","Maximum likelihood phylogenetic tree for envelope sequences used in this study. Sequence alignments and ML tree were generated using Seaview 4.0 [49]. Envelopes with the basic position 12 residue are boxed and those lacking the signature are not boxed."
+Maximum likelihood phylogenetic tree for envelope sequences used in this study. Sequence alignments and ML tree were generated using Seaview 4.0 [49]. Envelopes with the basic position 12 residue are boxed and those lacking the signature are not boxed."

@@ -1,1 +1,1 @@
-"pone.0045214.g002.png","Neighbor joining phylogenetic tree showing the interrelationship between isolate Bet001 and top 10 Blast hits from RDP database."
+Neighbor joining phylogenetic tree showing the interrelationship between isolate Bet001 and top 10 Blast hits from RDP database."

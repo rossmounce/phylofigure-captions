@@ -1,1 +1,1 @@
-"pone.0068200.g004.png","Star representation of the phylogeny of ?9 desaturases in social Hymenoptera highlighting the clades that have been chosen for selection analyses (1 to 9).Ant-specific foreground branches are coloured in orange. Non-ant sequences are indicated in blue."
+Star representation of the phylogeny of ?9 desaturases in social Hymenoptera highlighting the clades that have been chosen for selection analyses (1 to 9).Ant-specific foreground branches are coloured in orange. Non-ant sequences are indicated in blue."

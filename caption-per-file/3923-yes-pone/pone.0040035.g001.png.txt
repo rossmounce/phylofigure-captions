@@ -1,1 +1,1 @@
-"pone.0040035.g001.png","Bayesian majority-rule consensus phylogeny of Pgi.Sequences are labeled according to sample site, individual number, and allozyme class (slow, medium-slow, medium, fast denoted by the colored shapes)."
+Bayesian majority-rule consensus phylogeny of Pgi.Sequences are labeled according to sample site, individual number, and allozyme class (slow, medium-slow, medium, fast denoted by the colored shapes)."

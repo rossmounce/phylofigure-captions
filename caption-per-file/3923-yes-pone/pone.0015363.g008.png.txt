@@ -1,1 +1,1 @@
-"pone.0015363.g008.png","Neighbour-joining phylogenetic tree of mtDNA haplotypes of the Pachycondyla apicalis species complex. The tree is rooted using P. villosa and P. goeldi sequences as outgroups 1 and 2, respectively. Numbers indicate bootsrap values. PVE: P. verenae, PAP: P. apicalis."
+Neighbour-joining phylogenetic tree of mtDNA haplotypes of the Pachycondyla apicalis species complex. The tree is rooted using P. villosa and P. goeldi sequences as outgroups 1 and 2, respectively. Numbers indicate bootsrap values. PVE: P. verenae, PAP: P. apicalis."

@@ -1,1 +1,1 @@
-"pone.0069187.g001.png","Rooted (a) and unrooted (b) phylogenetic tree with embeddable (single ) and non-embeddable (multiple ) edges."
+Rooted (a) and unrooted (b) phylogenetic tree with embeddable (single ) and non-embeddable (multiple ) edges."

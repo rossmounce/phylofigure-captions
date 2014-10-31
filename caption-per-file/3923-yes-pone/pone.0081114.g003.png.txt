@@ -1,1 +1,1 @@
-"pone.0081114.g003.png","Hierarchical clustering results.Four examples of clusters are presented; for each, a phylogram and graphical representation of the average of corrected number of instances per age and disease is illustrated. Examples were chosen for their diversity in patterns."
+Hierarchical clustering results.Four examples of clusters are presented; for each, a phylogram and graphical representation of the average of corrected number of instances per age and disease is illustrated. Examples were chosen for their diversity in patterns."

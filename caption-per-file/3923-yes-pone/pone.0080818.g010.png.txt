@@ -1,1 +1,1 @@
-"pone.0080818.g010.png","CDPKs from various species involved in cold, drought and salt stress.Genes are clustered into phylogeny tree with functions marked. Functions of the rice CDPKs and arabidopsis CDPKs are from literature while functions of grape CDPKs are from this study."
+CDPKs from various species involved in cold, drought and salt stress.Genes are clustered into phylogeny tree with functions marked. Functions of the rice CDPKs and arabidopsis CDPKs are from literature while functions of grape CDPKs are from this study."

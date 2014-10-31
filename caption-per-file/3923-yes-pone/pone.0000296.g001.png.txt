@@ -1,1 +1,1 @@
-"pone.0000296.g001.png","Hypothetical phylogeny of seven species (A–G) with Evolutionary Distinctiveness (ED) scores. Numbers above each branch indicate the length; numbers below show the number of descendent species. MYBP, millions of years before present."
+Hypothetical phylogeny of seven species (A–G) with Evolutionary Distinctiveness (ED) scores. Numbers above each branch indicate the length; numbers below show the number of descendent species. MYBP, millions of years before present."

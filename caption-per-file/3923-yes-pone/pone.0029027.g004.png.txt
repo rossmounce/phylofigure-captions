@@ -1,1 +1,1 @@
-"pone.0029027.g004.png","Evolutionary reconstructions of the total number of heart beats during incubation, according to four different phylogenetic hypotheses (A–D). Some major clades are identified in A (equal positioning in B) and C (equal positioning in D)."
+Evolutionary reconstructions of the total number of heart beats during incubation, according to four different phylogenetic hypotheses (A–D). Some major clades are identified in A (equal positioning in B) and C (equal positioning in D)."

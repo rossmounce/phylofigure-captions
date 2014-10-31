@@ -1,1 +1,1 @@
-"pone.0040532.g002.png","Global phylogenetic trees using all identified retroelements of reverse transcriptase sequences in the L. migratoria transcriptome.The red circles indicate the retroelement identified in this study. The names of elements from previously described retrotransposons are given."
+Global phylogenetic trees using all identified retroelements of reverse transcriptase sequences in the L. migratoria transcriptome.The red circles indicate the retroelement identified in this study. The names of elements from previously described retrotransposons are given."

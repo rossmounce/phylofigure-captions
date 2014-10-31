@@ -1,1 +1,1 @@
-"pone.0024471.g004.png","Phylogenetic tree of the HA domain of the A/H1N1 pdm strains from Corsica Island. Maximum likelihood phylogenetic tree analysis of HA genes of A/H1N1 strains circulating in Corsica Island during 2009–2010 season (• represents vaccine strains)."
+Phylogenetic tree of the HA domain of the A/H1N1 pdm strains from Corsica Island. Maximum likelihood phylogenetic tree analysis of HA genes of A/H1N1 strains circulating in Corsica Island during 2009–2010 season (• represents vaccine strains)."

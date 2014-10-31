@@ -1,1 +1,1 @@
-"pone.0067456.g007.png","NJ phylogenetic tree based on Mt-COI protein sequences from four Veneridae species (S. constricta, C. gallina, M. meretrix, and R. philippinarum)."
+NJ phylogenetic tree based on Mt-COI protein sequences from four Veneridae species (S. constricta, C. gallina, M. meretrix, and R. philippinarum)."

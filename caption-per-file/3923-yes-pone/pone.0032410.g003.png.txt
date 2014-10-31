@@ -1,1 +1,1 @@
-"pone.0032410.g003.png","Molecular phylogeny of Macroscelides. Branch support is shown as Bayesian posterior probabilities (×100) followed by bootstrap values in 1000 fast-addition likelihood tree searches. Only Bayesian posteriors greater than 95 and bootstrap support greater than 70 are reported."
+Molecular phylogeny of Macroscelides. Branch support is shown as Bayesian posterior probabilities (×100) followed by bootstrap values in 1000 fast-addition likelihood tree searches. Only Bayesian posteriors greater than 95 and bootstrap support greater than 70 are reported."

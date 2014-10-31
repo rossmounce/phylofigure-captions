@@ -1,1 +1,1 @@
-"pone.0009786.g001.png","Maximum-Likelihood phylogenetic tree of all env sequences used in this study.HXB2 is used as an outgroup to root the tree."
+Maximum-Likelihood phylogenetic tree of all env sequences used in this study.HXB2 is used as an outgroup to root the tree."

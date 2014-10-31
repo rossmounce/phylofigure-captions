@@ -1,1 +1,1 @@
-"pone.0093737.g003.png","Sub-trees of strains that showed geographic clustering.The phylogenetic trees were constructed from partial VP1 coding region (343 nucleotides) using Neighbour-Joining method and the Tamura-Nei substitution model. Bootstrap values >70 are shown."
+Sub-trees of strains that showed geographic clustering.The phylogenetic trees were constructed from partial VP1 coding region (343 nucleotides) using Neighbour-Joining method and the Tamura-Nei substitution model. Bootstrap values >70 are shown."

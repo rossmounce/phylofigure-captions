@@ -1,1 +1,1 @@
-"pone.0030000.g001.png","Simplified phylogenetic relationships among basal ungulates, modified after [36, fig. 11B]."
+Simplified phylogenetic relationships among basal ungulates, modified after [36, fig. 11B]."

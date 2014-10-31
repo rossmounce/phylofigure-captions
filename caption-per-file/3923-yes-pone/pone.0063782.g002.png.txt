@@ -1,1 +1,1 @@
-"pone.0063782.g002.png","Bayesian phylogenetic tree of light (A) and heavy (B) PcPV2 subunits of Pomacea canaliculata.Numbers above branches represent Bayesian posterior probabilities of finding a given clade. Scale bar, 0.2 nucleotide substitution."
+Bayesian phylogenetic tree of light (A) and heavy (B) PcPV2 subunits of Pomacea canaliculata.Numbers above branches represent Bayesian posterior probabilities of finding a given clade. Scale bar, 0.2 nucleotide substitution."

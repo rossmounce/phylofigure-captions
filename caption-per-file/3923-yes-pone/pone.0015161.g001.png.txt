@@ -1,1 +1,1 @@
-"pone.0015161.g001.png","Phylogeny of all species in the community samples. Mean tooth-area character mapped at tips of the phylogeny of all species in the community samples [12] to illustrate non-random variation across the phylogeny of both presence of teeth and tooth area."
+Phylogeny of all species in the community samples. Mean tooth-area character mapped at tips of the phylogeny of all species in the community samples [12] to illustrate non-random variation across the phylogeny of both presence of teeth and tooth area."

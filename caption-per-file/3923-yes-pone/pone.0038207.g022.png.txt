@@ -1,1 +1,1 @@
-"pone.0038207.g022.png","Single most parsimonious tree resulting from maximum parsimony analysis, showing the phylogenetic position of Magnapaulia laticaudus within Lambeosaurinae.The numbers above the branches represent bootstrap frequencies, whereas those below are decay indices (Bremer support)."
+Single most parsimonious tree resulting from maximum parsimony analysis, showing the phylogenetic position of Magnapaulia laticaudus within Lambeosaurinae.The numbers above the branches represent bootstrap frequencies, whereas those below are decay indices (Bremer support)."

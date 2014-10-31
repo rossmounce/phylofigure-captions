@@ -1,1 +1,1 @@
-"pone.0033479.g005.png","Circle phylogram with new generic and clade names. Tree is the same Bayesian phylogram as figured in S3A. All specimens, both genes and all characters included."
+Circle phylogram with new generic and clade names. Tree is the same Bayesian phylogram as figured in S3A. All specimens, both genes and all characters included."

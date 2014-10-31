@@ -1,1 +1,1 @@
-"pone.0042135.g005.png","Time calibrated phylogeny of lambeosaurine hadrosaurids.Data from Prieto-Márquez et al. [52]."
+Time calibrated phylogeny of lambeosaurine hadrosaurids.Data from Prieto-Márquez et al. [52]."

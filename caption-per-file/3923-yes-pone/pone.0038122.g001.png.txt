@@ -1,1 +1,1 @@
-"pone.0038122.g001.png","Neighbour-joining phylogenetic tree based on concatenated recA and atpD gene sequences (520 and 500 nt, respectively) showing the position of strains PETP01 and TPV08. Bootstrap values calculated for 1000 replications are indicated.Bar, 1 nt substitution per 100 nt."
+Neighbour-joining phylogenetic tree based on concatenated recA and atpD gene sequences (520 and 500 nt, respectively) showing the position of strains PETP01 and TPV08. Bootstrap values calculated for 1000 replications are indicated.Bar, 1 nt substitution per 100 nt."

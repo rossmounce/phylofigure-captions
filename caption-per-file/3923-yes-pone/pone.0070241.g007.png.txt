@@ -1,1 +1,1 @@
-"pone.0070241.g007.png","Neighbor-joining phylogeny of C. jejuni based on SNP data.The tree is rooted to the outgroup Campylobacterales bacterium GD 1. The node support (in percent) after 1000 bootstrap replications is indicated. The scale bar represents 0.06 nucleic acid substitutions per site."
+Neighbor-joining phylogeny of C. jejuni based on SNP data.The tree is rooted to the outgroup Campylobacterales bacterium GD 1. The node support (in percent) after 1000 bootstrap replications is indicated. The scale bar represents 0.06 nucleic acid substitutions per site."

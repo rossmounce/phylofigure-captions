@@ -1,1 +1,1 @@
-"pone.0036480.g002.png","Results of the Bayesian inference of phylogeny of combined chloroplast, mitochondria and nuclear sequences.Numbers above branches indicate posterior probabilities. 4586 bp; 26 parsimony-informative sites."
+Results of the Bayesian inference of phylogeny of combined chloroplast, mitochondria and nuclear sequences.Numbers above branches indicate posterior probabilities. 4586 bp; 26 parsimony-informative sites."

@@ -1,1 +1,1 @@
-"pone.0047271.g001.png","A simplified phylogenetic tree of all genotype C HBV sequences."
+A simplified phylogenetic tree of all genotype C HBV sequences."

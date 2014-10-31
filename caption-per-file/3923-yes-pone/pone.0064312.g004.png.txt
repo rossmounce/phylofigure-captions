@@ -1,1 +1,1 @@
-"pone.0064312.g004.png","Estimate of Galliformes phylogeny obtained using NJst.Support values reflect 500 bootstrap replicates. *indicates 100% support. Other species tree methods are included in the Treefile S1. Groups of taxa are indicated using the same color coding as Figure 1."
+Estimate of Galliformes phylogeny obtained using NJst.Support values reflect 500 bootstrap replicates. *indicates 100% support. Other species tree methods are included in the Treefile S1. Groups of taxa are indicated using the same color coding as Figure 1."

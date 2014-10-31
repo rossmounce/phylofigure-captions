@@ -1,1 +1,1 @@
-"pone.0031540.g002.png","The web interface of CRDB. A) Snapshot of the CRDB home page. B) Result of phylogenetic tree of primate T1R genes."
+The web interface of CRDB. A) Snapshot of the CRDB home page. B) Result of phylogenetic tree of primate T1R genes."

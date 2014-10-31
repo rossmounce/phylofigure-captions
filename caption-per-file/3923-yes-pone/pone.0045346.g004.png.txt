@@ -1,1 +1,1 @@
-"pone.0045346.g004.png","The phylogenetic relationships among all seven S. Paratyphi A strains, with S. Typhi CT18 used as an outgroup.The phylogenetic tree was based on 1689 core functional genes using the maximum likelihood method. The outgroup strain is marked in blue."
+The phylogenetic relationships among all seven S. Paratyphi A strains, with S. Typhi CT18 used as an outgroup.The phylogenetic tree was based on 1689 core functional genes using the maximum likelihood method. The outgroup strain is marked in blue."

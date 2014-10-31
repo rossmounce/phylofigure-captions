@@ -1,1 +1,1 @@
-"pone.0085713.g007.png","RASP analysis showing the most likely area optimizations for nodes on the molecular phylogeny for Mallotus (data set 2).Area nomenclature follows Fig. 1."
+RASP analysis showing the most likely area optimizations for nodes on the molecular phylogeny for Mallotus (data set 2).Area nomenclature follows Fig. 1."
